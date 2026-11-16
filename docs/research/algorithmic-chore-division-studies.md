@@ -6,7 +6,7 @@ Research ticket: issue #14. Researched 2026-11-16.
 
 Neither precedent gives study-grade evidence on how two cohabiting partners perceive an algorithmic split of their chores.
 
-- **Lee and Baykal (2017)** did divide household chores with a fair-division algorithm and did measure perceived fairness. But the participants were campus-recruited groups of two to five, described by the authors as "a group of strangers", doing a one-off laboratory task. No couples were studied and two-person groups were not analysed separately.
+- **Lee and Baykal (2017)** did divide household chores with a fair-division algorithm and did measure perceived fairness. But the participants were campus-recruited groups of two to five, described by the authors as "a group of strangers", doing a one-off laboratory task. Couples were not recruited or analysed, and two-person groups were not analysed separately.
 - **Kajibuntan (Igarashi and Yokoyama, 2023)** is an algorithmic chore-division app built for couples. Its full text could not be obtained in this session. The only perception evidence found is a single figure in a university press feature (about 120 users surveyed, around 60% positive), with no instrument, sampling or fairness measure described.
 - **Lee et al. (2019)** divided food items, not chores, among groups of two to seven. It is off-target on both the object divided and the relationship.
 
@@ -19,6 +19,8 @@ So the question "do partners perceive an algorithmically computed chore split as
 | Lee and Baykal (2017), doi:10.1145/2998181.2998230 | Full body text, pages 1 to 12, from the first author's hosted PDF [L17]. Figures and the reference list were not read. |
 | Lee et al. (2019), doi:10.1145/3359284 | Partial full text from the first author's hosted PDF [L19]: pages 1-2, 8-13, 16 and 21 of 26. The Appendix A ratings table and the rest of sections 6-7 were not read. |
 | Igarashi and Yokoyama (2023), doi:10.1609/aaai.v37i13.27075 | **Full text not read.** Read: bibliographic records and paraphrased abstracts [K-MLA], [K-PC], [K-S2]; two institutional secondary descriptions [UT], [JST]; mentions in three citing papers [E24], [I23], [L24]; the live app pages [APP-JP], [APP-EN]; and web-search result summaries attributed to the PDF (unverified, see section 1.3). |
+
+The web pages [UT], [JST], [K-MLA], [K-PC], [K-S2] and the app pages were read through a fetch-and-summarise tool, so only strings that tool returned in quotation marks are quoted here; the two Lee PDFs and the arXiv papers were read as extracted page text.
 
 Routes to the Kajibuntan full text that failed: the AAAI OJS article page and PDF link (both returned an Anubis bot-protection page to every fetch tool), the Semantic Scholar web page (JavaScript check), the ACM Digital Library mirror (HTTP 403), an archive.org copy (fetch not permitted), a direct download (not permitted in this environment), and a title lookup in the alphaXiv index (not indexed; no arXiv version was found). The first author's publications page lists the paper with no PDF link [IG-PUB].
 
@@ -47,8 +49,8 @@ From a University of Tokyo feature article [UT] and a Japan Science and Technolo
 - **Fairness criterion:** envy-freeness. JST: "a situation in which no envy occurs in the distribution to others was defined as fairness" [JST]. The feature quotes Igarashi: "Envy-free division means, under each individual's own evaluation, they feel they've received the best possible share" [UT].
 - **Algorithm:** not specified in either source beyond a mathematical model that allocates by each person's strengths and preferences [UT], [JST].
 - **Output:** pie charts of each person's current burden, then a proposed more balanced split with weekly assignments [UT], [JST].
-- **Reach:** roughly 13,000 unique visitors a month after television coverage [UT].
-- **Perception evidence:** "A survey of about 120 users found positive feedback from around 60%"; some users found the input process too complicated or the chore categories too detailed [UT]. This is the only perception figure found. It is press-reported, concerns the app in general rather than the perceived fairness of the proposed split, and comes with no description of the instrument, the sampling, or whether respondents were both members of a couple. The JST page gives no user data [JST].
+- **Reach:** "The web app had roughly 13,000 unique visitors a month after it was covered by public broadcaster NHK" [UT].
+- **Perception evidence:** "According to a survey conducted with some 120 app users, the developers received positive feedback from around 60% of them. On the other hand, some users found the input process too complicated or the chore categorization too detailed" [UT]. This is the only perception figure found. It is press-reported, concerns the app in general rather than the perceived fairness of the proposed split, and comes with no description of the instrument, the sampling, or whether respondents were both members of a couple. The JST page gives no user data [JST].
 
 ### 1.3 Unverified search snippets attributed to the PDF
 
@@ -167,7 +169,7 @@ These are inferences from the findings above, not findings of the papers.
 
 ## Sources
 
-All URLs below were returned by tools in this session.
+All URLs below were returned by, or successfully fetched with, tools in this session.
 
 - [L17] Lee and Baykal (2017), doi:10.1145/2998181.2998230. Read at https://minlee.ischool.utexas.edu/materials/Publication/2017-CSCW-AlgorithmicMediation_Fairness.pdf
 - [L19] Lee et al. (2019), doi:10.1145/3359284. Read at https://minlee.ischool.utexas.edu/materials/Publication/2019-CSCW-Al_ProceduralFairness.pdf
