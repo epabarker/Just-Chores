@@ -21,9 +21,27 @@
   "branch": "research/perceived-fairness-fulltext",
   "ticket": "#21 What makes a division of chores feel fair, read in full (map #1)",
   "created": "2026-11-18T18:38:52Z",
-  "updated": "2026-11-18T18:42:56Z",
+  "updated": "2026-11-18T18:45:29Z",
   "queries": [],
   "coverage_gaps": [],
   "passes": [],
-  "corrections": []
+  "corrections": [
+    {
+      "date": "2026-11-18T18:45:29Z",
+      "pass": 0,
+      "applied": [
+        "C1.text",
+        "C2.text",
+        "C3.text",
+        "C4.text",
+        "C5.text",
+        "C5.weight",
+        "C6.text",
+        "C6.weight",
+        "C7 added",
+        "C8 added",
+        "C9 added"
+      ]
+    }
+  ]
 }

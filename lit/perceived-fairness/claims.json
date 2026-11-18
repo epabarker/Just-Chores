@@ -1,56 +1,83 @@
 {
   "C1": {
     "id": "C1",
-    "text": "A partner's perceived fairness of the allocation is predicted by comparison referents, entitlement and justifications (distributive justice framework), not by the actual split alone: a partner who carries the larger share can perceive the allocation as fair.",
+    "text": "The actual split of chores explains only a small part of the variation in a partner's perceived fairness.",
     "weight": "decisive",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
   },
   "C2": {
     "id": "C2",
-    "text": "A partner's perceived fairness of the allocation predicts that partner's relationship satisfaction better than the actual split does, and the split's effect on satisfaction runs through perceived fairness.",
+    "text": "Comparison referents predict a partner's perceived fairness after the actual split is accounted for.",
     "weight": "decisive",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
   },
   "C3": {
     "id": "C3",
-    "text": "Each partner over-claims their own contribution, so the two partners' self-reported shares of chores add to more than the whole, and an allocation cannot rest on each partner's unaided recall of who does what.",
+    "text": "The justifications a partner accepts for an unequal split predict that partner's perceived fairness after the actual split is accounted for.",
     "weight": "decisive",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
   },
   "C4": {
     "id": "C4",
-    "text": "Perceived fairness depends on burden, not on count or duration of chores alone: which chores are done, how they are experienced, cognitive labour and the partner's other demands shape whether an allocation is judged fair.",
+    "text": "A partner's perceived fairness is more strongly associated with that partner's relationship satisfaction than the actual split is.",
     "weight": "decisive",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
   },
   "C5": {
     "id": "C5",
-    "text": "Perceived fairness has been measured by a small number of recurring instruments (global single-item fairness, multi-item scales, referent-specific or self-versus-partner items); the measure chosen changes what is found.",
-    "weight": "decisive",
+    "text": "The association between the actual split and relationship satisfaction is mediated by perceived fairness.",
+    "weight": "supporting",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
   },
   "C6": {
     "id": "C6",
-    "text": "Under equity theory, perceived inequity arises both for the under-benefited and the over-benefited partner, and the under-benefited partner's distress is larger; both partners' perceived fairness matters for the couple.",
-    "weight": "supporting",
+    "text": "Each partner over-claims their own contribution: the two partners' self-reported shares of chores sum to more than the whole.",
+    "weight": "decisive",
     "waived": null,
-    "user_edited": false,
+    "user_edited": true,
     "added_pass": 1,
     "added_by": "agent"
+  },
+  "C7": {
+    "id": "C7",
+    "text": "Which chores a partner does predicts that partner's perceived fairness beyond the time the chores take.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": true,
+    "added_pass": 0,
+    "added_by": "user"
+  },
+  "C8": {
+    "id": "C8",
+    "text": "Studies measure perceived fairness of the division of chores mainly with a single self-report item.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": true,
+    "added_pass": 0,
+    "added_by": "user"
+  },
+  "C9": {
+    "id": "C9",
+    "text": "A partner who is over-benefited by the allocation reports lower relationship satisfaction than a partner in an equitable allocation.",
+    "weight": "supporting",
+    "waived": null,
+    "user_edited": true,
+    "added_pass": 0,
+    "added_by": "user"
   }
 }
