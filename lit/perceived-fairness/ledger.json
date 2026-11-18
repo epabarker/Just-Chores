@@ -4,7 +4,7 @@
   "decision_served": "What a method for allocating chores between two cohabiting partners must measure, target and include so that each partner perceives the allocation as fair; feeds the burden and fairness model and the participation protocol of the methodology spec.",
   "pico": "P: adult partners in cohabiting or married couples (two-partner households) who share chores. I/E: the actual allocation of household labour (time, count, task type, cognitive labour), comparison referents, entitlement and justifications, each partner's egocentric over-claiming of their own contribution. C: equal versus unequal splits; fair-feeling versus unfair-feeling allocations; self-report versus partner or diary report of contribution. O: each partner's perceived fairness of the allocation; relationship satisfaction (marital quality, conflict, instability); how perceived fairness has been measured.",
   "status": "awaiting_papers",
-  "pass_number": 1,
+  "pass_number": 2,
   "max_passes": 4,
   "caps": {
     "reads_per_pass": 10,
@@ -21,7 +21,7 @@
   "branch": "research/perceived-fairness-fulltext",
   "ticket": "#21 What makes a division of chores feel fair, read in full (map #1)",
   "created": "2026-11-18T18:38:52Z",
-  "updated": "2026-11-18T19:54:14Z",
+  "updated": "2026-11-18T20:15:30Z",
   "queries": [
     {
       "source": "europepmc",
@@ -405,7 +405,8 @@
     "Europe PMC indexes almost no sociology of the family (Q1 returned only off-topic reviews), so OpenAlex and Crossref carried the search; Mikula 1998, Major 1993, Wilkie 1998 and Lennon 1994 were not returned by any topic query (sentinels missed).",
     "No meta-analysis of perceived fairness of household labour and relationship satisfaction was found in two searches (Q16, Q17).",
     "Mikula 1998, Ross & Sicoly 1979 and Kamo 2000 have no abstract in OpenAlex, Crossref or Semantic Scholar, so no abstract note could be written for them; Wilkie 1998 has only a citation line as its stored abstract.",
-    "Not requested this pass for want of request slots (papers_per_request 10): Coltrane 2000 (review, C7/C8), Kamo 2000 (C6), Petts 2025 (C7), Greenstein 1996, Grote 2002, Thompson 1991, Hawkins 1995, Major 1993, Lennon 1994 (sentinels, C2/C3/C7)."
+    "Not requested this pass for want of request slots (papers_per_request 10): Coltrane 2000 (review, C7/C8), Kamo 2000 (C6), Petts 2025 (C7), Greenstein 1996, Grote 2002, Thompson 1991, Hawkins 1995, Major 1993, Lennon 1994 (sentinels, C2/C3/C7).",
+    "Blair & Johnson 1992 was added in pass 2 by title lookup (cited by Shelton & John 1996, Mikula 1998 and Gager 1998 as the source for task-type findings on C7); Crossref holds no abstract for it."
   ],
   "passes": [
     {
@@ -416,6 +417,15 @@
       "status": "awaiting_papers",
       "sequential_fallback": false,
       "reads": 9
+    },
+    {
+      "n": 2,
+      "started": "2026-11-18T20:02:27Z",
+      "branch": "research/perceived-fairness-fulltext",
+      "ended": "2026-11-18T20:14:28Z",
+      "status": "awaiting_papers",
+      "sequential_fallback": false,
+      "reads": 10
     }
   ],
   "corrections": [

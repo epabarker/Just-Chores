@@ -7,7 +7,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Weakly supported by single studies: the actual split plus controls explains about 5 to 19% of a partner's perceived fairness, though its slope is steep and partners at similar splits differ in perceived fairness."
+    "reading": "Whole-model variance explained is small (about 5% to 19% in the studies that report it, and at most 20% in most studies the review cites), so the actual split explains a small part of a partner's perceived fairness; no study reports the split's own share, and its slope can still be steep."
   },
   "C2": {
     "id": "C2",
@@ -17,7 +17,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Partly supported by one study (Italian survey): comparison referents predict perceived fairness net of a self-reported split for male referents, not for female ones, with possible self-serving bias; no review-level evidence."
+    "reading": "Weakly supported: one Italian survey finds referents predict a partner's perceived fairness net of the split for male referents only, with self-serving referent choice suspected; the reviews report only zero-order associations and the direction is undetermined."
   },
   "C3": {
     "id": "C3",
@@ -27,7 +27,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "No direct test in the nine papers read; one Swedish study is mixed (reduced employment is not accepted as a justification). Gager 1998 and Perales 2014 are requested."
+    "reading": "Open: no paper read in full tests accepted justifications against perceived fairness net of the split; the nearest evidence is that a partner's voice in how chores are divided predicts it, and a reduced-employment justification did not work in one Swedish study."
   },
   "C4": {
     "id": "C4",
@@ -37,7 +37,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Open: three single studies disagree (the 30-country study favours perceived fairness over the split; the German panel and UK couple study do not) and none compares the two associations directly."
+    "reading": "Probably true on average, mostly for women: fairness outranks the split in the pooled models of three studies and in the reviews, but it reverses for Jewish women, for men in one study and for working-class wives, and no study tests the difference on a common scale."
   },
   "C5": {
     "id": "C5",
@@ -47,7 +47,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Not formally tested in any paper read; only a coefficient-change argument in one cross-sectional preprint, and two papers state that mediation is untested. Lavee & Katz 2002 (abstract only) claims it."
+    "reading": "Partly supported for women (Connecticut, pooled Israeli women) and not for men; the mediation tests are cross-sectional coefficient comparisons with no time ordering, and the review says little systematic study exists."
   },
   "C6": {
     "id": "C6",
@@ -57,7 +57,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Weak support from one UK couple study: the two partners' own shares of chores sum to 102 to 107% (largest for cognitive labour); an Italian survey shows no excess on average; unconfirmed by a matched-couple test."
+    "reading": "Supported in direction by three dyadic studies: partners' shares sum above the whole by a few percentage points (4.67 of 150 units in 1979 couples; 103.9% overall and 107.0% for cognitive labour in 235 UK couples); chores-only evidence is thin and two samples show no excess."
   },
   "C7": {
     "id": "C7",
@@ -67,7 +67,7 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "No direct test in the papers read: a Dutch study finds housework and childcare equally related to unfairness but cannot separate chore type from time; Carlson 2018 is requested."
+    "reading": "Open: no paper read in full separates which chores a partner does from the time they take; the reviews report from other studies that female-typed chores predict perceived fairness best, by comparison of correlations only."
   },
   "C8": {
     "id": "C8",
@@ -77,7 +77,7 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "Supported as a practice, not as a prevalence: 7 of the 8 papers read that measure perceived fairness use one self-report item, but no review of measures was read."
+    "reading": "Supported: Mikula's review says the one-item NSFH fairness measure underlies most recent studies, and ten of twelve primary studies read in full use one self-report item; the exceptions are a two-item and a nine-item measure, and item wording differs."
   },
   "C9": {
     "id": "C9",
@@ -87,6 +87,6 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "Contradicted for chores in one volunteer survey and supported for 'a bit less than fair share' in a German panel; no study contrasts over-benefit with an equitable allocation, so the claim stays open."
+    "reading": "Little evidence, mixed: one US survey finds no satisfaction penalty for an over-benefited partner on chores, one German panel finds one for doing a bit less than a fair share, two others find similar quality or a null, and four studies cannot test it."
   }
 }
