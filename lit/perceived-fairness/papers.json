@@ -52,13 +52,14 @@
   },
   "10.2307_2580391": {
     "id": "10.2307_2580391",
-    "status": "backlog",
+    "status": "screened_out",
     "added_pass": 1,
     "doi": "10.2307/2580391",
     "title": "Gender Ideology and Perceptions of the Fairness of the Division of Household Labor: Effects on Marital Quality",
     "first_author": "Greenstein",
     "year": 1996,
-    "sentinel": true
+    "sentinel": false,
+    "reason": "duplicate: the JSTOR DOI of the paper recorded as 10.1093_sf_74.3.1029"
   },
   "10.2307_353530": {
     "id": "10.2307_353530",
@@ -78,6 +79,16 @@
     "title": "Relative Fairness and the Division of Housework: The Importance of Options",
     "first_author": "Lennon",
     "year": 1994,
+    "sentinel": true
+  },
+  "10.1093_sf_74.3.1029": {
+    "id": "10.1093_sf_74.3.1029",
+    "status": "backlog",
+    "added_pass": 0,
+    "doi": "10.1093/sf/74.3.1029",
+    "title": "Gender Ideology and Perceptions of the Fairness of the Division of Household Labor: Effects on Marital Quality",
+    "first_author": "Greenstein",
+    "year": 1996,
     "sentinel": true
   }
 }
