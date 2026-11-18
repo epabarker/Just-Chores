@@ -1,7 +1,7 @@
 {
   "10.1023_a-1023282615718": {
     "id": "10.1023_a-1023282615718",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1023/a:1023282615718",
     "title": "Division of Household Labor and Perceived Justice: A Growing Field of Research",
@@ -23,7 +23,9 @@
       "C8"
     ],
     "why_abstract_insufficient": "Mikula 1998 is the sentinel review of the perceived-justice literature on household labour; no index holds an abstract, and the full text is the only review-level source for what predicts perceived fairness (referents, justifications), for over-claiming, and for which fairness measures were used.",
-    "requested_in_pass": 1
+    "requested_in_pass": 1,
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1177_019251391012002003": {
     "id": "10.1177_019251391012002003",
@@ -82,7 +84,7 @@
   },
   "10.1037_0022-3514.37.3.322": {
     "id": "10.1037_0022-3514.37.3.322",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1037/0022-3514.37.3.322",
     "title": "Egocentric biases in availability and attribution.",
@@ -103,7 +105,9 @@
       "C6"
     ],
     "why_abstract_insufficient": "Ross & Sicoly 1979 is the sentinel egocentric-bias paper and reports, for couples, whether the two partners' claimed shares add to more than 100 percent; no index holds an abstract, so the sum test cannot be checked at all.",
-    "requested_in_pass": 1
+    "requested_in_pass": 1,
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 98 with first author on page 1)"
   },
   "10.2307_2580391": {
     "id": "10.2307_2580391",
@@ -118,7 +122,7 @@
   },
   "10.2307_353530": {
     "id": "10.2307_353530",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.2307/353530",
     "title": "Gender and Fairness: Marital Satisfaction in Two-Earner Couples",
@@ -137,7 +141,9 @@
       "C4"
     ],
     "why_abstract_insufficient": "Wilkie, Ferree & Ratcliff 1998 is the sentinel on fairness and marital satisfaction in two-earner couples and bears on over-benefited partners; the stored abstract is only a citation line.",
-    "requested_in_pass": 1
+    "requested_in_pass": 1,
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1086_230545": {
     "id": "10.1086_230545",
@@ -176,7 +182,7 @@
   },
   "10.1146_annurev.soc.22.1.299": {
     "id": "10.1146_annurev.soc.22.1.299",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1146/annurev.soc.22.1.299",
     "title": "The Division of Household Labor",
@@ -201,7 +207,9 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1111_j.1741-3737.2000.01208.x": {
     "id": "10.1111_j.1741-3737.2000.01208.x",
@@ -223,7 +231,7 @@
   },
   "10.1111_j.1741-3737.2002.00027.x": {
     "id": "10.1111_j.1741-3737.2002.00027.x",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1111/j.1741-3737.2002.00027.x",
     "title": "Divison of Labor, Perceived Fairness, and Marital Quality: The Effect of Gender Ideology",
@@ -247,11 +255,13 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1177_0192513x02238520": {
     "id": "10.1177_0192513x02238520",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/0192513x02238520",
     "title": "Perceived Housework Equity, Marital Happiness, and Divorce in Dual-Earner Households",
@@ -276,11 +286,13 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (DOI printed in the PDF)"
   },
   "10.1177_019251398019005007": {
     "id": "10.1177_019251398019005007",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/019251398019005007",
     "title": "The Role of Valued Outcomes, Justifications, and Comparison Referents in Perceptions of Fairness Among Dual-Earner Couples",
@@ -304,7 +316,9 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (file name carries the DOI or title of a requested paper (the PDF itself gave no readable title))"
   },
   "10.1037_0893-3200.16.4.510": {
     "id": "10.1037_0893-3200.16.4.510",
@@ -378,7 +392,7 @@
   },
   "10.1016_j.ssresearch.2014.12.010": {
     "id": "10.1016_j.ssresearch.2014.12.010",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1016/j.ssresearch.2014.12.010",
     "title": "Gender, justice and work: a distributive approach to perceptions of housework fairness",
@@ -404,11 +418,13 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (DOI printed in the PDF)"
   },
   "10.1177_089124398012002005": {
     "id": "10.1177_089124398012002005",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/089124398012002005",
     "title": "WIVES' AND HUSBANDS' HOUSEWORK REPORTING",
@@ -431,7 +447,9 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (file name carries the DOI or title of a requested paper (the PDF itself gave no readable title))"
   },
   "10.1006_ssre.2000.0674": {
     "id": "10.1006_ssre.2000.0674",
@@ -453,7 +471,7 @@
   },
   "10.1177_2378023118765867": {
     "id": "10.1177_2378023118765867",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/2378023118765867",
     "title": "Stalled for Whom? Change in the Division of Particular Housework Tasks and Their Consequences for Middle- to Low-Income Couples",
@@ -476,7 +494,9 @@
     "requested_in_pass": 1,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (DOI printed in the PDF)"
   },
   "10.1007_s11199-022-01282-5": {
     "id": "10.1007_s11199-022-01282-5",
