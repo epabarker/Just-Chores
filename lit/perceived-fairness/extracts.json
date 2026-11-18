@@ -6250,201 +6250,282 @@
   "10.1037_0893-3200.16.4.510#E1": {
     "id": "E1",
     "paper": "10.1037_0893-3200.16.4.510",
-    "claim": "C2",
-    "stance": "contradicts",
-    "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The referent prediction (comparing with other women rather than the spouse) was not supported; this tests one referent hypothesis, not referents in general, and the abstract gives no estimate.",
-    "quote": "Data from a 3-panel, longitudinal study of married couples expecting their first child were consistent with the second and third predictions but not the first.",
-    "version": "abstract",
-    "quote_sha": "ab6c278c8853e146",
-    "depth": "abstract_only",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.7",
+    "says": "Table 3 correlations of the self-rated total division of tasks with perceived fairness are .00, .16, .15 for wives and .33, .30, .32 for husbands (signs not recoverable), i.e. at most about 11% of variance (r squared is my calculation).",
+    "quote": "Total division of tasks\n.00\n.16*\n.15*\n.33**\n.30**\n.32**",
+    "version": "publisher",
+    "quote_sha": "103ff3dab9d492a0",
+    "depth": "full_text",
     "tier_a": {
-      "outcome": "exact",
-      "score": 100.0,
+      "outcome": "fuzzy",
+      "score": 96.36363636363636,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.7",
+      "line": 970
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Bivariate correlations with a self-rated 5-point relative division index, not a measured split; signs unrecoverable from the text layer.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "103ff3dab9d492a0"
     }
   },
   "10.1037_0893-3200.16.4.510#E2": {
     "id": "E2",
     "paper": "10.1037_0893-3200.16.4.510",
-    "claim": "C7",
-    "stance": "qualifies",
+    "claim": "C1",
+    "stance": "supports",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Enjoyment of and competence at family work were hypothesised and supported as predictors of perceived fairness; the abstract does not separate them from time spent.",
-    "quote": "(b) when they enjoy performing family work; and/or (c) when they and their spouses believe that they are especially competent at family work.",
-    "version": "abstract",
-    "quote_sha": "b00d9c5cfa155f59",
-    "depth": "abstract_only",
+    "locator": "p.8",
+    "says": "The wives' Time 1 housework model built from comparisons and outcome values (split not entered) is F(5, 173) 17.4; the R2 printed beside it is .33 (the R2 glyphs are not quotable; the .33 and the husbands' .30 are read from the text layer), far more variance than the split correlations imply.",
+    "quote": "F(5, 173)…17.4, p…enjoyment of tasks and viewing\nthe spouse as competent predicted perceiving greater fair",
+    "version": "publisher",
+    "quote_sha": "82db801d356cb79f",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
-      "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "segments": 3,
+      "found_at": "p.8",
+      "line": 1047
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "R2 belongs to a model of comparisons and outcome values; it does not measure the split's own share of variance.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "82db801d356cb79f",
+      "stance": "qualifies"
     }
   },
   "10.1086_230545#E1": {
     "id": "E1",
     "paper": "10.1086_230545",
-    "claim": "C2",
+    "claim": "C1",
     "stance": "qualifies",
-    "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Women with more alternatives to marriage judge the same division as unjust, which supports an options-as-standard account; the split is held fixed in the wording, but no estimate is given.",
-    "quote": "women who have fewer alternatives to marriage and less economic resources are more likely to view a given division of housework as fair, while women with more alternatives view the same division as unjust.",
-    "version": "abstract",
-    "quote_sha": "d98ac1a780e2b149",
-    "depth": "abstract_only",
+    "kind": "table",
+    "locator": "p.18",
+    "says": "The full fairness model for wives, which includes the actual split (shares and couple hours by task type) plus options, ideology, income, hours and marital happiness, has an adjusted R2 of .18 on N=789; no R2 is given for the split alone, so how much of the variation the split explains cannot be read off.",
+    "quote": "potentiald</td><td>.107*</td><td>.049</td></tr><tr><td>Adjusted R2</td><td>.18</td><td></td></tr><tr><td>N",
+    "version": "unknown-ocr",
+    "quote_sha": "3f00c1089f866194",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.18",
+      "line": 304
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3f00c1089f866194"
     }
   },
   "10.1086_230545#E2": {
     "id": "E2",
     "paper": "10.1086_230545",
-    "claim": "C4",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Perceived unfairness goes with lower psychological well-being, not relationship satisfaction, and the split is not compared.",
-    "quote": "Also, women who perceive an unequal situation as unfair experience lower psychological well-being.",
-    "version": "abstract",
-    "quote_sha": "90959f3fad55374b",
-    "depth": "abstract_only",
+    "locator": "p.21",
+    "says": "Descriptively, most women (60.8%) and men (67.5%) call a roughly two-to-one split fair to both, so the split and the fairness judgment are far from one-to-one; this is a marginal description with no variance partition.",
+    "quote": "Our findings also indicate that most women \\((60.8\\%)\\) and most men \\((67.5\\%)\\) believe that this uneven distribution of housework is fair to both spouses.",
+    "version": "unknown-ocr",
+    "quote_sha": "e804bd8e5a033ef3",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.21",
+      "line": 371
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e804bd8e5a033ef3"
     }
   },
   "10.1093_sf_73.2.533#E1": {
     "id": "E1",
     "paper": "10.1093_sf_73.2.533",
     "claim": "C1",
-    "stance": "qualifies",
-    "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Calls the partner's housework effort a powerful determinant of fairness, which points against a small explained share; no R-squared in the abstract.",
-    "quote": "men's housework efforts are powerful determinants of women's and men's fairness perceptions",
-    "version": "abstract",
-    "quote_sha": "cd98040c244c530b",
-    "depth": "abstract_only",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.11",
+    "says": "Table 2 (no controls, no constraints): the two partners' housework and employment hours together give an adjusted R2 of .03 in the women's equation and .03 in the men's, so the hours split alone accounts for about 3% of the variance in a 1-5 fairness item.",
+    "quote": "Adjusted R2\n.03\n.03",
+    "version": "unknown",
+    "quote_sha": "31d444d32df23ed9",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 1
+      "found_at": "p.11",
+      "line": 549
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "31d444d32df23ed9"
     }
   },
   "10.1093_sf_73.2.533#E2": {
     "id": "E2",
     "paper": "10.1093_sf_73.2.533",
-    "claim": "C2",
-    "stance": "qualifies",
-    "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Between-gender referents are used to interpret the findings; they were not measured.",
-    "quote": "Thompson's (1991) hypothesis about “between-gender” referents are used to interpret the findings.",
-    "version": "abstract",
-    "quote_sha": "cc815ccdea25088a",
-    "depth": "abstract_only",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.12",
+    "says": "Table 3 (all controls, all equality constraints): adjusted R2 is .04 in both equations; this is the explained share of the whole model (hours plus controls), not of the split alone, so it is an upper bound on what the split explains here.",
+    "quote": "Adjusted R2\n.04\n.04",
+    "version": "unknown",
+    "quote_sha": "ee7ddd399909acf4",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.12",
+      "line": 737
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ee7ddd399909acf4"
     }
   },
   "10.1111_j.1475-6811.2009.01239.x#E1": {
     "id": "E1",
     "paper": "10.1111_j.1475-6811.2009.01239.x",
-    "claim": "C2",
+    "claim": "C1",
     "stance": "supports",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The abstract names referent comparisons among the strongest predictors of justice evaluations; whether the split was held constant is not stated.",
-    "quote": "The frequency with which spouses compared each other's amounts of family work, the outcome of the comparison of the husband's family work with the family work performed by other men, and the extent to which the partner appreciated one's family work proved to be most predictive of justice evaluations.",
-    "version": "abstract",
-    "quote_sha": "30e131831417f80c",
-    "depth": "abstract_only",
+    "locator": "p.13",
+    "says": "In the final model the control variables (division of work and hours) explained 8% (domestic work) and 10% (child care) of women's justice variance and nothing significant for men, against 21-33% for the entitlement predictors.",
+    "quote": "The set\nof theoretically relevant predictors, based on\nthis model, explained 29% of the variance of\nwomen’s justice evaluations of the division of\ndomestic work, 33% of the variance of women’s\njustice evaluations of the division of child\ncare, 21% of the variance of men’s justice\nevaluations of domestic work, and 24% of the\nvariance of men’s justice evaluations of child\ncare. These ﬁgures do not include the explained\nvariance due to control variables, namely 8% for\nwomen’s justice evaluations of the division of\ndomestic work and 10% for women’s justice\nevaluation of the division of childcare. (Control\nvariables explained no significant proportions of\nvariance of men’s justice evaluations.)",
+    "version": "unknown",
+    "quote_sha": "b1bdd7493ce9c897",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 1
+      "found_at": "p.13",
+      "line": 1769
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "8-10% is the division's share within a joint model with entitlement predictors, not its total; unadjusted correlations are larger.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b1bdd7493ce9c897"
     }
   },
   "10.1111_j.1475-6811.2009.01239.x#E2": {
     "id": "E2",
     "paper": "10.1111_j.1475-6811.2009.01239.x",
-    "claim": "C3",
-    "stance": "qualifies",
+    "claim": "C1",
+    "stance": "supports",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The abstract reports good support for the framework as a whole, but names no justification variable as a predictor.",
-    "quote": "the analyses provided good support for the distributive justice framework",
-    "version": "abstract",
-    "quote_sha": "035a7a0740424a0f",
-    "depth": "abstract_only",
+    "locator": "p.15",
+    "says": "Authors conclude the predictive power of the balance of the division was much lower than that of the entitlement variables; combined control effects were 8-9% of variance for women and non-significant for men.",
+    "quote": "The predictive power of the balance of the division of\nfamily work was much lower than the predictive power of\nvariables that refer to the central concepts of the distributive justice framework.",
+    "version": "unknown",
+    "quote_sha": "4682875ff3e83038",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 1
+      "found_at": "p.15",
+      "line": 2037
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Relative to entitlement predictors in a joint model; the division's standalone explanatory share is not given here.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "4682875ff3e83038"
     }
   },
   "10.1111_j.1741-3737.2000.01208.x#E1": {
     "id": "E1",
     "paper": "10.1111_j.1741-3737.2000.01208.x",
-    "claim": "C8",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The review summarises methodological contributions but the abstract does not say which fairness measures dominate.",
-    "quote": "Major theoretical, methodological, and empirical contributions to the study of household labor are summarized, and suggestions for further research are offered.",
-    "version": "abstract",
-    "quote_sha": "83859f097c6efd67",
-    "depth": "abstract_only",
+    "locator": "p.16",
+    "says": "Reports that past studies found little relation between the actual split and perceived fairness, explained by unequal splits being accepted as normal (Lennon and Rosenfeld 1994: men fair at 36%, women at 66%); a review statement with no variance figure, and about earlier studies.",
+    "quote": "Such ﬁndings suggest that unequal divisions of labor are accepted as normal and help explain why past studies have found little relation between actual divisions of labor and perceptions of fairness.",
+    "version": "unknown",
+    "quote_sha": "fb533ae37069d0b6",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 1
+      "found_at": "p.16",
+      "line": 1634
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "fb533ae37069d0b6"
     }
   },
   "10.1111_j.1741-3737.2000.01208.x#E2": {
     "id": "E2",
     "paper": "10.1111_j.1741-3737.2000.01208.x",
-    "claim": "C4",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The review links a more balanced split with perceived fairness and with marital satisfaction; it does not compare the strength of the two associations.",
-    "quote": "More balanced divisions of housework are associated with women perceiving fairness, experiencing less depression, and enjoying higher marital satisfaction.",
-    "version": "abstract",
-    "quote_sha": "c7dfe760d433122b",
-    "depth": "abstract_only",
+    "locator": "p.16",
+    "says": "Reports the 1990s turn: many studies found participation associated with variation in fairness, contrary to the earlier little-variation finding; no effect size, so \"only a small part\" is not tested.",
+    "quote": "Contrary to earlier ﬁndings showing little variation in fairness evaluations, many 1990s studies showed that wives’ participation in household labor",
+    "version": "unknown",
+    "quote_sha": "9b90d7d69b811860",
+    "depth": "full_text",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.16",
+      "line": 1686
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "9b90d7d69b811860"
     }
   },
   "10.1177_019251391012002003#E1": {
@@ -6490,54 +6571,3595 @@
   "10.1177_019251395016006002#E1": {
     "id": "E1",
     "paper": "10.1177_019251395016006002",
-    "claim": "C3",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "The framework received only qualified support in 234 wives; the abstract does not say how the justification measures fared.",
-    "quote": "In a sample of 234 dual-earner wives randomly selected from metropolitan areas of the western United States, there was qualified support for the framework.",
-    "version": "abstract",
-    "quote_sha": "68656107ad7813bf",
-    "depth": "abstract_only",
+    "locator": "p.28",
+    "says": "The authors conclude that the allocation of time and tasks is not the only or primary predictor of wives' fairness, but the allocation here is the wife's perception, and no share of variance for it alone is given.",
+    "quote": "And our findings support Thompson's contention that the division of domestic labor—the allocation of time and tasks—is not the only or primary predictor of wives' feelings about the fairness of family work.",
+    "version": "unknown-ocr",
+    "quote_sha": "56d8c56a5c0f0060",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 1
+      "found_at": "p.28",
+      "line": 401
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "56d8c56a5c0f0060"
     }
   },
   "10.1177_019251395016006002#E2": {
     "id": "E2",
     "paper": "10.1177_019251395016006002",
-    "claim": "C2",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
-    "locator": "sec: Abstract",
-    "says": "Effects other than appreciation and joint deciding ran through the split, so they are not independent of the split as C2 requires.",
-    "quote": "Other effects on fairness were indirect, however; they affected the division of family work, which, in turn, influenced wives' sense of fairness.",
-    "version": "abstract",
-    "quote_sha": "3b1c72921b547992",
-    "depth": "abstract_only",
+    "locator": "p.15",
+    "says": "The split in the models is a global perception; the available hour estimates were deliberately not used, so this paper does not test the actual split.",
+    "quote": "In addition, we did not use actual estimates of time in family work that were available in our data, as some other studies have done, for two reasons, one conceptual, the other pragmatic.",
+    "version": "unknown-ocr",
+    "quote_sha": "c7e8052575697fb0",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
-      "found_at": "sec: Abstract",
-      "line": 2
+      "found_at": "p.15",
+      "line": 208
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c7e8052575697fb0"
     }
   },
   "10.1177_08912432251337416#E1": {
     "id": "E1",
     "paper": "10.1177_08912432251337416",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.20",
+    "says": "In vignette ratings, more unequal housework splits are rated more unfair, and the randomised split carries the largest effects; no variance explained is reported, so the claim about \"a small part of the variation\" is not tested and this is a third-party vignette, not a partner's own split.",
+    "quote": "As expected, our results show that people tend to rate more unequal divisions of housework as more unfair.",
+    "version": "publisher",
+    "quote_sha": "9a0698d3fced3447",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.20",
+      "line": 823
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Passage shows direction only; 'largest effects' of the split comes from Table 4, not this passage. No variance explained reported.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "9a0698d3fced3447"
+    }
+  },
+  "10.2307_353243#E1": {
+    "id": "E1",
+    "paper": "10.2307_353243",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "The authors' models, which include the actual split plus appreciation, work qualities and ideology, explain only about 15% of the variance in wives' perceived fairness, so the split alone explains no more than that.",
+    "quote": "Second, we must note that our models \"explain\"\nonly about 15% of the variance in wives' percep-\ntions of the fairness of the division of household\nlabor.",
+    "version": "unknown",
+    "quote_sha": "25ebc27e90b8e56c",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 1291
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Wives only; 15% is the full-model R2, an upper bound on the split's share rather than its own estimate.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "25ebc27e90b8e56c"
+    }
+  },
+  "10.1006_ssre.2000.0674#E1": {
+    "id": "E1",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "Husbands' own reports of their total weekly housework (about 20 h) exceed their wives' reports of the husbands' work (about 17 h), a 2.67 h mean paired gap that is significantly different from zero; this is over-claiming by one partner only.",
+    "quote": "The husbands’ reports of the\naverage amount of total household work they contribute differ from their wives’\nreports of the husbands’ contribution (20 h versus 17 h, top half, last column).\nWhen we calculate interspouse discrepancies for the husband’s contribution for\neach couple, the average difference is 2.67 h. This value is signiﬁcantly different\nfrom zero (using paired-sample t test).",
+    "version": "publisher",
+    "quote_sha": "057720e8c28018d5",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 347,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "057720e8c28018d5"
+    }
+  },
+  "10.1006_ssre.2000.0674#E2": {
+    "id": "E2",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C6",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "For wives' contribution the self and husband estimates are about equal (about 37 h) and the mean discrepancy of 0.63 h is not different from zero, so the claim that each partner over-claims is not supported for wives.",
+    "quote": "On the average, wives spend around 37 hours per week on\nhousehold work (bottom half, last column) whether estimated by themselves\nor by their husbands. The mean interspouse discrepancy in the total household work\nload is .63 h (not signiﬁcantly different from zero).",
+    "version": "publisher",
+    "quote_sha": "51d67a782abc98e8",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 567,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "51d67a782abc98e8"
+    }
+  },
+  "10.1006_ssre.2000.0674#E3": {
+    "id": "E3",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C6",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "Exactly half of couples (50%) have the wife's own total estimate above her husband's, i.e. no systematic over-claiming by wives; the author states Hypothesis 1 (both over-claim) is not supported for wives.",
+    "quote": "In exactly one half (50%) of all\nthe couples is the wife’s estimate of her own contribution to all household work\nhigher than her husband’s estimate.",
+    "version": "publisher",
+    "quote_sha": "5e3a6534b3e00d0c",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 577,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "5e3a6534b3e00d0c"
+    }
+  },
+  "10.1006_ssre.2000.0674#E4": {
+    "id": "E4",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C6",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "The author's conclusion that over-claiming (Hypothesis 1) holds for husbands but not for wives.",
+    "quote": "Hypothesis 1 regarding overestimation by self is not supported for the wife’s contribution to household work.",
+    "version": "publisher",
+    "quote_sha": "51fa1ef8c4d6b058",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 582,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "51fa1ef8c4d6b058"
+    }
+  },
+  "10.1006_ssre.2000.0674#E5": {
+    "id": "E5",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.15",
+    "says": "Mean husband's relative share is 35.86 by the husband and 31.64 by the wife (N = 1934); if the wife's share is the complement, the two self-claimed shares sum to about 104, but the paper does not state or test this.",
+    "quote": "Mean\n19.89\n16.89\n18.79\n37.05\n36.49\n37.26\n35.86\n31.64\n34.05",
+    "version": "publisher",
+    "quote_sha": "c1fc83548b970b90",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 921,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Column labels and N not visible in passage; the ~104 summed share is the reader's inference, not stated or tested.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c1fc83548b970b90"
+    }
+  },
+  "10.1006_ssre.2000.0674#E6": {
+    "id": "E6",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.7",
+    "says": "This study measures perceived fairness with a four-item composite across chores, paid work, spending money and child care, not a single item on chores.",
+    "quote": "Each spouse’s perceived fairness in the relationship is composed of four items.",
+    "version": "publisher",
+    "quote_sha": "fab99df47ba95e08",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.7",
+      "line": 305,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "fab99df47ba95e08"
+    }
+  },
+  "10.1006_ssre.2000.0674#E7": {
+    "id": "E7",
+    "paper": "10.1006_ssre.2000.0674",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "The fairness items were averaged (if at least two of four answered); the summed-scale alpha coefficients are .56 for husbands and .51 for wives, i.e. low reliability.",
+    "quote": "When each respondent answered at least two of the four items, I computed\nthe average of these responses. If the measure were created by the sum of the four\nitems, the a-coefﬁcients would be .56 and .51 for husbands and wives, respec-\ntively.",
+    "version": "publisher",
+    "quote_sha": "20e418d0a3b98c79",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 312,
+      "abstract_check": "unavailable"
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "20e418d0a3b98c79"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E3": {
+    "id": "E3",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "In the multiple regression (Table 4, split not entered) wives who more often compared with the spouse perceived less fairness in housework before the birth.",
+    "quote": "For wives before the birth, frequently comparing with the spouse predicted perceiving less fairness in",
+    "version": "publisher",
+    "quote_sha": "49a646274f990e71",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 1041
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Regression did not include the division of tasks, so the split is not accounted for in this estimate.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "49a646274f990e71",
+      "stance": "qualifies"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E4": {
+    "id": "E4",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "With the division of housework or child care controlled, all Table 3 correlations (comparison referents and outcome values) but one stayed significant; the controlled coefficients and the exception are not reported.",
+    "quote": "When we controlled for division of housework or division of child care in the analyses, all the abovementioned correlations (with one exception) in Table 3 were still signiﬁcant.",
+    "version": "publisher",
+    "quote_sha": "78a44fded8113bee",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 1079
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controlled coefficients unreported; one unidentified correlation lost significance; split is a self-rated relative index.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "78a44fded8113bee"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E5": {
+    "id": "E5",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "Same-sex referent frequency was associated with lower, not higher, perceived fairness, opposite to the hypothesis; it predicts fairness but not in the expected direction.",
+    "quote": "Analyses revealed that the frequency of making same-sex comparisons was correlated with less perceived fairness for wives and husbands across the three time periods.",
+    "version": "publisher",
+    "quote_sha": "f7b8c2b613707f88",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 1013
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f7b8c2b613707f88"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E6": {
+    "id": "E6",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.8",
+    "says": "In the Table 4 regressions the spousal comparison beta is .33, .25, .19 for wives and .13, .13, .08 for husbands; the other-women betas are .00, .02, .09 (wives); signs are not in the text layer.",
+    "quote": "Spouse\n\u0005.33**\n\u0005.25**\n\u0005.19**\n\u0005.13†\n\u0005.13†\n\u0005.08",
+    "version": "publisher",
+    "quote_sha": "8bf2aea0bb6ea45a",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 1107
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "8bf2aea0bb6ea45a"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E7": {
+    "id": "E7",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.9",
+    "says": "Prospectively, spousal comparisons at Times 1 and 2 did not predict fairness at Times 2 and 3 (controlling earlier fairness, not the split; no estimates in the text), so the concurrent association is not shown to be predictive over time.",
+    "quote": "Conversely, making spousal comparisons at Time 1 and Time 2 did not yield signiﬁcant links with perceived fairness at Time 2 or Time 3, respectively.",
+    "version": "publisher",
+    "quote_sha": "64f944caabfbc5c0",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.9",
+      "line": 1164
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "64f944caabfbc5c0"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E8": {
+    "id": "E8",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "No prospective path from same-sex comparison frequency to later fairness reached significance for wives or husbands.",
+    "quote": "None of the predictions regarding same-sex comparisons leading to subsequent per- ceptions of fairness of family work reached signiﬁcance for wives or husbands.",
+    "version": "publisher",
+    "quote_sha": "3a8f8df9cb2a43e7",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 1201
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3a8f8df9cb2a43e7"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E9": {
+    "id": "E9",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "The authors conclude that the dominant direction in their prospective data is perceived inequity driving spousal comparisons, not comparisons driving fairness.",
+    "quote": "analyses where we observe a consistent pattern of perceived inequity driving spousal comparisons (and sometimes same-sex comparisons)",
+    "version": "publisher",
+    "quote_sha": "4a94e0311d55f7cd",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 1316
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "4a94e0311d55f7cd"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E10": {
+    "id": "E10",
+    "paper": "10.1037_0893-3200.16.4.510",
     "claim": "C3",
     "stance": "qualifies",
     "kind": "text",
+    "locator": "p.2",
+    "says": "The study tests social comparisons and outcome values (enjoyment, competence); justifications for an unequal split were not measured, so it gives no evidence on C3.",
+    "quote": "Thus, we explored two possible explanations suggested by the distributive justice model for women perceiving a lopsided division of labor as fair.",
+    "version": "publisher",
+    "quote_sha": "ce242ad7565f21be",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.2",
+      "line": 140
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Perceived competence and enjoyment act as accepted reasons for an unequal split; passage does not show justifications went unmeasured.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ce242ad7565f21be"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E11": {
+    "id": "E11",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.6",
+    "says": "Table 1 housework self-rated division (1 spouse mostly to 5 self mostly): wives 3.68 and 3.89, husbands 2.49 and 2.36 at Times 1 and 2; consistent reports would sum to 6, these sum to 6.17 and 6.25 (my arithmetic, no test, ordinal scale not shares).",
+    "quote": "Total division of tasks\n3.68\n3.89\n2.49\n2.36",
+    "version": "publisher",
+    "quote_sha": "2d88fc720250c1fd",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.6",
+      "line": 704
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "2d88fc720250c1fd"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E12": {
+    "id": "E12",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.6",
+    "says": "Table 2 child care self-rated division at Time 2: wives 4.02, husbands 2.10, sum 6.12 where 6 would be consistent (my arithmetic, no test, ordinal scale not shares).",
+    "quote": "Total division of tasks\n4.02\n2.10",
+    "version": "publisher",
+    "quote_sha": "6fc1a9ac075beec9",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.6",
+      "line": 773
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "6fc1a9ac075beec9"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E13": {
+    "id": "E13",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.5",
+    "says": "The division was rated as the amount of each task done relative to the spouse on a 5-point scale, not as a percentage of the whole, so the two partners' reports cannot be summed to a share greater than 100%.",
+    "quote": "Participants rated the amount of each task they had performed relative to their spouse during the last two months using a 5-point scale",
+    "version": "publisher",
+    "quote_sha": "86c3bad609dce5bc",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.5",
+      "line": 483
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "86c3bad609dce5bc"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E14": {
+    "id": "E14",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "The authors name the lack of raw hours or proportion of time as a limitation; time spent on chores was not measured, so which-chores-beyond-time cannot be tested here.",
+    "quote": "the subjective measures of division of family work instead of an estimation of raw hours or proportion of time spent on tasks",
+    "version": "publisher",
+    "quote_sha": "e37f9d13f6cd0001",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 1394
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e37f9d13f6cd0001"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E15": {
+    "id": "E15",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "Fairness was asked per task (grocery shopping, cleaning, meals, laundry) but analysed as an index per domain; there is no analysis by chore identity.",
+    "quote": "participants were asked about how fair they thought the division was of each of four routine household tasks",
+    "version": "publisher",
+    "quote_sha": "98dd9ffd1d130d1b",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 404
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Passage shows per-task fairness items only; that no chore-level analysis was run is not shown here.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "98dd9ffd1d130d1b"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E16": {
+    "id": "E16",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "Perceived fairness was a multi-item index at Times 1-2 (alpha .63 for wives and .67 for husbands at Time 1 for housework), so this study does not use a single item as its main measure.",
+    "quote": "were .63 and .67 at Time 1 and .70 and .72 at Time 2 for perceived fairness of the division of housework",
+    "version": "publisher",
+    "quote_sha": "14fda4039245550a",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 418
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "14fda4039245550a"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E17": {
+    "id": "E17",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "Single-item fairness measures appear only at Time 3, in a shorter survey.",
+    "quote": "each by a single-item measure (in the shorter survey at this time period)",
+    "version": "publisher",
+    "quote_sha": "e77ba05d6e0c8b51",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 414
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e77ba05d6e0c8b51"
+    }
+  },
+  "10.1037_0893-3200.16.4.510#E18": {
+    "id": "E18",
+    "paper": "10.1037_0893-3200.16.4.510",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "The authors list the two one-item Time 3 fairness measures among the study's limitations.",
+    "quote": "the two one-item fairness measures used at Time 3, the subjective measures of division of family work",
+    "version": "publisher",
+    "quote_sha": "1d005c895d8131f0",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 1393
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "1d005c895d8131f0"
+    }
+  },
+  "10.1086_230545#E3": {
+    "id": "E3",
+    "paper": "10.1086_230545",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Table 5 adjusts for the division of housework (couple hours by task type and the wife's share), so the options results are net of the actual split.",
+    "quote": "This analysis adjusts for the division of housework by adding indicators of the total number of hours that the couple spends on male and female chores and the relative amount of time the wife spends on these chores.",
+    "version": "unknown-ocr",
+    "quote_sha": "ad4c5dab26440a47",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 279
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ad4c5dab26440a47"
+    }
+  },
+  "10.1086_230545#E4": {
+    "id": "E4",
+    "paper": "10.1086_230545",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.18",
+    "says": "Net of the split, perceived options (b = -.044, SE .019, p<=.05; higher score means more options) and poverty potential (b = .107, SE .049, p<=.05) predict fairness; these are exchange-theory options outside the marriage, not a measured comparison referent, so they bear on C2 only through the authors' reference-group reasoning.",
+    "quote": "optionsc</td><td>-.044*</td><td>.019</td></tr><tr><td>Poverty potentiald</td><td>.107*</td><td>.049</td></tr><tr><td>Adjusted",
+    "version": "unknown-ocr",
+    "quote_sha": "a08da21fd15afa04",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 303
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "a08da21fd15afa04"
+    }
+  },
+  "10.1086_230545#E5": {
+    "id": "E5",
+    "paper": "10.1086_230545",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.5",
+    "says": "The authors' theory links resources and options to reference groups (\"people compare themselves to others in similarly restricted circumstances\"); this is argued, and no referent (who the wife compares herself with) is measured in the survey.",
+    "quote": "Fewer resources and alternatives also work to limit reference groups and individuals: people compare themselves to others in similarly restricted circumstances and thus expect less from any given exchange.",
+    "version": "unknown-ocr",
+    "quote_sha": "ed8efb99bc80da7b",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.5",
+      "line": 80
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ed8efb99bc80da7b"
+    }
+  },
+  "10.1086_230545#E6": {
+    "id": "E6",
+    "paper": "10.1086_230545",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.6",
+    "says": "The authors name accepted justifications (a cultural-ideology account) but operationalise only a gender-ideology scale; no accepted justification for an unequal split is measured.",
+    "quote": "Some women believe that, even when employed, they should do most of the domestic work or that there are justifiable reasons why men do not participate equally",
+    "version": "unknown-ocr",
+    "quote_sha": "8e7099287a6f3f87",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.6",
+      "line": 92
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "8e7099287a6f3f87"
+    }
+  },
+  "10.1086_230545#E7": {
+    "id": "E7",
+    "paper": "10.1086_230545",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "The nearest proxy for accepted justification, conventional gender ideology (b = .002, SE .015, p>.05, Table 5), shows no association with fairness net of the split, so this proxy does not predict it; this is not a test of specific justifications.",
+    "quote": "There is no statistically significant association between conventional gender ideology and perceived relative fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "3947777aa4a560ab",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 313
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3947777aa4a560ab"
+    }
+  },
+  "10.1086_230545#E8": {
+    "id": "E8",
+    "paper": "10.1086_230545",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.23",
+    "says": "In the discussion the authors say that how justifications operate was not examined: they cite possible justifications (husbands' lack of training, lower standards) from a literature review rather than testing them.",
+    "quote": "Different justifications may excuse an unequal division of labor, many of which involve gender-specific reasons for less housework, such as husbands' lack of training for it, lower standards, or less ability",
+    "version": "unknown-ocr",
+    "quote_sha": "af34b793019ad446",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.23",
+      "line": 393
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "af34b793019ad446"
+    }
+  },
+  "10.1086_230545#E9": {
+    "id": "E9",
+    "paper": "10.1086_230545",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.19",
+    "says": "The outcome is depressive symptoms (CES-D), not relationship satisfaction, and the split is not in that model, so the comparison C4 describes is not made; the fairness terms are b = .086 (ns) and b = .188 squared (p<=.05).",
+    "quote": "To examine this, we regressed depressive symptoms on perceived fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "a0cbb0d23807a9bf",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.19",
+      "line": 322
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "a0cbb0d23807a9bf"
+    }
+  },
+  "10.1086_230545#E10": {
+    "id": "E10",
+    "paper": "10.1086_230545",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.18",
+    "says": "Marital happiness is a covariate in the fairness equation (b = .048, SE .010, p<=.001) beside the wife's share of female tasks (b = -.007, SE .001, p<=.001); it is a predictor of fairness, not an outcome, and the coefficients are on different scales, so they do not compare fairness with the split as predictors of satisfaction.",
+    "quote": "happiness</td><td>.048***</td><td>.010</td></tr><tr><td>Hours",
+    "version": "unknown-ocr",
+    "quote_sha": "e6f89e95401ab093",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 295
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e6f89e95401ab093"
+    }
+  },
+  "10.1086_230545#E11": {
+    "id": "E11",
+    "paper": "10.1086_230545",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.20",
+    "says": "Table 6 puts fairness (linear and squared) in the depression model without the actual split and with no satisfaction outcome, so no mediation of a split-outcome association is estimated; the check Table 5 provides is on the split-to-fairness path only.",
+    "quote": "REGRESSION OF DEPRESSIVE SYMPTOMS ON RELATIVE FAIRNESS FOR EMPLOYED WIVES",
+    "version": "unknown-ocr",
+    "quote_sha": "25a4ee19d5d92d2e",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.20",
+      "line": 332
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "25a4ee19d5d92d2e"
+    }
+  },
+  "10.1086_230545#E12": {
+    "id": "E12",
+    "paper": "10.1086_230545",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.22",
+    "says": "The authors state that the cross-sectional data cannot give causal direction (options and fairness, fairness and depression), which bars a mediation reading.",
+    "quote": "Although these cross-sectional data do not allow us to assess the direction of causality",
+    "version": "unknown-ocr",
+    "quote_sha": "c763dfcd47b4a5c3",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 384
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c763dfcd47b4a5c3"
+    }
+  },
+  "10.1086_230545#E13": {
+    "id": "E13",
+    "paper": "10.1086_230545",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "Women report doing 68.2% and men report their wives doing 65.5%; men report doing 34.5% (Table 2). The two own-shares (68.2 + 34.5 = 102.7, my sum) are from independent samples of non-partnered respondents, so this is a population-average sum of about 103%, not a couple-level sum, and the authors read it as agreement.",
+    "quote": "Women's proportion of all household chores is \\(68.2\\%\\). This amount compares closely with men's report that their wives perform \\(65.5\\%\\) of household chores.",
+    "version": "unknown-ocr",
+    "quote_sha": "a2403a33bda766bf",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 216
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "a2403a33bda766bf"
+    }
+  },
+  "10.1086_230545#E14": {
+    "id": "E14",
+    "paper": "10.1086_230545",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.13",
+    "says": "Table 2 gives the own-share: all tasks 34.5% (men) and 68.2% (women); the note says the pair cannot add to 100% because respondents are not married to each other and the denominator is each respondent's own count of both spouses' hours.",
+    "quote": "The relative contributions by men and by women in each task category will not add up to \\(100\\%\\), because the respondents are not married to each other; the denominator is respondents' housework plus their spouse's housework.",
+    "version": "unknown-ocr",
+    "quote_sha": "1d04797f0da861d2",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 207
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "1d04797f0da861d2"
+    }
+  },
+  "10.1086_230545#E15": {
+    "id": "E15",
+    "paper": "10.1086_230545",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.18",
+    "says": "Net of the couple's hours on each task type, the share of female tasks done by the wife predicts fairness (b = -.007, SE .001, p<=.001) and the share of male tasks does not (b = -.001, SE .001); this separates two chore categories, and the categories differ in time cost, so chore identity beyond time is not isolated.",
+    "quote": "female tasks done by respondent</td><td>-.007***</td><td>.001</td></tr><tr><td>% male tasks done by respondent</td><td>-.001</td><td>.001</td></tr><tr><td>Conventional",
+    "version": "unknown-ocr",
+    "quote_sha": "d69ec7248d39473c",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 298
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "d69ec7248d39473c"
+    }
+  },
+  "10.1086_230545#E16": {
+    "id": "E16",
+    "paper": "10.1086_230545",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.9",
+    "says": "The authors note that the \"female\" task category is more time-consuming and less flexible than the \"male\" one, so the category effect may carry time and inflexibility, not type alone.",
+    "quote": "It should be emphasized that \"female\" tasks are more time-consuming and less flexible than are \"male\" tasks",
+    "version": "unknown-ocr",
+    "quote_sha": "c0d4490e294ed0a3",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.9",
+      "line": 144
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c0d4490e294ed0a3"
+    }
+  },
+  "10.1086_230545#E17": {
+    "id": "E17",
+    "paper": "10.1086_230545",
+    "claim": "C8",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.9",
+    "says": "This study measures perceived fairness with one self-report item; this is one study's instance and does not show what studies mainly do.",
+    "quote": "Perceptions of fairness were assessed with one item that asked respondents to rate the fairness of their marital division of household chores.",
+    "version": "unknown-ocr",
+    "quote_sha": "2f814bbd7236b8e9",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.9",
+      "line": 149
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "One study's own measure; a single instance cannot show what studies mainly use.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "2f814bbd7236b8e9",
+      "stance": "qualifies"
+    }
+  },
+  "10.1086_230545#E18": {
+    "id": "E18",
+    "paper": "10.1086_230545",
+    "claim": "C9",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.21",
+    "says": "Wives who see the split as unfair to their husband (over-benefited) have more depressive symptoms than wives who see it as fair (U-shape, squared term .188, p<=.05); the outcome is psychological well-being, not relationship satisfaction, and the over-benefit is perceived, not defined by the allocation.",
+    "quote": "Symptoms of depression are minimized when household tasks are perceived to be fair; they are maximized when household chores appear to be unfair either to oneself or to one's spouse.",
+    "version": "unknown-ocr",
+    "quote_sha": "66d469f0439f7789",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.21",
+      "line": 365
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Outcome is depression; over-benefit arm is a fitted-quadratic implication, and authors say excess symptoms derive primarily from unfair-to-self wives.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "66d469f0439f7789"
+    }
+  },
+  "10.1086_230545#E19": {
+    "id": "E19",
+    "paper": "10.1086_230545",
+    "claim": "C9",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.20",
+    "says": "The fairness terms in the depression model are b = .086 (SE .070, ns) linear and b = .188 (SE .084, p<=.05) squared; the quadratic form forces symmetry and the unfair-to-spouse arm covers only 52 wives in Table 4, so the over-benefited contrast is imprecise.",
+    "quote": "of fairnesse</td><td>.086</td><td>.070</td></tr><tr><td>Perception of fairness squared</td><td>.188*</td><td>.084</td></tr><tr><td>Adjusted",
+    "version": "unknown-ocr",
+    "quote_sha": "25bbbd1bf56e23b2",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.20",
+      "line": 345
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Coefficients correct; the 52-wife Table 4 count is not in the passage, and the linear term means the quadratic does not force symmetry.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "25bbbd1bf56e23b2"
+    }
+  },
+  "10.1093_sf_73.2.533#E3": {
+    "id": "E3",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.15",
+    "says": "The author states that the low explained variance of her models (hours plus controls) suggests fairness perceptions are more complex than these indicators capture; it concerns the whole model, not the split alone.",
+    "quote": "The low\nexplained variance also suggests that fairness perceptions are a far more subtle,\ncomplex phenomena than can be represented by these indicators.",
+    "version": "unknown",
+    "quote_sha": "239de03fe0e4aae3",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 897
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "239de03fe0e4aae3"
+    }
+  },
+  "10.1093_sf_73.2.533#E4": {
+    "id": "E4",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "In the controls section the author says the equations explain less than 5% of the incremental variance; the sentence does not define \"incremental\" and speaks of the whole equations, not of the split's own share, so it is corroboration only.",
+    "quote": "Together\nthese equations explain less than 5% of the incremental variance.",
+    "version": "unknown",
+    "quote_sha": "1e1ef24431dab72d",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 584
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Undefined 'incremental' variance likely means variance added by controls beyond hours, so it does not measure the split's own share.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "1e1ef24431dab72d",
+      "stance": "qualifies"
+    }
+  },
+  "10.1093_sf_73.2.533#E5": {
+    "id": "E5",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "The author states the study cannot determine which referents (nonpartner comparisons) respondents use, so referents are not measured and no test of referents net of the split is made.",
+    "quote": "Though this current study cannot determine whether women and men are\nusing nonpartner referents to decide whether housework chores are fairly\ndistributed",
+    "version": "unknown",
+    "quote_sha": "de61b81927f610d8",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 170
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "de61b81927f610d8"
+    }
+  },
+  "10.1093_sf_73.2.533#E6": {
+    "id": "E6",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.15",
+    "says": "The author says the survey questions could not elicit contradictory or unresolved beliefs; the models use only hours, employment and demographic controls, so justifications for an unequal split are not measured and C3 is not tested (the passage does not name justifications itself).",
+    "quote": "The questions\nin this large-scale, quantitative survey could not elicit information about\ncontradictory, unresolved feelings and beliefs among respondents.",
+    "version": "unknown",
+    "quote_sha": "59f06aea626dbf18",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 895
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Passage concerns unresolved feelings and beliefs, not justifications; that justifications are unmeasured comes from the model specification, not this passage.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "59f06aea626dbf18"
+    }
+  },
+  "10.1093_sf_73.2.533#E7": {
+    "id": "E7",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.3",
+    "says": "Reports, from Blair and Johnson (1992), that husbands' participation in stereotypically feminine housework is the strongest predictor of wives' fairness perception; this is second-hand, covers wives only, does not say the effect holds beyond total time, and this paper itself uses only total hours over nine tasks and does not test task type.",
+    "quote": "However, they find that the strongest predictor of wives' fairness perception\nis husbands' participation in stereotypically feminine housework.",
+    "version": "unknown",
+    "quote_sha": "9c259b8e75041c79",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.3",
+      "line": 108
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "9c259b8e75041c79"
+    }
+  },
+  "10.1093_sf_73.2.533#E8": {
+    "id": "E8",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.7",
+    "says": "In this one study perceived fairness is a single self-administered question (\"How do you feel about the fairness in your relationship in household chores?\") with a five-category response set; this shows one study's single-item measure, not that studies mainly use one.",
+    "quote": "Perceptions of housework fairness are constructed from responses to the self-\nadministered question \"How do you feel about the fairness in your relationship\nin household chores?\" The five-category response set ranged from \"very unfair\nto me\" to \"very unfair to her/him.\"",
+    "version": "unknown",
+    "quote_sha": "42516201ed257ae8",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.7",
+      "line": 301
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "42516201ed257ae8"
+    }
+  },
+  "10.1093_sf_73.2.533#E9": {
+    "id": "E9",
+    "paper": "10.1093_sf_73.2.533",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.7",
+    "says": "The single item is scored 1 to 5 for the regressions, with higher meaning the allocation is more unfair to the woman, so both partners' answers are coded in the woman's direction; again this describes only this study's measure.",
+    "quote": "For the regressions, fairness perceptions\nrange from 1 through 5 with higher scores indicating housework allocation is\nunfair to the woman.",
+    "version": "unknown",
+    "quote_sha": "43538d3d0105354a",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.7",
+      "line": 305
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "43538d3d0105354a"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E3": {
+    "id": "E3",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.10",
+    "says": "Unadjusted, the women's share of child care correlates -.47 with women's child-care justice (r-squared about 22%) and -.40 with domestic-work justice, so the split alone is not trivially small; the small share is the adjusted, after-the-entitlement-block figure.",
+    "quote": "CC-w\n.65\n.12\n.65\n.12\n−.31∗∗\n−.18∗∗\n−.47∗∗\n−.27∗∗",
+    "version": "unknown",
+    "quote_sha": "e56ea1d11671b5ee",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 1097
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Column headers absent from passage, so mapping -.47 to women's child-care justice is unverified; the -.40 comes from another row.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e56ea1d11671b5ee"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E4": {
+    "id": "E4",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C2",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.14",
+    "says": "With the division and hours controlled, the outcome of the man-vs-other-men comparison predicts justice (beta = .181, t = 7.585); the woman-vs-other-women outcome does not (beta = -.041).",
+    "quote": "MM\n0.153\n0.019\n7.585∗∗∗\n.181",
+    "version": "unknown",
+    "quote_sha": "8d5a133f2835b738",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.14",
+      "line": 1876
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "8d5a133f2835b738"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E5": {
+    "id": "E5",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "Only one of the referent comparisons predicts: the outcome of the woman-vs-other-women comparison and the frequencies of both referential comparisons were n.s., so the claim holds for the man-vs-other-men outcome only (in a high-education sample, pooled across sexes).",
+    "quote": "No signiﬁcant coefﬁcients\nresulted for the frequencies of the referential\nWW and MM comparisons.",
+    "version": "unknown",
+    "quote_sha": "e65267b47211dac5",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 1796
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e65267b47211dac5"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E6": {
+    "id": "E6",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.15",
+    "says": "Authors state the entitlement predictors, including comparisons, remain predictive when controlling for the balance of the division, but the design is cross-sectional and the comparison outcome is itself a perceived-split rating.",
+    "quote": "The entitlement-related factors social\ncomparisons, valued outcomes, and justiﬁcations\nproved to be predictive for the justice evaluations\neven when controlling for the balance of\nthe division of family work.",
+    "version": "unknown",
+    "quote_sha": "f17dd90f02eac2f3",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 2028
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f17dd90f02eac2f3",
+      "stance": "supports"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E7": {
+    "id": "E7",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.14",
+    "says": "The woman's weekly professional work hours predict both partners' justice ratings net of the division (beta = -.087, t = -3.658).",
+    "quote": "Professional workload W\n−0.008\n0.002\n−3.658∗∗∗\n−.087",
+    "version": "unknown",
+    "quote_sha": "7ffd6e5ebba68e2c",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.14",
+      "line": 1904
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Woman's work hours is an objective proxy for justification, not a justification the partner reports accepting; man's hours not shown predictive.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "7ffd6e5ebba68e2c",
+      "stance": "qualifies"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E8": {
+    "id": "E8",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Justifications (proxied by hours and SES) predicted only for the woman's hours and SES, not the man's; they are objective proxies for legitimacy, not the justifications a partner reports accepting, and the SES direction is a post hoc reading.",
+    "quote": "The results show that women’s time for pro-\nfessional work and women’s SES signiﬁcantly\npredict women’s and men’s evaluations of\njustice, but men’s SES and time for profes-\nsional work do not.",
+    "version": "unknown",
+    "quote_sha": "52a2e46e9d73086f",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 2233
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "52a2e46e9d73086f"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E9": {
+    "id": "E9",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C8",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "In this study perceived fairness was one self-report item per domain (6-point scale, 1 = very unjust, 6 = very just); the study does not itself survey how other studies measure it.",
+    "quote": "Participants indicated on\n6-point rating scales how just they regarded\nthe given division of domestic work and the\ndivision of childcare, respectively, between\nthem and their partner (“How just do you\nregard the given division of domestic work\n[child care], between you and your partner?”;\n1 = very unjust, 6 = very just).",
+    "version": "unknown",
+    "quote_sha": "ffc2ba065597cd4b",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 714
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Describes one study's own measure; says nothing about how studies in general measure perceived fairness.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ffc2ba065597cd4b",
+      "stance": "qualifies"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E10": {
+    "id": "E10",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.1",
+    "says": "Reports, from cited studies (Buunk 2000, DeMaris 2007, Greenstein 1996, Grote & Clark 2001, Kluwer 1997, Mikula 2008), that perceived justice relates to relationship satisfaction; this paper measures no satisfaction and compares nothing against the split.",
+    "quote": "Evidence also shows that perceived jus-\ntice of the division of family work is related\nto individual well-being, relationship satis-\nfaction, frequency of conﬂicts, and the sta-\nbility of close relationships",
+    "version": "unknown",
+    "quote_sha": "36751100e4da3c23",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.1",
+      "line": 65
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "36751100e4da3c23"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E11": {
+    "id": "E11",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.10",
+    "says": "Table 1 gives only the woman's share as seen by the man (m) and by the woman (w); read literally, domestic work is .61 (man's view) vs .49 (woman's view), implying own claims of 39% (man) + 49% (woman) = 88%, and child care .64 vs .65, implying 36% + 65% = 101%. Reported by the authors only as means of the woman's share; sums of own claims are my arithmetic and the m/w labelling is ambiguous, so this neither confirms nor clearly refutes over-claiming.",
+    "quote": "DW-m\n.61\n.13\n.61\n.13\n−.20∗∗\n−.22∗∗\n−.14∗∗\n−.23∗∗\nDW-w\n.49\n.20\n.49\n.20\n−.30∗∗\n−.13∗∗\n−.40∗∗\n−.18∗∗",
+    "version": "unknown",
+    "quote_sha": "b5b13c714b2e70d8",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 1080
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Column headers and row labels not in passage; sums are reader's arithmetic on sample means, not couple-level self-claims.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b5b13c714b2e70d8"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E12": {
+    "id": "E12",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.8",
+    "says": "The division variables are each respondent's own hours estimates for self and partner, turned into the woman's share of the total, which is how the m/w rows of Table 1 are built.",
+    "quote": "Participants indicated\nhow many hours they themselves and their\npartner spent on domestic work (household\nlabor and maintenance and repair tasks) and\nchild care during the 7 days of an average\nweek. Based upon these data, we calculated\nthe woman’s and the man’s assessment of\nthe percentage of the total time spent by\nboth partners for domestic work and child\ncare, respectively.",
+    "version": "unknown",
+    "quote_sha": "0fbfa5a3786f873b",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 789
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "0fbfa5a3786f873b"
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x#E13": {
+    "id": "E13",
+    "paper": "10.1111_j.1475-6811.2009.01239.x",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "Tested only at the level of domain (domestic work vs child care), not which chores: the framework predictors did not differ between domains; the paper has no task-level analysis, so it cannot show whether which chores are done predicts fairness beyond time.",
+    "quote": "The current analyses revealed no differ-\nences between domestic work and child care\nwith regard to the relevance of the variables\nreferring to the distributive justice framework.",
+    "version": "unknown",
+    "quote_sha": "a4487b12a8393588",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 2351
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "a4487b12a8393588"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E3": {
+    "id": "E3",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "States the review's conclusion that the husband's share of routine housework is the single most important predictor of a wife's fairness evaluation; importance is ranked, not quantified as a share of variance.",
+    "quote": "the majority of studies in the 1990s concluded that the single most important predictor of a wife’s fairness evaluation is what portion of the routine housework her husband contributes.",
+    "version": "unknown",
+    "quote_sha": "927fe60dceda1bc0",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 1836
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "927fe60dceda1bc0"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E4": {
+    "id": "E4",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports, from Hawkins et al. 1995 (cross-gender), Coltrane 1990 and Gager 1998 (same-gender), that referent choice goes with fairness judgments in the predicted direction; the passage does not say the association holds after adjusting for the actual split.",
+    "quote": "As predicted, the selection and use of cross-gender referents seems to lead women to judge divisions of labor as less fair",
+    "version": "unknown",
+    "quote_sha": "1807a5fcca9e2dd1",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1777
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "1807a5fcca9e2dd1"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E5": {
+    "id": "E5",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "States the distributive-justice prediction (outcome values, comparison referents, justifications) as a theoretical expectation, not a tested incremental effect.",
+    "quote": "wives should better grasp the in-\njustice of the existing division of housework if\nthey lack valued outcomes, compare their hus-\nband’s contributions to their own, and reject jus-\ntiﬁcations for unequal performance",
+    "version": "unknown",
+    "quote_sha": "ebec1bda14a50aa8",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 1680
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ebec1bda14a50aa8"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E6": {
+    "id": "E6",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports, from Allen and Hawkins 1998, Coltrane 1996, Ferree 1990 and Hawkins et al. 1995, that invoking high housekeeping standards justifies husbands' non-performance; this is about how justification works, not an adjusted association with fairness.",
+    "quote": "invoking high house-\nkeeping standards tends to provide justiﬁcation for\nhusbands’ nonperformance of household tasks",
+    "version": "unknown",
+    "quote_sha": "29732ead2357a380",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1783
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "29732ead2357a380"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E7": {
+    "id": "E7",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports that the emotional meaning of housework can lead women to treat a partner's intent as sufficient and so judge an unbalanced split as fair (Hochschild 1989), a justification-type mechanism stated without an adjusted estimate.",
+    "quote": "it can\nalso encourage women to consider men’s expres-\nsions of affection or positive intent as sufﬁcient,\nthereby lowering their expectations and judging\ncurrent unbalanced labor arrangements as fair",
+    "version": "unknown",
+    "quote_sha": "6d141681a4311726",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1769
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "6d141681a4311726"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E8": {
+    "id": "E8",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports that perceived fairness contributes to marital satisfaction or quality, especially for women (Blair 1993 and others); no comparison of its strength with that of the actual split.",
+    "quote": "Perceived fairness also contributes to mar-\nital satisfaction or marital quality, especially for women",
+    "version": "unknown",
+    "quote_sha": "bb9656d161a4e9ad",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1813
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "bb9656d161a4e9ad"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E9": {
+    "id": "E9",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "Reports that marital satisfaction rises with the amount of routine housework shared (four studies), the split-satisfaction link, with no figure set against the fairness-satisfaction link.",
+    "quote": "Several studies also have found that marital satisfaction increases in relation to the amount of routine housework that is shared by spouses",
+    "version": "unknown",
+    "quote_sha": "ade5230534091afc",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 1867
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ade5230534091afc"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E10": {
+    "id": "E10",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.2",
+    "says": "Says that for men, split and fairness are typically unrelated to well-being or marital satisfaction, so any comparison of strengths is confined to women.",
+    "quote": "For men, in\ncontrast, divisions of household labor and perceptions of fairness are typically unrelated to personal well-being or marital satisfaction.",
+    "version": "unknown",
+    "quote_sha": "8ffff5362ba89a77",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.2",
+      "line": 163
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "8ffff5362ba89a77"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E11": {
+    "id": "E11",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports that eight studies treat fairness as a mediating variable between the split and well-being; it states the modelling approach, not a finding on whether or how much fairness mediates.",
+    "quote": "Other studies consider fairness as a mediating,\nor intervening, variable between the division of\nhousehold labor and personal or marital well-be-\ning",
+    "version": "unknown",
+    "quote_sha": "5aee385fdbd57bb5",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1787
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "5aee385fdbd57bb5"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E12": {
+    "id": "E12",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "Reports that marital conflict rises only when the wife sees the split as unfair (Blair 1993; Perry-Jenkins and Folk 1994; Wilkie et al. 1998); the outcome is conflict, with satisfaction linked only through conflict, so this is indirect support for mediation of satisfaction.",
+    "quote": "Only when women perceive the di-\nvision of labor to be unfair, does the level of mar-\nital conﬂict go up",
+    "version": "unknown",
+    "quote_sha": "613fc55add93a039",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 1894
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "613fc55add93a039"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E13": {
+    "id": "E13",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "Describes a causal chain from men's routine chores to fairness to lower depression; stated as the reviewer's reading (\"it appears\"), the outcome is depression and not satisfaction.",
+    "quote": "It appears that it is primarily\nmen’s participation in the routine repetitive chores\nof cooking, cleaning, and washing that relieves\nwomen’s burden, contributes to their sense of fair-\nness, and hence lowers their chances of being de-\npressed.",
+    "version": "unknown",
+    "quote_sha": "f4d95df16f1992a0",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 1858
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f4d95df16f1992a0"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E14": {
+    "id": "E14",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C6",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "Reports that both men and women tend to overestimate their own contributions in direct-question surveys (men possibly more); this is the mechanism behind combined self-reports exceeding the whole, though no sum above 100% is reported.",
+    "quote": "Both men and women\ntend to overestimate their own contributions in di-\nrect-question surveys and to double-count time\nspent in simultaneous activities",
+    "version": "unknown",
+    "quote_sha": "6317de6fb4430e3e",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 1015
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Overestimation is of own time against diaries, not of shares; no sum of the partners' shares above 100% is reported.",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "6317de6fb4430e3e",
+      "stance": "qualifies"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E15": {
+    "id": "E15",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "Reports that studies now collect self and spouse reports from both partners and typically average them to minimise reporting bias, which implies the self-reports disagree but gives no size.",
+    "quote": "many studies in the 1990s used estimates of self\nand spouse contributions to each task from both\nhusbands and wives (typically averaged to mini-\nmize reporting biases",
+    "version": "unknown",
+    "quote_sha": "287862499b5276bf",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 1072
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "287862499b5276bf"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E16": {
+    "id": "E16",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "Reports that unfairness is seen especially when men contribute little to routine cooking, cleaning and washing (DeMaris and Longmore; John et al.; Lennon and Rosenfeld and others), so task type matters; no test against hours is described.",
+    "quote": "especially when men contribute little to the routine tasks of cooking, cleaning, and washing",
+    "version": "unknown",
+    "quote_sha": "29130826a2c91e02",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 1702
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "29130826a2c91e02"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E17": {
+    "id": "E17",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.17",
+    "says": "Reports (DeMaris and Longmore 1996) that as men do more occasional tasks, both spouses more often judge the split fair to wives; a task-type effect, not shown net of time.",
+    "quote": "as\nmen do more of the occasional tasks (such as\nwashing the car), both spouses are more likely to\njudge the division of household labor as fair to\nwives",
+    "version": "unknown",
+    "quote_sha": "0f9313bd28b736a1",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.17",
+      "line": 1716
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "0f9313bd28b736a1"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E18": {
+    "id": "E18",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "Says that a single total-hours measure is less successful than alternatives at specifying how household labor affects fairness or satisfaction; an assertion by the reviewer with no comparison shown.",
+    "quote": "this approach ex-\nplains only a small portion of the variance in\nhousehold labor as a dependent variable and is\nless successful than alternate approaches in spec-\nifying how and why household labor might inﬂu-\nence fairness evaluations or marital satisfaction.",
+    "version": "unknown",
+    "quote_sha": "f0a87cb192b955ba",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 300
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f0a87cb192b955ba"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E19": {
+    "id": "E19",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "Flags an NSFH fairness item as lacking unidimensionality (Smith, Gager and Morgan 1998); shows one widely used item is a concern, but does not state that single items dominate.",
+    "quote": "especially with an NSFH item that lacks unidimensionality and is difﬁcult to interpret",
+    "version": "unknown",
+    "quote_sha": "e1620d46ed2e95f2",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 1643
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e1620d46ed2e95f2"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E20": {
+    "id": "E20",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "Reports that new questionnaire instruments to measure fairness were devised in the 1990s (Hawkins, Marshall and Allen 1998), pointing to some multi-item measurement, though extent of use is not given.",
+    "quote": "Researchers devised new ques-\ntionnaire instruments to measure fairness (Haw-\nkins, Marshall, & Allen, 1998)",
+    "version": "unknown",
+    "quote_sha": "e51fb5016e2468d0",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 1090
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e51fb5016e2468d0"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E21": {
+    "id": "E21",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C9",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "States equity theory's prediction that over-benefitted partners are uncomfortable, then reports evidence against it: men who do little persist in seeing the split as fair; the theory is not tested on satisfaction.",
+    "quote": "Equity theory posits that partners will feel uncomfortable with situations in which they are either over- or under-beneﬁtted",
+    "version": "unknown",
+    "quote_sha": "f75e49d65d00c1e6",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 1652
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f75e49d65d00c1e6"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E22": {
+    "id": "E22",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C9",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "Reports that men who do little persist in seeing the split as fair (Ward 1993), which challenges the premise that over-benefit reduces satisfaction through felt unfairness.",
+    "quote": "from\nresearch showing that men who do little per-\nsist in seeing the allocation of household tasks as\nfair",
+    "version": "unknown",
+    "quote_sha": "91a000f5fb95dac7",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 1661
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "91a000f5fb95dac7"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E23": {
+    "id": "E23",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C9",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.2",
+    "says": "The review's summary is that for men (the usual over-benefited partner) split and fairness are typically unrelated to marital satisfaction; a prose summary, not a precisely estimated null.",
+    "quote": "For men, in\ncontrast, divisions of household labor and perceptions of fairness are typically unrelated to personal well-being or marital satisfaction.",
+    "version": "unknown",
+    "quote_sha": "8ffff5362ba89a77",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.2",
+      "line": 163
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Men stand in for over-benefited partners; a summary of no linear relation, not a direct over-benefit versus equitable comparison.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "8ffff5362ba89a77"
+    }
+  },
+  "10.1111_j.1741-3737.2000.01208.x#E24": {
+    "id": "E24",
+    "paper": "10.1111_j.1741-3737.2000.01208.x",
+    "claim": "C9",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "Reports that men are almost universally satisfied with the division of housework while women are often less satisfied (Baxter and Western 1998), consistent with over-benefit not lowering men's satisfaction; satisfaction with the division, not with the marriage.",
+    "quote": "Men are almost universally satisﬁed with the division of house-\nwork, whereas women are often less satisﬁed",
+    "version": "unknown",
+    "quote_sha": "de453fdbfca2058c",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 1831
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "de453fdbfca2058c"
+    }
+  },
+  "10.1177_019251395016006002#E3": {
+    "id": "E3",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.22",
+    "says": "The combined model of all framework constructs plus Division accounts for 66 percent of the variance in fairness; the share due to Division alone is not reported.",
+    "quote": "Overall, these constructs suggested by the distributive justice framework combined in the final model to account for \\(66\\%\\) of the variance in wives' sense of fairness about family work.",
+    "version": "unknown-ocr",
+    "quote_sha": "ecaae4682d7450f1",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 315
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ecaae4682d7450f1"
+    }
+  },
+  "10.1177_019251395016006002#E4": {
+    "id": "E4",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.15",
+    "says": "The authors say weak division-fairness associations in other work are unsurprising when measures omit child care; it is an assertion about prior studies without a citation, not a result of this paper.",
+    "quote": "it is not surprising that weak associations are found between the division of work and feelings of fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "215c10786bdd8ab1",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 208
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "215c10786bdd8ab1"
+    }
+  },
+  "10.1177_019251395016006002#E5": {
+    "id": "E5",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.18",
+    "says": "In the valued-outcomes model Division is significantly related to fairness but appreciation has the stronger direct effect (.664); the Division coefficient is only in the figure.",
+    "quote": "\"Division\" was significantly associated with \"Fairness;\" the more wives did relative to their husbands, the less fair they reported the allocation of family work to be. \"Feeling Appreciated\" had a stronger direct effect, however (coefficient = .664)",
+    "version": "unknown-ocr",
+    "quote_sha": "15a304813a3da4ea",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.18",
+      "line": 252
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "15a304813a3da4ea"
+    }
+  },
+  "10.1177_019251395016006002#E6": {
+    "id": "E6",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C2",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.19",
+    "says": "Invisible Work Recognition, a comparison-referent construct, had no direct association with fairness in the model that includes Division; its effect was only through Division (.275 x -.535 = -.147).",
+    "quote": "\"Invisible Work Recognition\" was not directly related to \"Fairness,\" as hypothesized, but it did have an indirect effect",
+    "version": "unknown-ocr",
+    "quote_sha": "e9e28a8e0133d0d9",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.19",
+      "line": 271
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controls for wife-perceived division, not actual split; one referent construct only, measured with alpha .62.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "e9e28a8e0133d0d9"
+    }
+  },
+  "10.1177_019251395016006002#E7": {
+    "id": "E7",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C2",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.20",
+    "says": "In the comparison-referents model (Division included), Between-Gender Comparisons has a direct coefficient of -.229 on fairness, partly offset by an indirect path via Division.",
+    "quote": "The direct path coefficient was -.229; the more wives compared their husbands' time and efforts in domestic labor with their own labor and not with the efforts of other men, the less fair wives reported family work to be.",
+    "version": "unknown-ocr",
+    "quote_sha": "1d9d0797023eaaef",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.20",
+      "line": 280
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controls for wife-perceived division, not actual split; single item, separate-component model only; direct effect lost significance in the combined model.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "1d9d0797023eaaef",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_019251395016006002#E8": {
+    "id": "E8",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C2",
+    "stance": "contradicts",
+    "kind": "text",
+    "locator": "p.22",
+    "says": "In the combined model with Division, the direct effects of Between-Gender Comparisons (and Standards) on fairness were no longer significant; the referent constructs worked only indirectly.",
+    "quote": "In the combined model, the significant, direct effects of \"Between-Gender Comparisons\" and \"Standards\" on \"Fairness\" were no longer significant.",
+    "version": "unknown-ocr",
+    "quote_sha": "3d660bbba083fe33",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 307
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controls for wife-perceived division, not actual split; Coprovider Orientation untested.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3d660bbba083fe33"
+    }
+  },
+  "10.1177_019251395016006002#E9": {
+    "id": "E9",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Coprovider Orientation, one of the planned referent measures, was dropped for low reliability (alpha .51), so it went untested.",
+    "quote": "Because of the low reliability of the measures for \"Minimizing Trouble,\" \"Coprovider Orientation,\" and \"Off the Hook,\" we exclude them from our test of the value of the distributive justice framework for understanding feelings of fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "231119254d97b822",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 169
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "231119254d97b822"
+    }
+  },
+  "10.1177_019251395016006002#E10": {
+    "id": "E10",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.23",
+    "says": "The between-gender comparison construct, the only referent with a direct effect, is a single item chosen after the two planned items were uncorrelated.",
+    "quote": "In addition, we ended up using a single-item measure of \"Between-Gender Comparisons,\" a construct that is certainly complex and multidimensional.",
+    "version": "unknown-ocr",
+    "quote_sha": "c28da1e5482ea4e3",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.23",
+      "line": 324
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c28da1e5482ea4e3"
+    }
+  },
+  "10.1177_019251395016006002#E11": {
+    "id": "E11",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.21",
+    "says": "With Division in the model, Deciding Together (a justification/process construct) has a direct coefficient of .512 on fairness, plus an indirect path via a more equal split (-.324 x -.279 = .090).",
+    "quote": "\"Deciding Together\" did have the hypothesized relationship to \"Fairness\"; when wives reported that the division of family work was something that was worked out together with their husbands, then wives reported the division of labor to be more fair (coefficient \\(= .512\\)).",
+    "version": "unknown-ocr",
+    "quote_sha": "fe3a88680b0f7497",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.21",
+      "line": 295
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controls for wife-perceived division, not actual split; single-item process measure, dropped from the combined model for collinearity with appreciation.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "fe3a88680b0f7497",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_019251395016006002#E12": {
+    "id": "E12",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.21",
+    "says": "With Division in the model, Standards (wife's higher standards as a justification) has a direct coefficient of -.124 on fairness, opposite to the hypothesised sign, plus a compounding indirect path.",
+    "quote": "The higher standards wives held relative to their husbands for the performance of housework and child care, the less fair wives reported the allocation of family work to be (coefficient \\(= -.124\\)).",
+    "version": "unknown-ocr",
+    "quote_sha": "6fde9042ce3b930e",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.21",
+      "line": 291
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Controls for wife-perceived division, not actual split; direct effect not significant in the combined model.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "6fde9042ce3b930e",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_019251395016006002#E13": {
+    "id": "E13",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.22",
+    "says": "In the combined model the direct effect of Standards was no longer significant, and Deciding Together (r = .68 with Feeling Appreciated) was removed for multicollinearity, so the independent contribution of the justifications was not retained in the overall model.",
+    "quote": "we needed to eliminate one of the constructs from the final analysis to avoid problems with multicollinearity.",
+    "version": "unknown-ocr",
+    "quote_sha": "b6f549f89993545b",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 304
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b6f549f89993545b"
+    }
+  },
+  "10.1177_019251395016006002#E14": {
+    "id": "E14",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Off the Hook (accepted excuses for the husband, alpha .55) was dropped as unreliable, so the accepted-excuse justification was not tested; Deciding Together is one item.",
+    "quote": "Because of the low reliability of the measures for \"Minimizing Trouble,\" \"Coprovider Orientation,\" and \"Off the Hook,\" we exclude them from our test of the value of the distributive justice framework for understanding feelings of fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "231119254d97b822",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 169
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "231119254d97b822"
+    }
+  },
+  "10.1177_019251395016006002#E15": {
+    "id": "E15",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "The authors pool housework and child care in both fairness and Division, arguing that trade-offs between them matter; chore type is not entered as a predictor beyond time, so C7 is untested.",
+    "quote": "Trade-offs are made; less involvement in one domain may or may not be made up for by greater involvement in another.",
+    "version": "unknown-ocr",
+    "quote_sha": "4541564386ce108a",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 181
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "4541564386ce108a"
+    }
+  },
+  "10.1177_019251395016006002#E16": {
+    "id": "E16",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.29",
+    "says": "Reports, from Mederer (1993), that task allocation predicted fairness in a sample of full-time state employees that excluded child care; the authors suggest the sample may be unusual.",
+    "quote": "The unique nature of her sample may account for the predictive power of task allocation on fairness.",
+    "version": "unknown-ocr",
+    "quote_sha": "caecaef2a6f2edef",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.29",
+      "line": 415
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "caecaef2a6f2edef"
+    }
+  },
+  "10.1177_019251395016006002#E17": {
+    "id": "E17",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C8",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Reports, from Blair and Johnson (1992), a single-item NSFH measure of fairness (housework only).",
+    "quote": "Blair and Johnson (1992) used a single-item measure from the NSFH",
+    "version": "unknown-ocr",
+    "quote_sha": "590f236169f98247",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 173
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "One cited study's single item; does not show single items are the main approach across studies.",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "590f236169f98247",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_019251395016006002#E18": {
+    "id": "E18",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Reports, from Mederer (1993), a three-item indirect measure of fairness, so not all prior studies used a single item.",
+    "quote": "Mederer (1993) assessed this construct indirectly with a three-item measure that asked wives",
+    "version": "unknown-ocr",
+    "quote_sha": "d70317e69ea3e7b4",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 171
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "d70317e69ea3e7b4"
+    }
+  },
+  "10.1177_019251395016006002#E19": {
+    "id": "E19",
+    "paper": "10.1177_019251395016006002",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "This study measures fairness with a two-item scale (housework and child care, alpha .84, r = .79), not a single item.",
+    "quote": "Two items specifically addressing wives' feelings of fairness about child care and housework were included in our survey and formed a scale with a Cronbach's alpha of .84.",
+    "version": "unknown-ocr",
+    "quote_sha": "70b76ceac3f242fd",
+    "depth": "machine_read",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 183
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "70b76ceac3f242fd"
+    }
+  },
+  "10.1177_08912432251337416#E2": {
+    "id": "E2",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.22",
+    "says": "Table 4 col 1: the focal housework share coefficients are -3.505 (10%) and 3.500 (90%) fairness points on an 11-point scale, an order of magnitude larger than the earnings (0.204) and work-time (0.449) coefficients; this speaks to effect sizes at the stimulus ranges chosen, not to R-squared.",
+    "quote": "Focal person 10%\n–3.505***\n(0.05)\n…\nFocal person 90%\n3.500***\n(0.05)",
+    "version": "publisher",
+    "quote_sha": "3df4028307284d83",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 2,
+      "found_at": "p.22",
+      "line": 975
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3df4028307284d83"
+    }
+  },
+  "10.1177_08912432251337416#E3": {
+    "id": "E3",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "The housework share was varied across five levels from 10% to 90%, including rarely observed arrangements, so the size of its coefficient depends on the experimenter's choice of range.",
+    "quote": "vignettes present five types of housework divisions, ranging from extreme\nscenarios where one of the spouses performs most of the housework to\ncompletely egalitarian divisions.",
+    "version": "publisher",
+    "quote_sha": "11afe46613f0d587",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 624
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "11afe46613f0d587"
+    }
+  },
+  "10.1177_08912432251337416#E4": {
+    "id": "E4",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.10",
+    "says": "The authors state that social comparison processes are a driver of fairness they did not test, so comparison referents are not measured in this study.",
+    "quote": "Last, there are other drivers of fairness perceptions that we are not testing in this study.",
+    "version": "publisher",
+    "quote_sha": "4aad74eac22f6625",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.10",
+      "line": 400
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "4aad74eac22f6625"
+    }
+  },
+  "10.1177_08912432251337416#E5": {
+    "id": "E5",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.11",
+    "says": "Comparison and process fairness were deliberately left out because of respondent burden, which the authors call a limitation; the study gives no evidence on referents.",
+    "quote": "Due to concerns\nabout respondents’ cognitive burden and the overall length of our vignette\ndesign, we decided not to examine these alternative drivers of fairness\nassessments in the case of housework, which is a limitation of the present study.",
+    "version": "publisher",
+    "quote_sha": "5cfc2a0206d0b4d9",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.11",
+      "line": 414
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "5cfc2a0206d0b4d9"
+    }
+  },
+  "10.1177_08912432251337416#E6": {
+    "id": "E6",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.22",
+    "says": "Table 4 col 1 (randomised vignette): a focal person with more relative income is rated 0.204 points more overburdened with housework (p < 0.001), net of the randomised housework share; this is rater judgement of a hypothetical couple.",
+    "quote": "Focal person more income\n0.204***\n(0.05)",
+    "version": "publisher",
+    "quote_sha": "b73a47ee75065525",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 898
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Different population and outcome: third-party raters judging hypothetical couples, not partners' own accepted justifications or own perceived fairness.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b73a47ee75065525",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_08912432251337416#E7": {
+    "id": "E7",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.22",
+    "says": "Table 4 col 1: a focal person working more hours than the spouse is rated 0.449 points more overburdened (p < 0.001), and one working fewer hours 0.337 points less, net of the randomised housework share.",
+    "quote": "Focal person more hours\n0.449***\n(0.08)",
+    "version": "publisher",
+    "quote_sha": "42c7f72de3003463",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.22",
+      "line": 920
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Different population and outcome: third-party raters judging hypothetical couples, not partners' own accepted justifications or own perceived fairness.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "42c7f72de3003463",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_08912432251337416#E8": {
+    "id": "E8",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C3",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.20",
+    "says": "Authors' summary of the trade-off result: raters accept more unequal splits as fairer depending on the spouses' other inputs (earnings, work time); an effect of 0.2 (earnings) and 0.4 (work time) fairness points.",
+    "quote": "We found that spouses who spend more time in paid work relative to their\npartner are perceived as unfairly overburdened with housework in 0.4 fairness\npoints (p < 0.001).",
+    "version": "publisher",
+    "quote_sha": "87f6692870b20001",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.20",
+      "line": 837
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Different population and outcome: third-party vignette raters, not partners judging their own split with justifications they accept.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "87f6692870b20001",
+      "stance": "qualifies"
+    }
+  },
+  "10.1177_08912432251337416#E9": {
+    "id": "E9",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.31",
+    "says": "The authors state the analysis concerns how people judge others' arrangements, not their own, so the result does not show that justifications a partner accepts predict that partner's own perceived fairness.",
+    "quote": "While our analysis pertains to how people judge others’ divisions of labor and not\ntheir own arrangements",
+    "version": "publisher",
+    "quote_sha": "ced56af4cbb920fe",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.31",
+      "line": 1549
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "ced56af4cbb920fe"
+    }
+  },
+  "10.1177_08912432251337416#E10": {
+    "id": "E10",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.3",
+    "says": "The authors argue that partners' own fairness reports capture post hoc rationalisation, a reason they use vignettes; this is the confound a partner-level claim carries and the vignette removes.",
+    "quote": "Second, an important limitation of focusing\non spouses’ fairness perceptions is that this captures individuals’ post hoc\nrationalization processes, often justifying current labor divisions to avoid\nmarital conflict (Hochschild and Machung 1989).",
+    "version": "publisher",
+    "quote_sha": "b3dea95a5c1d970d",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.3",
+      "line": 113
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b3dea95a5c1d970d"
+    }
+  },
+  "10.1177_08912432251337416#E11": {
+    "id": "E11",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.16",
+    "says": "Chores are not specified in the vignettes: only a share of an undefined set of chores is shown, so which chores a partner does is not varied or tested.",
+    "quote": "Vignette couples have a set of undefined housework chores\nthat need to be executed in a week, and we present how that total household\nlabor is divided between partners.",
+    "version": "publisher",
+    "quote_sha": "2ac31faa55efe893",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.16",
+      "line": 629
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "2ac31faa55efe893"
+    }
+  },
+  "10.1177_08912432251337416#E12": {
+    "id": "E12",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.32",
+    "says": "The authors name task type as an open empirical question, i.e. untested here.",
+    "quote": "Fairness assessments may\nvary across specific household labor domains and types of tasks, presenting an empirical question for future research to explore.",
+    "version": "publisher",
+    "quote_sha": "7c7f05574319a44f",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.32",
+      "line": 1591
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "7c7f05574319a44f"
+    }
+  },
+  "10.1177_08912432251337416#E13": {
+    "id": "E13",
+    "paper": "10.1177_08912432251337416",
+    "claim": "C8",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.15",
+    "says": "This single study measures perceived fairness with one 11-point self-report item per vignette; it is one instance, not evidence of what studies mainly use.",
+    "quote": "After reading each vignette, respondents were asked to evaluate the\nfairness of the described division of housework for one of the spouses (the\nfocal spouse) using an 11-point fairness scale ranging from –5 ([focal\nspouse] unfairly doing too little housework) to +5",
+    "version": "publisher",
+    "quote_sha": "b2bad6b6a54cf657",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.15",
+      "line": 602
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "b2bad6b6a54cf657"
+    }
+  },
+  "10.2307_353243#E2": {
+    "id": "E2",
+    "paper": "10.2307_353243",
+    "claim": "C1",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.8",
+    "says": "Table 2 gives R2 of .145 for employed and .157 for nonemployed wives for the full model.",
+    "quote": "R2\n.145\n.157",
+    "version": "unknown",
+    "quote_sha": "32337729a57cef12",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 777
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Wives only; R2 is for the full model including appreciation, qualities and ideology, so only an upper bound for the split.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "32337729a57cef12"
+    }
+  },
+  "10.2307_353243#E3": {
+    "id": "E3",
+    "paper": "10.2307_353243",
+    "claim": "C1",
+    "stance": "qualifies",
+    "kind": "table",
+    "locator": "p.9",
+    "says": "Table 3 etas for husbands' hours in female-dominated tasks are .32 (employed) and .23 (nonemployed), i.e. about 10% and 5% of variance on the ANOVA categories; wife's total labor is .16 and .05.",
+    "quote": "Male labor in female-dominated tasks\n.32\n.23",
+    "version": "unknown",
+    "quote_sha": "177400b3336e3045",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.9",
+      "line": 929
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Wives only; bivariate etas on ANOVA hour categories (eta squared about .10 and .05); column header not visible in passage.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "177400b3336e3045",
+      "stance": "supports"
+    }
+  },
+  "10.2307_353243#E4": {
+    "id": "E4",
+    "paper": "10.2307_353243",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.13",
+    "says": "The study has no direct measures of comparison processes, so it cannot test whether referents predict fairness after the split is controlled.",
+    "quote": "we\nhad no direct measures of comparison processes\nor of justifications.",
+    "version": "unknown",
+    "quote_sha": "9709a6c10ad3c2c6",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.13",
+      "line": 1298
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "9709a6c10ad3c2c6"
+    }
+  },
+  "10.2307_353243#E5": {
+    "id": "E5",
+    "paper": "10.2307_353243",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Gender ideology is used only as an assumed proxy for cross-gender comparison; the authors found a main effect of family-labor ideology that is small and no effect of sex-role ideology, and the predicted interactions were not supported.",
+    "quote": "Pre-\nsumably a feminist ideology would lead women to\nmake the cross-gender comparisons that Thomp-\nson argues would contribute to a sense of unfair-\nness in the division of labor",
+    "version": "unknown",
+    "quote_sha": "f827d64e1d653b46",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 1258
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "f827d64e1d653b46"
+    }
+  },
+  "10.2307_353243#E6": {
+    "id": "E6",
+    "paper": "10.2307_353243",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "Justifications are likewise not measured; ideology is the assumed proxy and shows little association with fairness (family-labor ideology beta -.094 for employed wives, general sex-role ideology none).",
+    "quote": "and such an ideology\nwould also undermine the nature of acceptable\njustifications\nfor men's nonparticipation in\nhousework. In such a case, one would expect a\nmain effect of ideology, and although there is a\nsmall relationship between family-labor ideology\nand perceptions of fairness, there is none for our\nmore general measure of sex-role ideology.",
+    "version": "unknown",
+    "quote_sha": "af1b9e2ed3cb8978",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 1262
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "af1b9e2ed3cb8978"
+    }
+  },
+  "10.2307_353243#E7": {
+    "id": "E7",
+    "paper": "10.2307_353243",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.3",
+    "says": "The authors state that they had no direct measure of comparisons or justifications and only assume ideology relates to them.",
+    "quote": "Although we have no direct mea-\nsures of comparisons or justifications, we can use\nideological variables that can reasonably be as-\nsumed to be related to those processes.",
+    "version": "unknown",
+    "quote_sha": "c2af8e2eefc1e739",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.3",
+      "line": 186
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "c2af8e2eefc1e739"
+    }
+  },
+  "10.2307_353243#E8": {
+    "id": "E8",
+    "paper": "10.2307_353243",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.3",
+    "says": "Reports, from Yogev and Brett (1985), a strong association between perceived fairness and marital satisfaction; the paper itself measures no satisfaction and does not compare fairness with the actual split as a correlate of satisfaction.",
+    "quote": "Yogev\nand Brett (1985) find a strong association between\noverall levels of marital happiness and satisfaction\nand the perception of fairness in the division of\nhousehold labor and child care tasks.",
+    "version": "unknown",
+    "quote_sha": "aba64e1f0b73c18e",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.3",
+      "line": 125
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": true,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "aba64e1f0b73c18e"
+    }
+  },
+  "10.2307_353243#E9": {
+    "id": "E9",
+    "paper": "10.2307_353243",
+    "claim": "C5",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.3",
+    "says": "The authors assume a chain from the division of labor to fairness to marital satisfaction to depression, and analyse only the first step; mediation is not tested.",
+    "quote": "This paper will\nfocus on the first step in that chain, the relation-\nship between household division of labor and\nwives' perceptions of the fairness of the allocation\nof household labor.",
+    "version": "unknown",
+    "quote_sha": "5de3e912b9079db5",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.3",
+      "line": 166
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "5de3e912b9079db5"
+    }
+  },
+  "10.2307_353243#E10": {
+    "id": "E10",
+    "paper": "10.2307_353243",
+    "claim": "C6",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.5",
+    "says": "The NSFH holds each partner's report of both partners' hours, but this study uses wives' reports for both spouses, so over-claiming is not examined here.",
+    "quote": "Given the focus of this investi-\ngation on wives' reactions to the division of labor,\nmeasures of both husbands' and wives' household\nlabor are based on reports from wives.",
+    "version": "unknown",
+    "quote_sha": "689a6da2917d614e",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.5",
+      "line": 362
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "689a6da2917d614e"
+    }
+  },
+  "10.2307_353243#E11": {
+    "id": "E11",
+    "paper": "10.2307_353243",
+    "claim": "C7",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.9",
+    "says": "In a separate model, betas for husbands' hours in female-typed, male-typed and neutral tasks are .19, .01 and .07 and only the first is significant, so hours in female-typed tasks predict fairness and hours in other tasks do not.",
+    "quote": "That hy-\npothesis was clearly supported with betas for\nmales' labor in female, male, and gender neutral\ntasks being .19, .01, and .07, respectively. Only\nthe first coefficient is statistically significant.",
+    "version": "unknown",
+    "quote_sha": "97588c481110a36e",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.9",
+      "line": 852
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Different partner: husband's chore type predicts wife's fairness, not the doer's own; standardized betas, per-hour comparison not given.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "97588c481110a36e",
+      "stance": "qualifies"
+    }
+  },
+  "10.2307_353243#E12": {
+    "id": "E12",
+    "paper": "10.2307_353243",
+    "claim": "C7",
+    "stance": "supports",
+    "kind": "table",
+    "locator": "p.8",
+    "says": "Table 2 row for husbands' labor in female-dominated tasks: standardised beta .244 (employed) and .222 (nonemployed), both p < .01, with wife's total labor in the model; unstandardised .022 and .019.",
+    "quote": "Male labor in female-dominated tasks\n.244**\n.222**\n(.022)\n(.019)",
+    "version": "unknown",
+    "quote_sha": "bb727c5a05fe1ebf",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.8",
+      "line": 749
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Husband's female-task hours predict wife's fairness net of wife's total labor, not husband's total time; rater is not the doer.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "bb727c5a05fe1ebf",
+      "stance": "qualifies"
+    }
+  },
+  "10.2307_353243#E13": {
+    "id": "E13",
+    "paper": "10.2307_353243",
+    "claim": "C7",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.12",
+    "says": "The authors state the female-task association is net of the wife's total labor, for both employed and nonemployed wives.",
+    "quote": "The observed relationship for both em-\nployed and nonemployed wives is net of total fe-\nmale labor.",
+    "version": "unknown",
+    "quote_sha": "9b2d731f8325a503",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.12",
+      "line": 1224
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "Net of wife's total labor only, not husband's total time; husband's chores predict wife's fairness, a different partner.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "9b2d731f8325a503",
+      "stance": "qualifies"
+    }
+  },
+  "10.2307_353243#E14": {
+    "id": "E14",
+    "paper": "10.2307_353243",
+    "claim": "C7",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "p.4",
+    "says": "The authors themselves note that male tasks take little time compared with female tasks, so task type and time are entangled in the measure; the variable is hours in female-typed tasks, not task identity net of time.",
+    "quote": "First, the traditional male tasks in-\nvolve little investment of time relative to the fe-\nmale tasks.",
+    "version": "unknown",
+    "quote_sha": "3d851fead10c23b3",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.4",
+      "line": 214
+    },
+    "tier_b": {
+      "verdict": "supports",
+      "caveat": "",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "3d851fead10c23b3"
+    }
+  },
+  "10.2307_353243#E15": {
+    "id": "E15",
+    "paper": "10.2307_353243",
+    "claim": "C8",
+    "stance": "supports",
+    "kind": "text",
+    "locator": "p.6",
+    "says": "This study measured perceived fairness of the chores division with a single 5-point self-report item on the NSFH (one study; no claim about the field as a whole).",
+    "quote": "Wives' perception offair-\nness of the division of labor was measured with\nthe following question: \"How do you feel about\nthe fairness in your relationship in each of the\nfollowing areas? (household chores).\" Responses\nwere on a 5-point scale, ranging from \"very un-\nfair to me\" to \"very unfair to him.\"",
+    "version": "unknown",
+    "quote_sha": "48d2e5d4a88e6194",
+    "depth": "full_text",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "p.6",
+      "line": 499
+    },
+    "tier_b": {
+      "verdict": "partial",
+      "caveat": "One study's measure; counts as a single instance towards a claim about what studies mainly use.",
+      "secondary": false,
+      "by": "claude-opus-5-5",
+      "date": "2026-11-18",
+      "quote_sha": "48d2e5d4a88e6194"
+    }
+  },
+  "10.1093_sf_74.3.1029#E1": {
+    "id": "E1",
+    "paper": "10.1093_sf_74.3.1029",
+    "claim": "C4",
+    "stance": "qualifies",
+    "kind": "text",
     "locator": "sec: Abstract",
-    "says": "Vignette raters treat partners' relative earnings and work time as justifying a smaller share of housework; the rater is not a partner, and effect sizes are absent from the abstract.",
-    "quote": "Spouses’ relative earnings and work time were assessed as contributions that justify doing fewer housework chores for both men and women.",
+    "says": "Perceived inequity is more strongly related to perceived marital quality for egalitarian than for traditional wives; no comparison with the split's own association is stated.",
+    "quote": "perceptions of inequity are more strongly related to perceived quality of the marital relationship for egalitarian than for traditional wives",
     "version": "abstract",
-    "quote_sha": "0b41040dc1b53a09",
+    "quote_sha": "7324d72148b4ea37",
     "depth": "abstract_only",
     "tier_a": {
       "outcome": "exact",
@@ -6547,17 +10169,77 @@
       "line": 2
     }
   },
-  "10.2307_353243#E1": {
-    "id": "E1",
-    "paper": "10.2307_353243",
-    "claim": "C7",
+  "10.1093_sf_74.3.1029#E2": {
+    "id": "E2",
+    "paper": "10.1093_sf_74.3.1029",
+    "claim": "C1",
     "stance": "qualifies",
     "kind": "text",
     "locator": "sec: Abstract",
-    "says": "The stored abstract is the citation line; its title names housework and ideology and shows no task-type result.",
-    "quote": "Wives' Perceptions of the Fairness of the Division of Household Labor: The Intersection of Housework and Ideology",
+    "says": "The authors urge a shift from objective inequalities to perceived inequity, which hints that the split explains little, but gives no figure.",
+    "quote": "researchers studying the division of household labor need to shift their focus away from analyses of objective inequalities and toward the study of perceived inequity.",
     "version": "abstract",
-    "quote_sha": "ed9a3bb8dc1ac9a8",
+    "quote_sha": "82c7293b0dbbcb64",
+    "depth": "abstract_only",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "sec: Abstract",
+      "line": 2
+    }
+  },
+  "10.1111_j.1540-4560.1993.tb01173.x#E1": {
+    "id": "E1",
+    "paper": "10.1111_j.1540-4560.1993.tb01173.x",
+    "claim": "C2",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "sec: Abstract",
+    "says": "Names comparison processes as one source of gender differences in entitlement; a hypothesis in a review, with no test net of the split.",
+    "quote": "Gender differences in entitlement are hypothesized to result from societal norms regarding women's and men's roles within the family, comparison processes, and justifications that legitimize an unequal division of family labor.",
+    "version": "abstract",
+    "quote_sha": "ac5730f6ee789b56",
+    "depth": "abstract_only",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "sec: Abstract",
+      "line": 2
+    }
+  },
+  "10.1111_j.1540-4560.1993.tb01173.x#E2": {
+    "id": "E2",
+    "paper": "10.1111_j.1540-4560.1993.tb01173.x",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "sec: Abstract",
+    "says": "Names justifications that legitimise an unequal split as a source of entitlement differences; a hypothesis, with no test in the abstract.",
+    "quote": "Gender differences in entitlement are hypothesized to result from societal norms regarding women's and men's roles within the family, comparison processes, and justifications that legitimize an unequal division of family labor.",
+    "version": "abstract",
+    "quote_sha": "ac5730f6ee789b56",
+    "depth": "abstract_only",
+    "tier_a": {
+      "outcome": "exact",
+      "score": 100.0,
+      "segments": 1,
+      "found_at": "sec: Abstract",
+      "line": 2
+    }
+  },
+  "10.1111_j.1741-3737.2008.00556.x#E1": {
+    "id": "E1",
+    "paper": "10.1111_j.1741-3737.2008.00556.x",
+    "claim": "C3",
+    "stance": "qualifies",
+    "kind": "text",
+    "locator": "sec: Abstract",
+    "says": "Time availability, resource dependence and gender ideology contribute to perceived equity by interacting with the split; whether they work as accepted justifications is not stated.",
+    "quote": "the explanatory frameworks that have been found to influence the actual inequality of household division of labor (time availability, resource dependence, and gender ideology) contribute to the explanation of perceptions of equity, in that they interact with the inequality of the household division of labor",
+    "version": "abstract",
+    "quote_sha": "0536bd710c501f3f",
     "depth": "abstract_only",
     "tier_a": {
       "outcome": "exact",

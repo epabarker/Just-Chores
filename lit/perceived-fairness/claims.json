@@ -7,7 +7,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Whole-model variance explained is small (about 5% to 19% in the studies that report it, and at most 20% in most studies the review cites), so the actual split explains a small part of a partner's perceived fairness; no study reports the split's own share, and its slope can still be steep."
+    "reading": "Supported in direction: the split's own share of a partner's perceived fairness is about 3% to 11% in the best figures (Sánchez adjusted R² .03; Grote at most 11%), up to about 22% unadjusted in one study, and whole models reach only .05 to .19; the larger figures come from models of cognitions."
   },
   "C2": {
     "id": "C2",
@@ -17,7 +17,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Weakly supported: one Italian survey finds referents predict a partner's perceived fairness net of the split for male referents only, with self-serving referent choice suspected; the reviews report only zero-order associations and the direction is undetermined."
+    "reading": "Weakly and inconsistently supported: referent effects net of the split appear for male referents in two single studies (Italian, Mikula 2009) and are null for female referents, and the prospective data in Grote's panel do not show comparison driving perceived fairness."
   },
   "C3": {
     "id": "C3",
@@ -27,7 +27,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Open: no paper read in full tests accepted justifications against perceived fairness net of the split; the nearest evidence is that a partner's voice in how chores are divided predicts it, and a reduced-employment justification did not work in one Swedish study."
+    "reading": "Open: no full-text study measures the justifications a partner accepts and enters them with the split; proxies (the woman's paid hours, income in a vignette experiment judged by third parties) predict fairness, and procedural voice predicts it net of the split."
   },
   "C4": {
     "id": "C4",
@@ -37,7 +37,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Probably true on average, mostly for women: fairness outranks the split in the pooled models of three studies and in the reviews, but it reverses for Jewish women, for men in one study and for working-class wives, and no study tests the difference on a common scale."
+    "reading": "Probably true on average for women, with exceptions by group and for men; no study compares perceived fairness and the split on a common scale, and the nine papers read in pass 3 add no direct test."
   },
   "C5": {
     "id": "C5",
@@ -47,7 +47,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Partly supported for women (Connecticut, pooled Israeli women) and not for men; the mediation tests are cross-sectional coefficient comparisons with no time ordering, and the review says little systematic study exists."
+    "reading": "Partly supported for women in two dyadic studies; no formal, time-ordered mediation test exists, and the pass-3 papers either omit satisfaction or analyse only the first step."
   },
   "C6": {
     "id": "C6",
@@ -57,7 +57,7 @@
     "user_edited": true,
     "added_pass": 1,
     "added_by": "agent",
-    "reading": "Supported in direction by three dyadic studies: partners' shares sum above the whole by a few percentage points (4.67 of 150 units in 1979 couples; 103.9% overall and 107.0% for cognitive labour in 235 UK couples); chores-only evidence is thin and two samples show no excess."
+    "reading": "Weaker than before: three dyadic studies show a small excess over the whole (about 3 to 7 points, largest for cognitive labour), but the large NSFH matched-couple panel finds over-claiming by husbands only, and two other studies cannot test it."
   },
   "C7": {
     "id": "C7",
@@ -67,7 +67,7 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "Open: no paper read in full separates which chores a partner does from the time they take; the reviews report from other studies that female-typed chores predict perceived fairness best, by comparison of correlations only."
+    "reading": "Open: the only primary test (Blair & Johnson, wives) finds the husband's hours in female-typed chores predict the wife's perceived fairness net of her total labour, with chore type entangled with time and the chores belonging to the other partner."
   },
   "C8": {
     "id": "C8",
@@ -77,7 +77,7 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "Supported: Mikula's review says the one-item NSFH fairness measure underlies most recent studies, and ten of twelve primary studies read in full use one self-report item; the exceptions are a two-item and a nine-item measure, and item wording differs."
+    "reading": "Supported: fourteen of eighteen full-text studies use a single self-report item; the exceptions are composites (Kamo's four-item average, Grote's multi-item index) with low reliability."
   },
   "C9": {
     "id": "C9",
@@ -87,6 +87,6 @@
     "user_edited": true,
     "added_pass": 0,
     "added_by": "user",
-    "reading": "Little evidence, mixed: one US survey finds no satisfaction penalty for an over-benefited partner on chores, one German panel finds one for doing a bit less than a fair share, two others find similar quality or a null, and four studies cannot test it."
+    "reading": "Little evidence, leaning against: Coltrane's review reads the over-benefited partner's perceived fairness and split as typically unrelated to marital satisfaction, and two single studies find no or a small effect; no study tests over-benefit against an equitable allocation cleanly."
   }
 }

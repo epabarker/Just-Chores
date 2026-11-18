@@ -59,7 +59,7 @@
       "unpaywall: not offered",
       "openalex: not offered"
     ],
-    "priority": 10,
+    "priority": 1,
     "unblocks_claim_ids": [
       "C2",
       "C3"
@@ -72,7 +72,7 @@
   },
   "10.1177_019251395016006002": {
     "id": "10.1177_019251395016006002",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1177/019251395016006002",
     "title": "Exploring Wives' Sense of Fairness About Family Work",
@@ -95,15 +95,25 @@
     ],
     "why_abstract_insufficient": "Hawkins 1995 (sentinel, 234 wives) is the first empirical test of the framework; the abstract reports qualified support but not which referent or justification measures predicted fairness, or whether they held net of the split.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown-ocr",
+    "lines_read": "1-232, 233-456",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (file name carries the DOI or title of a requested paper (the PDF itself gave no readable title))"
+    "obtained_via": "inbox (file name carries the DOI or title of a requested paper (the PDF itself gave no readable title))",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1111_j.1540-4560.1993.tb01173.x": {
     "id": "10.1111_j.1540-4560.1993.tb01173.x",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.1111/j.1540-4560.1993.tb01173.x",
     "title": "Gender, Entitlement, and the Distribution of Family Labor",
@@ -115,7 +125,17 @@
     "oa_routes_tried": [
       "unpaywall: not offered",
       "openalex: not offered"
-    ]
+    ],
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full",
+    "priority": 5,
+    "unblocks_claim_ids": [
+      "C2",
+      "C3"
+    ],
+    "why_abstract_insufficient": "Major 1993 (sentinel) is a review of the evidence on comparison processes and justifications behind wives' contentment; the abstract names the mechanisms but gives no evidence or whether the split was held constant.",
+    "requested_in_pass": 3
   },
   "10.1037_0022-3514.37.3.322": {
     "id": "10.1037_0022-3514.37.3.322",
@@ -208,7 +228,7 @@
   },
   "10.1086_230545": {
     "id": "10.1086_230545",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1086/230545",
     "title": "Relative Fairness and the Division of Housework: The Importance of Options",
@@ -230,15 +250,25 @@
     ],
     "why_abstract_insufficient": "Lennon & Rosenfield 1994 (sentinel) ties perceived fairness to options outside the marriage at a given split; the abstract gives no estimate or check of whether the split was controlled.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown-ocr",
+    "lines_read": "1-273, 274-551",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1093_sf_74.3.1029": {
     "id": "10.1093_sf_74.3.1029",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 0,
     "doi": "10.1093/sf/74.3.1029",
     "title": "Gender Ideology and Perceptions of the Fairness of the Division of Household Labor: Effects on Marital Quality",
@@ -250,7 +280,18 @@
     "oa_routes_tried": [
       "unpaywall: not offered",
       "openalex: not offered"
-    ]
+    ],
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full",
+    "priority": 7,
+    "unblocks_claim_ids": [
+      "C1",
+      "C4",
+      "C5"
+    ],
+    "why_abstract_insufficient": "Greenstein 1996 (sentinel) models perceived inequity and marital quality for wives from the NSFH; the abstract gives the moderation result but no coefficients, variance explained, or whether the split's link to marital quality runs through perceived inequity.",
+    "requested_in_pass": 3
   },
   "10.1146_annurev.soc.22.1.299": {
     "id": "10.1146_annurev.soc.22.1.299",
@@ -295,7 +336,7 @@
   },
   "10.1111_j.1741-3737.2000.01208.x": {
     "id": "10.1111_j.1741-3737.2000.01208.x",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1111/j.1741-3737.2000.01208.x",
     "title": "Research on Household Labor: Modeling and Measuring the Social Embeddedness of Routine Family Work",
@@ -317,11 +358,21 @@
     ],
     "why_abstract_insufficient": "Coltrane 2000 is a review of more than 200 studies and the only review-level source for which tasks matter and how fairness is measured; its abstract names neither.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown",
+    "lines_read": "1-947, 948-1817, 1818-2707, 2708-2892",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1111_j.1741-3737.2002.00027.x": {
     "id": "10.1111_j.1741-3737.2002.00027.x",
@@ -446,7 +497,7 @@
   },
   "10.1037_0893-3200.16.4.510": {
     "id": "10.1037_0893-3200.16.4.510",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1037/0893-3200.16.4.510",
     "title": "Perceiving the division of family work to be unfair: do social comparisons, enjoyment, and competence matter?",
@@ -469,15 +520,26 @@
     ],
     "why_abstract_insufficient": "Grote 2002 reports from its abstract that a referent hypothesis failed and that enjoyment and competence at family work predicted fairness; the full text holds the longitudinal models, the effect sizes and whether time on the chores was controlled.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "publisher",
+    "lines_read": "1-986, 987-1625",
     "coverage": "full",
     "version_obtained": "publisher",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "europepmc",
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1111_j.1741-3737.2008.00556.x": {
     "id": "10.1111_j.1741-3737.2008.00556.x",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.1111/j.1741-3737.2008.00556.x",
     "title": "Perceived Equity in the Gendered Division of Household Labor",
@@ -491,7 +553,17 @@
     "oa_routes_tried": [
       "unpaywall: not offered",
       "openalex: not offered"
-    ]
+    ],
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full",
+    "priority": 6,
+    "unblocks_claim_ids": [
+      "C1",
+      "C3"
+    ],
+    "why_abstract_insufficient": "Braun 2008 (N = 8,556, ISSP 2002) says time availability, resource dependence and ideology interact with the split in explaining perceived equity; the abstract gives no effect sizes or variance explained, and the full text shows whether these act as accepted justifications.",
+    "requested_in_pass": 3
   },
   "10.5153_sro.3871": {
     "id": "10.5153_sro.3871",
@@ -610,7 +682,7 @@
   },
   "10.1006_ssre.2000.0674": {
     "id": "10.1006_ssre.2000.0674",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1006/ssre.2000.0674",
     "title": "“He Said, She Said”: Assessing Discrepancies in Husbands' and Wives' Reports on the Division of Household Labor",
@@ -632,7 +704,20 @@
     "why_abstract_insufficient": "Kamo 2000 compares husbands' and wives' reports of the same household's division, the paired design C6 needs; no index holds an abstract, and the only dyadic evidence so far is one UK study.",
     "requested_in_pass": 2,
     "version_obtained": "publisher",
-    "obtained_via": "inbox (DOI printed in the PDF)"
+    "obtained_via": "inbox (DOI printed in the PDF)",
+    "version_read": "publisher",
+    "lines_read": "1-1091, 1092-1218",
+    "coverage": "full",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1177_2378023118765867": {
     "id": "10.1177_2378023118765867",
@@ -850,7 +935,7 @@
   },
   "10.1111_j.1475-6811.2009.01239.x": {
     "id": "10.1111_j.1475-6811.2009.01239.x",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1111/j.1475-6811.2009.01239.x",
     "title": "Roots and correlates of perceived injustice in the division of family work",
@@ -872,15 +957,25 @@
     ],
     "why_abstract_insufficient": "Mikula 2009 is the most comprehensive test of the distributive justice framework found (632 couples, both partners); the abstract names referents and appreciation as top predictors but not whether the actual split was controlled, nor any effect size or justification result.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown",
+    "lines_read": "1-1158, 1159-2658, 2659-2682",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1093_sf_73.2.533": {
     "id": "10.1093_sf_73.2.533",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1093/sf/73.2.533",
     "title": "Gender, Labor Allocations, and the Psychology of Entitlement within the Home",
@@ -902,11 +997,21 @@
     ],
     "why_abstract_insufficient": "Sanchez 1994 (NSFH, both genders) calls men's housework effort a powerful determinant of fairness; the abstract gives no R-squared or coefficients, so how much the split explains cannot be judged.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown",
+    "lines_read": "1-867, 868-1481",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1177_0190272510389012": {
     "id": "10.1177_0190272510389012",
@@ -928,7 +1033,7 @@
   },
   "10.1023_a-1023234732556": {
     "id": "10.1023_a-1023234732556",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.1023/a:1023234732556",
     "title": "Distributive Justice Norms and Family Work: What Is Perceived as Ideal, What Is Applied, and What Predicts Perceived Fairness?",
@@ -942,7 +1047,13 @@
     "oa_routes_tried": [
       "unpaywall: not offered",
       "openalex: not offered"
-    ]
+    ],
+    "priority": 4,
+    "unblocks_claim_ids": [
+      "C3"
+    ],
+    "why_abstract_insufficient": "Grote & Clark 1998 asks which distributive justice norms couples apply and what predicts perceived fairness, the closest title-level match to C3; no abstract is stored in any index, so only the full text can show whether justifications were measured and entered with the split.",
+    "requested_in_pass": 3
   },
   "10.1111_j.1741-3737.2009.00651.x": {
     "id": "10.1111_j.1741-3737.2009.00651.x",
@@ -1187,7 +1298,7 @@
   },
   "10.1177_08912432251337416": {
     "id": "10.1177_08912432251337416",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 1,
     "doi": "10.1177/08912432251337416",
     "title": "Perceived Fairness of Couples’ Division of Housework: Evidence From a Multi-Factorial Experiment in the United States",
@@ -1208,11 +1319,21 @@
     ],
     "why_abstract_insufficient": "A randomised vignette experiment (n=1,502) is the nearest causal test of whether justifications (earnings, work time) move perceived fairness; the abstract gives no effect sizes or whether justifications hold at a fixed split.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "publisher",
+    "lines_read": "1-701, 702-1801, 1802-1982",
     "coverage": "full",
     "version_obtained": "publisher",
-    "obtained_via": "inbox (DOI printed in the PDF)"
+    "obtained_via": "inbox (DOI printed in the PDF)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
   },
   "10.1038_s41598-026-60727-z": {
     "id": "10.1038_s41598-026-60727-z",
@@ -1266,7 +1387,7 @@
   },
   "10.2307_353243": {
     "id": "10.2307_353243",
-    "status": "obtained",
+    "status": "read",
     "added_pass": 2,
     "doi": "10.2307/353243",
     "title": "Wives' Perceptions of the Fairness of the Division of Household Labor: The Intersection of Housework and Ideology",
@@ -1285,10 +1406,64 @@
     ],
     "why_abstract_insufficient": "Blair & Johnson 1992 is cited by three papers read this pass as the source for task-type effects on fairness (C7) and for the split's explanatory power (C1); only a citation line is stored as its abstract.",
     "requested_in_pass": 2,
-    "version_read": "abstract",
-    "lines_read": "1-2",
+    "version_read": "unknown",
+    "lines_read": "1-1272, 1273-1390",
     "coverage": "full",
     "version_obtained": "unknown",
-    "obtained_via": "inbox (title match 100 with first author on page 1)"
+    "obtained_via": "inbox (title match 100 with first author on page 1)",
+    "read_in_pass": 3,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.2307_2580392": {
+    "id": "10.2307_2580392",
+    "status": "sought",
+    "added_pass": 3,
+    "doi": "10.2307/2580392",
+    "title": "Ideology, Power, and Equity: Testing Competing Explanations for the Perception of Fairness in Household Labor",
+    "first_author": "DeMaris",
+    "year": 1996,
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 3,
+    "unblocks_claim_ids": [
+      "C7",
+      "C3",
+      "C1"
+    ],
+    "why_abstract_insufficient": "DeMaris & Longmore 1996 tests ideology, power and equity explanations of perceived fairness and is the source Coltrane 2000 gives for occasional-task effects on both partners' fairness; no abstract is stored in any index, so only the full text shows whether task type was tested net of hours.",
+    "requested_in_pass": 3
+  },
+  "10.2307_352964": {
+    "id": "10.2307_352964",
+    "status": "sought",
+    "added_pass": 3,
+    "doi": "10.2307/352964",
+    "title": "Division of Labor in Two-Earner Homes: Task Accomplishment versus Household Management as Critical Variables in Perceptions about Family Work",
+    "first_author": "Mederer",
+    "year": 1993,
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 2,
+    "unblocks_claim_ids": [
+      "C7"
+    ],
+    "why_abstract_insufficient": "Mederer 1993 separates task accomplishment from household management in perceptions of family work (cited by Hawkins 1995 as finding that task allocation predicted fairness); it is the likeliest primary test of which chores matter beyond time, and only a citation line is stored as its abstract.",
+    "requested_in_pass": 3
   }
 }

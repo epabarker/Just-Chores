@@ -4,7 +4,7 @@
   "decision_served": "What a method for allocating chores between two cohabiting partners must measure, target and include so that each partner perceives the allocation as fair; feeds the burden and fairness model and the participation protocol of the methodology spec.",
   "pico": "P: adult partners in cohabiting or married couples (two-partner households) who share chores. I/E: the actual allocation of household labour (time, count, task type, cognitive labour), comparison referents, entitlement and justifications, each partner's egocentric over-claiming of their own contribution. C: equal versus unequal splits; fair-feeling versus unfair-feeling allocations; self-report versus partner or diary report of contribution. O: each partner's perceived fairness of the allocation; relationship satisfaction (marital quality, conflict, instability); how perceived fairness has been measured.",
   "status": "awaiting_papers",
-  "pass_number": 2,
+  "pass_number": 3,
   "max_passes": 4,
   "caps": {
     "reads_per_pass": 10,
@@ -21,7 +21,7 @@
   "branch": "research/perceived-fairness-fulltext",
   "ticket": "#21 What makes a division of chores feel fair, read in full (map #1)",
   "created": "2026-11-18T18:38:52Z",
-  "updated": "2026-11-18T20:27:05Z",
+  "updated": "2026-11-18T20:47:39Z",
   "queries": [
     {
       "source": "europepmc",
@@ -394,6 +394,26 @@
       "pass": 1,
       "screened": 7,
       "new_relevant": 1
+    },
+    {
+      "source": "crossref",
+      "query": "Ideology, power, and equity: testing competing explanations for the perception of fairness in household labor",
+      "purpose": "primary",
+      "hits": 29945,
+      "returned": 20,
+      "id": "Q32",
+      "date": "2026-11-18",
+      "pass": 3
+    },
+    {
+      "source": "crossref",
+      "query": "Division of labor in two-earner homes: task accomplishment versus household management as critical variables in perceptions about family work",
+      "purpose": "primary",
+      "hits": 13895,
+      "returned": 20,
+      "id": "Q33",
+      "date": "2026-11-18",
+      "pass": 3
     }
   ],
   "coverage_gaps": [
@@ -406,7 +426,12 @@
     "No meta-analysis of perceived fairness of household labour and relationship satisfaction was found in two searches (Q16, Q17).",
     "Mikula 1998, Ross & Sicoly 1979 and Kamo 2000 have no abstract in OpenAlex, Crossref or Semantic Scholar, so no abstract note could be written for them; Wilkie 1998 has only a citation line as its stored abstract.",
     "Not requested this pass for want of request slots (papers_per_request 10): Coltrane 2000 (review, C7/C8), Kamo 2000 (C6), Petts 2025 (C7), Greenstein 1996, Grote 2002, Thompson 1991, Hawkins 1995, Major 1993, Lennon 1994 (sentinels, C2/C3/C7).",
-    "Blair & Johnson 1992 was added in pass 2 by title lookup (cited by Shelton & John 1996, Mikula 1998 and Gager 1998 as the source for task-type findings on C7); Crossref holds no abstract for it."
+    "Blair & Johnson 1992 was added in pass 2 by title lookup (cited by Shelton & John 1996, Mikula 1998 and Gager 1998 as the source for task-type findings on C7); Crossref holds no abstract for it.",
+    "Pass 3: Hawkins 1995 and Lennon & Rosenfield 1994 are read from a vision model's reading of a scan (version unknown-ocr); their 38 extracts are machine-read and carry no conclusion. Hawkins's path coefficients for the split are in figures the OCR text does not carry; Lennon & Rosenfield's table-row quotes were padded to whole tokens. Check both by eye. Gager 1998 and Press & Townsley 1998 (pass 2) also stay machine-read.",
+    "Pass 3: Grote 2002's text layer drops minus signs and comparison symbols, so its Table 3 and 4 coefficients are unsigned; directions come from the authors' prose. Figure 1's path coefficients were not viewed.",
+    "Pass 3: Urbina 2025's online appendix (OSF osf.io/dwj6q, Tables A1-A4, Figure A2) is not in the text and was not read. Mikula 2009's Table 1 column labelling (m/w) is ambiguous, so its implied sums of own shares (88% and 101%) are uncertain.",
+    "Pass 3: no abstract note could be written for Grote & Clark 1998, Mederer 1993 or DeMaris & Longmore 1996 (no abstract, or only a citation line, in any index); they are requested on title and citation evidence alone. Sanchez 1994 E9 was replaced on escalation and no extract still fails.",
+    "Pass 3: no fetch route (Unpaywall, OpenAlex) offered any requested paper (Thompson 1991, Mederer 1993, DeMaris & Longmore 1996, Grote & Clark 1998, Major 1993, Braun 2008, Greenstein 1996). Not requested: Petts 2025 and Carlson 2022 (outcome is relationship satisfaction, not perceived fairness), Smith, Gager & Morgan 1998 and Grote & Clark 2001 (cited by the pass-3 papers for C8 and C4/C5; not yet in the ledger). Pass 4 is the last, so those would need to be added then."
   ],
   "passes": [
     {
@@ -426,6 +451,15 @@
       "status": "awaiting_papers",
       "sequential_fallback": false,
       "reads": 10
+    },
+    {
+      "n": 3,
+      "started": "2026-11-18T20:34:46Z",
+      "branch": "research/perceived-fairness-fulltext",
+      "ended": "2026-11-18T20:47:24Z",
+      "status": "awaiting_papers",
+      "sequential_fallback": false,
+      "reads": 9
     }
   ],
   "corrections": [
