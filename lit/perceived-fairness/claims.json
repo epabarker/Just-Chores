@@ -6,7 +6,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "Weakly supported by single studies: the actual split plus controls explains about 5 to 19% of a partner's perceived fairness, though its slope is steep and partners at similar splits differ in perceived fairness."
   },
   "C2": {
     "id": "C2",
@@ -15,7 +16,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "Partly supported by one study (Italian survey): comparison referents predict perceived fairness net of a self-reported split for male referents, not for female ones, with possible self-serving bias; no review-level evidence."
   },
   "C3": {
     "id": "C3",
@@ -24,7 +26,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "No direct test in the nine papers read; one Swedish study is mixed (reduced employment is not accepted as a justification). Gager 1998 and Perales 2014 are requested."
   },
   "C4": {
     "id": "C4",
@@ -33,7 +36,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "Open: three single studies disagree (the 30-country study favours perceived fairness over the split; the German panel and UK couple study do not) and none compares the two associations directly."
   },
   "C5": {
     "id": "C5",
@@ -42,7 +46,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "Not formally tested in any paper read; only a coefficient-change argument in one cross-sectional preprint, and two papers state that mediation is untested. Lavee & Katz 2002 (abstract only) claims it."
   },
   "C6": {
     "id": "C6",
@@ -51,7 +56,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 1,
-    "added_by": "agent"
+    "added_by": "agent",
+    "reading": "Weak support from one UK couple study: the two partners' own shares of chores sum to 102 to 107% (largest for cognitive labour); an Italian survey shows no excess on average; unconfirmed by a matched-couple test."
   },
   "C7": {
     "id": "C7",
@@ -60,7 +66,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 0,
-    "added_by": "user"
+    "added_by": "user",
+    "reading": "No direct test in the papers read: a Dutch study finds housework and childcare equally related to unfairness but cannot separate chore type from time; Carlson 2018 is requested."
   },
   "C8": {
     "id": "C8",
@@ -69,7 +76,8 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 0,
-    "added_by": "user"
+    "added_by": "user",
+    "reading": "Supported as a practice, not as a prevalence: 7 of the 8 papers read that measure perceived fairness use one self-report item, but no review of measures was read."
   },
   "C9": {
     "id": "C9",
@@ -78,6 +86,7 @@
     "waived": null,
     "user_edited": true,
     "added_pass": 0,
-    "added_by": "user"
+    "added_by": "user",
+    "reading": "Contradicted for chores in one volunteer survey and supported for 'a bit less than fair share' in a German panel; no study contrasts over-benefit with an equitable allocation, so the claim stays open."
   }
 }

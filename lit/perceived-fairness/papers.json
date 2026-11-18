@@ -1,24 +1,49 @@
 {
   "10.1023_a-1023282615718": {
     "id": "10.1023_a-1023282615718",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.1023/a:1023282615718",
     "title": "Division of Household Labor and Perceived Justice: A Growing Field of Research",
     "first_author": "Mikula",
     "year": 1998,
-    "is_review": true,
-    "sentinel": true
+    "is_review": false,
+    "sentinel": true,
+    "journal": null,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 1,
+    "unblocks_claim_ids": [
+      "C1",
+      "C2",
+      "C3",
+      "C6",
+      "C8"
+    ],
+    "why_abstract_insufficient": "Mikula 1998 is the sentinel review of the perceived-justice literature on household labour; no index holds an abstract, and the full text is the only review-level source for what predicts perceived fairness (referents, justifications), for over-claiming, and for which fairness measures were used.",
+    "requested_in_pass": 1
   },
   "10.1177_019251391012002003": {
     "id": "10.1177_019251391012002003",
     "status": "backlog",
     "added_pass": 1,
     "doi": "10.1177/019251391012002003",
-    "title": "Family Work: Women's Sense of Fairness",
-    "first_author": "Thompson",
+    "title": "Family Work",
+    "first_author": "THOMPSON",
     "year": 1991,
-    "sentinel": true
+    "sentinel": true,
+    "found_by": [
+      "Q7",
+      "Q24"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
   },
   "10.1177_019251395016006002": {
     "id": "10.1177_019251395016006002",
@@ -26,9 +51,18 @@
     "added_pass": 1,
     "doi": "10.1177/019251395016006002",
     "title": "Exploring Wives' Sense of Fairness About Family Work",
-    "first_author": "Hawkins",
+    "first_author": "HAWKINS",
     "year": 1995,
-    "sentinel": true
+    "sentinel": true,
+    "found_by": [
+      "Q7"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
   },
   "10.1111_j.1540-4560.1993.tb01173.x": {
     "id": "10.1111_j.1540-4560.1993.tb01173.x",
@@ -38,17 +72,38 @@
     "title": "Gender, Entitlement, and the Distribution of Family Labor",
     "first_author": "Major",
     "year": 1993,
-    "sentinel": true
+    "sentinel": true,
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
   },
   "10.1037_0022-3514.37.3.322": {
     "id": "10.1037_0022-3514.37.3.322",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.1037/0022-3514.37.3.322",
-    "title": "Egocentric biases in availability and attribution",
+    "title": "Egocentric biases in availability and attribution.",
     "first_author": "Ross",
     "year": 1979,
-    "sentinel": true
+    "sentinel": true,
+    "found_by": [
+      "Q20"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 5,
+    "unblocks_claim_ids": [
+      "C6"
+    ],
+    "why_abstract_insufficient": "Ross & Sicoly 1979 is the sentinel egocentric-bias paper and reports, for couples, whether the two partners' claimed shares add to more than 100 percent; no index holds an abstract, so the sum test cannot be checked at all.",
+    "requested_in_pass": 1
   },
   "10.2307_2580391": {
     "id": "10.2307_2580391",
@@ -63,13 +118,26 @@
   },
   "10.2307_353530": {
     "id": "10.2307_353530",
-    "status": "backlog",
+    "status": "sought",
     "added_pass": 1,
     "doi": "10.2307/353530",
     "title": "Gender and Fairness: Marital Satisfaction in Two-Earner Couples",
     "first_author": "Wilkie",
     "year": 1998,
-    "sentinel": true
+    "sentinel": true,
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 7,
+    "unblocks_claim_ids": [
+      "C9",
+      "C4"
+    ],
+    "why_abstract_insufficient": "Wilkie, Ferree & Ratcliff 1998 is the sentinel on fairness and marital satisfaction in two-earner couples and bears on over-benefited partners; the stored abstract is only a citation line.",
+    "requested_in_pass": 1
   },
   "10.1086_230545": {
     "id": "10.1086_230545",
@@ -79,7 +147,16 @@
     "title": "Relative Fairness and the Division of Housework: The Importance of Options",
     "first_author": "Lennon",
     "year": 1994,
-    "sentinel": true
+    "sentinel": true,
+    "found_by": [
+      "Q24"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
   },
   "10.1093_sf_74.3.1029": {
     "id": "10.1093_sf_74.3.1029",
@@ -89,6 +166,872 @@
     "title": "Gender Ideology and Perceptions of the Fairness of the Division of Household Labor: Effects on Marital Quality",
     "first_author": "Greenstein",
     "year": 1996,
-    "sentinel": true
+    "sentinel": true,
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1146_annurev.soc.22.1.299": {
+    "id": "10.1146_annurev.soc.22.1.299",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1146/annurev.soc.22.1.299",
+    "title": "The Division of Household Labor",
+    "first_author": "Shelton",
+    "year": 1996,
+    "is_review": false,
+    "found_by": [
+      "Q2"
+    ],
+    "journal": null,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 6,
+    "unblocks_claim_ids": [
+      "C8",
+      "C1",
+      "C4"
+    ],
+    "why_abstract_insufficient": "Shelton & Daphne 1996 is the standard review of measurement and consequences of the division of household labour; the abstract only says that measurement and fairness are covered, not which fairness measures dominate or what the effects on satisfaction are.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1111_j.1741-3737.2000.01208.x": {
+    "id": "10.1111_j.1741-3737.2000.01208.x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/j.1741-3737.2000.01208.x",
+    "title": "Research on Household Labor: Modeling and Measuring the Social Embeddedness of Routine Family Work",
+    "first_author": "Coltrane",
+    "year": 2000,
+    "is_review": false,
+    "found_by": [
+      "Q15"
+    ],
+    "journal": null,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_j.1741-3737.2002.00027.x": {
+    "id": "10.1111_j.1741-3737.2002.00027.x",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1111/j.1741-3737.2002.00027.x",
+    "title": "Divison of Labor, Perceived Fairness, and Marital Quality: The Effect of Gender Ideology",
+    "first_author": "Lavee",
+    "year": 2002,
+    "found_by": [
+      "Q8"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 4,
+    "unblocks_claim_ids": [
+      "C4",
+      "C5"
+    ],
+    "why_abstract_insufficient": "Lavee & Katz 2002 (SEM, three Israeli groups) states that sense of fairness mediates the split-to-marital-quality link, for women but not men; the abstract gives no path coefficients, so the direct and indirect paths cannot be compared.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1177_0192513x02238520": {
+    "id": "10.1177_0192513x02238520",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1177/0192513x02238520",
+    "title": "Perceived Housework Equity, Marital Happiness, and Divorce in Dual-Earner Households",
+    "first_author": "Frisco",
+    "year": 2003,
+    "found_by": [
+      "Q8"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 3,
+    "unblocks_claim_ids": [
+      "C4",
+      "C5",
+      "C9"
+    ],
+    "why_abstract_insufficient": "Frisco & Williams 2003 (nationally representative) reports perceived inequity lowering marital happiness for both spouses and little evidence of mediation by happiness; the abstract does not say whether the actual split was in the model or give the effect sizes needed to compare fairness with the split.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1177_019251398019005007": {
+    "id": "10.1177_019251398019005007",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1177/019251398019005007",
+    "title": "The Role of Valued Outcomes, Justifications, and Comparison Referents in Perceptions of Fairness Among Dual-Earner Couples",
+    "first_author": "GAGER",
+    "year": 1998,
+    "found_by": [
+      "Q6"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 2,
+    "unblocks_claim_ids": [
+      "C2",
+      "C3"
+    ],
+    "why_abstract_insufficient": "Gager 1998 (25 dual-earner couples) tests valued outcomes, justifications and comparison referents together; the abstract says they explain why unequal splits are not called unfair but gives no result per factor or whether each holds after the actual split.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1037_0893-3200.16.4.510": {
+    "id": "10.1037_0893-3200.16.4.510",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1037/0893-3200.16.4.510",
+    "title": "Perceiving the division of family work to be unfair: do social comparisons, enjoyment, and competence matter?",
+    "first_author": "Grote",
+    "year": 2002,
+    "found_by": [
+      "Q25"
+    ],
+    "pmid": "12561295",
+    "journal": "Journal of family psychology : JFP : journal of the Division of Family Psychology of the American Psychological Association (Division 43)",
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_j.1741-3737.2008.00556.x": {
+    "id": "10.1111_j.1741-3737.2008.00556.x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/j.1741-3737.2008.00556.x",
+    "title": "Perceived Equity in the Gendered Division of Household Labor",
+    "first_author": "Braun",
+    "year": 2008,
+    "found_by": [
+      "Q25"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.5153_sro.3871": {
+    "id": "10.5153_sro.3871",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.5153/sro.3871",
+    "title": "Housework Division and Perceived Fairness: The Importance of Comparison Referents",
+    "first_author": "Carriero",
+    "year": 2016,
+    "found_by": [
+      "Q6"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: unavailable: www.socresonline.org.uk: HTTP 403",
+      "openalex: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "openalex hosted pdf",
+    "version_read": "publisher",
+    "lines_read": "1-507, 508-810",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1016_j.ssresearch.2014.12.010": {
+    "id": "10.1016_j.ssresearch.2014.12.010",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1016/j.ssresearch.2014.12.010",
+    "title": "Gender, justice and work: a distributive approach to perceptions of housework fairness",
+    "first_author": "Perales",
+    "year": 2015,
+    "found_by": [
+      "Q7"
+    ],
+    "pmid": "25769851",
+    "journal": "Social science research",
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 8,
+    "unblocks_claim_ids": [
+      "C2",
+      "C3",
+      "C1"
+    ],
+    "why_abstract_insufficient": "Perales, Baxter & Tai 2014 (HILDA panel) shows parenthood changes fairness net of the actual split; the abstract gives no size or whether referents or entitlement measures were in the model.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1177_089124398012002005": {
+    "id": "10.1177_089124398012002005",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1177/089124398012002005",
+    "title": "WIVES' AND HUSBANDS' HOUSEWORK REPORTING",
+    "first_author": "PRESS",
+    "year": 1998,
+    "found_by": [
+      "Q11"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 10,
+    "unblocks_claim_ids": [
+      "C6"
+    ],
+    "why_abstract_insufficient": "Press & Townsley 1998 shows husbands and wives both overreport housework against time diaries; the abstract does not say whether the two partners' reports sum to more than the whole in matched couples.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1006_ssre.2000.0674": {
+    "id": "10.1006_ssre.2000.0674",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1006/ssre.2000.0674",
+    "title": "“He Said, She Said”: Assessing Discrepancies in Husbands' and Wives' Reports on the Division of Household Labor",
+    "first_author": "Kamo",
+    "year": 2000,
+    "found_by": [
+      "Q11"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1177_2378023118765867": {
+    "id": "10.1177_2378023118765867",
+    "status": "sought",
+    "added_pass": 1,
+    "doi": "10.1177/2378023118765867",
+    "title": "Stalled for Whom? Change in the Division of Particular Housework Tasks and Their Consequences for Middle- to Low-Income Couples",
+    "first_author": "Carlson",
+    "year": 2018,
+    "found_by": [
+      "Q15"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ],
+    "priority": 9,
+    "unblocks_claim_ids": [
+      "C7"
+    ],
+    "why_abstract_insufficient": "Carlson et al. 2018 is the only candidate that analyses individual chores (dishwashing most consequential to relationship quality); the abstract reports satisfaction, not perceived fairness, and no time control, so whether which chores matter beyond time cannot be read from it.",
+    "requested_in_pass": 1,
+    "version_read": "abstract",
+    "lines_read": "1-2",
+    "coverage": "full"
+  },
+  "10.1007_s11199-022-01282-5": {
+    "id": "10.1007_s11199-022-01282-5",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1007/s11199-022-01282-5",
+    "title": "Reconceptualizing the Gendered Division of Housework: Number of Shared Tasks and Partners’ Relationship Quality",
+    "first_author": "Carlson",
+    "year": 2022,
+    "found_by": [
+      "Q15"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_jomf.13082": {
+    "id": "10.1111_jomf.13082",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/jomf.13082",
+    "title": "Cognitive housework and Parents' relationship satisfaction",
+    "first_author": "Petts",
+    "year": 2025,
+    "found_by": [
+      "Q9"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.20377_jfr-1377": {
+    "id": "10.20377_jfr-1377",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.20377/jfr-1377",
+    "title": "Perceived fairness of division of labor and relationship satisfaction",
+    "first_author": "Adriaans",
+    "year": 2026,
+    "found_by": [
+      "Q8"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "unpaywall (publisher)",
+    "version_read": "publisher",
+    "lines_read": "1-716, 717-894",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1023_a-1012243125641": {
+    "id": "10.1023_a-1012243125641",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1023/a:1012243125641",
+    "title": "Benefits of Equitable Relationships: The Impact of Sense of Fairness, Household Division of Labor, and Decision Making Power on Perceived Social Support",
+    "first_author": "Van Willigen",
+    "year": 2001,
+    "found_by": [
+      "Q8"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1177_0192513x13516764": {
+    "id": "10.1177_0192513x13516764",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0192513x13516764",
+    "title": "Perceived Fairness and Relationship Satisfaction During the Transition to Parenthood",
+    "first_author": "Chong",
+    "year": 2013,
+    "found_by": [
+      "Q8"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1371_journal.pone.0214204": {
+    "id": "10.1371_journal.pone.0214204",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1371/journal.pone.0214204",
+    "title": "Gendered perceptions of fairness in housework and shared expenses: Implications for relationship satisfaction and sex frequency",
+    "first_author": "Gillespie",
+    "year": 2019,
+    "found_by": [
+      "Q8"
+    ],
+    "pmid": "30893363",
+    "pmcid": "PMC6426245",
+    "journal": "PloS one",
+    "is_review": false,
+    "oa_routes_tried": [
+      "europepmc-xml: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "europepmc-xml",
+    "version_read": "publisher",
+    "lines_read": "1-200, 201-225",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "europepmc",
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1007_s11199-018-1001-x": {
+    "id": "10.1007_s11199-018-1001-x",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1007/s11199-018-1001-x",
+    "title": "Invisible Household Labor and Ramifications for Adjustment: Mothers as Captains of Households",
+    "first_author": "Ciciolla",
+    "year": 2019,
+    "found_by": [
+      "Q9"
+    ],
+    "pmid": "34177072",
+    "pmcid": "PMC8223758",
+    "journal": "Sex roles",
+    "is_review": false,
+    "oa_routes_tried": [
+      "europepmc-xml: unavailable: www.ebi.ac.uk: HTTP 500 after 2 attempts",
+      "pmc-cloud: obtained"
+    ],
+    "version_obtained": "accepted",
+    "obtained_via": "pmc-cloud-xml",
+    "version_read": "accepted",
+    "lines_read": "1-60, 61-178",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "europepmc",
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1111_j.1475-6811.2009.01239.x": {
+    "id": "10.1111_j.1475-6811.2009.01239.x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/j.1475-6811.2009.01239.x",
+    "title": "Roots and correlates of perceived injustice in the division of family work",
+    "first_author": "MIKULA",
+    "year": 2009,
+    "found_by": [
+      "Q25"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1093_sf_73.2.533": {
+    "id": "10.1093_sf_73.2.533",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1093/sf/73.2.533",
+    "title": "Gender, Labor Allocations, and the Psychology of Entitlement within the Home",
+    "first_author": "Sanchez",
+    "year": 1994,
+    "found_by": [
+      "Q6"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1177_0190272510389012": {
+    "id": "10.1177_0190272510389012",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0190272510389012",
+    "title": "Equity, Emotion, and Household Division of Labor Response",
+    "first_author": "Lively",
+    "year": 2010,
+    "found_by": [
+      "Q13"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1023_a-1023234732556": {
+    "id": "10.1023_a-1023234732556",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1023/a:1023234732556",
+    "title": "Distributive Justice Norms and Family Work: What Is Perceived as Ideal, What Is Applied, and What Predicts Perceived Fairness?",
+    "first_author": "Grote",
+    "year": 1998,
+    "found_by": [
+      "Q7"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_j.1741-3737.2009.00651.x": {
+    "id": "10.1111_j.1741-3737.2009.00651.x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/j.1741-3737.2009.00651.x",
+    "title": "National Context, Family Satisfaction, and Fairness in the Division of Household Labor",
+    "first_author": "Greenstein",
+    "year": 2009,
+    "found_by": [
+      "Q6"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1177_0192513x21993899": {
+    "id": "10.1177_0192513x21993899",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1177/0192513x21993899",
+    "title": "Fairness Perceptions of the Division of Household Labor: Housework and Childcare",
+    "first_author": "Koster",
+    "year": 2021,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: unavailable: doi.org: HTTP 403",
+      "openalex: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "openalex hosted pdf",
+    "version_read": "publisher",
+    "lines_read": "1-1032, 1033-1336",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1177_0192513x12463185": {
+    "id": "10.1177_0192513x12463185",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0192513x12463185",
+    "title": "Marital Commitment and Perceptions of Fairness in Household Chores",
+    "first_author": "Tang",
+    "year": 2012,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1007_s11211-013-0195-x": {
+    "id": "10.1007_s11211-013-0195-x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1007/s11211-013-0195-x",
+    "title": "Is it Fair to Share? Perceptions of Fairness in the Division of Housework Among Couples in 22 Countries",
+    "first_author": "Öun",
+    "year": 2013,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1093_esr_jcx085": {
+    "id": "10.1093_esr_jcx085",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1093/esr/jcx085",
+    "title": "What Fairness? Gendered Division of Housework and Family Life Satisfaction across 30 Countries",
+    "first_author": "Hu",
+    "year": 2017,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: obtained"
+    ],
+    "version_obtained": "preprint",
+    "obtained_via": "unpaywall (repository)",
+    "version_read": "preprint",
+    "lines_read": "1-576, 577-2014, 2015-2317",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1177_0020715216642267": {
+    "id": "10.1177_0020715216642267",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0020715216642267",
+    "title": "Perceived fairness of the division of household labor: A comparative study in 29 countries",
+    "first_author": "Jansen",
+    "year": 2016,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_soin.12162": {
+    "id": "10.1111_soin.12162",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/soin.12162",
+    "title": "The Interplay between Equity and Gender Ideology in Perceived Housework Fairness: Evidence from an Experimental Vignette Design",
+    "first_author": "Carriero",
+    "year": 2017,
+    "found_by": [
+      "Q26"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1111_jomf.12331": {
+    "id": "10.1111_jomf.12331",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1111/jomf.12331",
+    "title": "Equity Dynamics in the Perceived Fairness of Infant Care",
+    "first_author": "DeMaris",
+    "year": 2017,
+    "found_by": [
+      "Q27"
+    ],
+    "pmid": "28082750",
+    "pmcid": "PMC5221818",
+    "journal": "Journal of marriage and the family",
+    "is_review": false,
+    "oa_routes_tried": [
+      "europepmc-xml: unavailable: www.ebi.ac.uk: HTTP 500 after 2 attempts",
+      "pmc-cloud: obtained"
+    ],
+    "version_obtained": "accepted",
+    "obtained_via": "pmc-cloud-xml",
+    "version_read": "accepted",
+    "lines_read": "1-49, 50-119",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "europepmc",
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.4054_demres.2017.36.16": {
+    "id": "10.4054_demres.2017.36.16",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.4054/demres.2017.36.16",
+    "title": "Division of housework and his and her view of housework fairness: A typology of Swedish couples",
+    "first_author": "Ruppanner",
+    "year": 2017,
+    "found_by": [
+      "Q28"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "unpaywall (publisher)",
+    "version_read": "publisher",
+    "lines_read": "1-881, 882-1260",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1177_0038038516674664": {
+    "id": "10.1177_0038038516674664",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0038038516674664",
+    "title": "Does Unequal Housework Lead to Divorce? Evidence from Sweden",
+    "first_author": "Ruppanner",
+    "year": 2017,
+    "found_by": [
+      "Q28"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1177_08912432251337416": {
+    "id": "10.1177_08912432251337416",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/08912432251337416",
+    "title": "Perceived Fairness of Couples’ Division of Housework: Evidence From a Multi-Factorial Experiment in the United States",
+    "first_author": "Urbina",
+    "year": 2025,
+    "found_by": [
+      "Q29"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
+  },
+  "10.1038_s41598-026-60727-z": {
+    "id": "10.1038_s41598-026-60727-z",
+    "status": "read",
+    "added_pass": 1,
+    "doi": "10.1038/s41598-026-60727-z",
+    "title": "A dyadic examination of the division of household labor and relationship quality from a tri-load perspective",
+    "first_author": "Coundouris",
+    "year": 2026,
+    "found_by": [
+      "Q29"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: obtained"
+    ],
+    "version_obtained": "publisher",
+    "obtained_via": "unpaywall (publisher)",
+    "version_read": "publisher",
+    "lines_read": "1-919, 920-1492",
+    "coverage": "full",
+    "read_in_pass": 1,
+    "retraction": {
+      "status": "none",
+      "detail": "",
+      "checked": "2026-11-18",
+      "sources": [
+        "crossref",
+        "openalex"
+      ]
+    }
+  },
+  "10.1177_0192513x15594206": {
+    "id": "10.1177_0192513x15594206",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/0192513x15594206",
+    "title": "Couple-Level Predictors of Perceived Fairness During Pregnancy in First-Time Parents",
+    "first_author": "Gordon",
+    "year": 2015,
+    "found_by": [
+      "Q31"
+    ],
+    "journal": null,
+    "is_review": false,
+    "oa_routes_tried": [
+      "unpaywall: not offered",
+      "openalex: not offered"
+    ]
   }
 }
