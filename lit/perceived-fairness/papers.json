@@ -72,7 +72,7 @@
   },
   "10.1177_019251395016006002": {
     "id": "10.1177_019251395016006002",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/019251395016006002",
     "title": "Exploring Wives' Sense of Fairness About Family Work",
@@ -97,7 +97,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (file name carries the DOI or title of a requested paper (the PDF itself gave no readable title))"
   },
   "10.1111_j.1540-4560.1993.tb01173.x": {
     "id": "10.1111_j.1540-4560.1993.tb01173.x",
@@ -206,7 +208,7 @@
   },
   "10.1086_230545": {
     "id": "10.1086_230545",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1086/230545",
     "title": "Relative Fairness and the Division of Housework: The Importance of Options",
@@ -230,7 +232,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1093_sf_74.3.1029": {
     "id": "10.1093_sf_74.3.1029",
@@ -291,7 +295,7 @@
   },
   "10.1111_j.1741-3737.2000.01208.x": {
     "id": "10.1111_j.1741-3737.2000.01208.x",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1111/j.1741-3737.2000.01208.x",
     "title": "Research on Household Labor: Modeling and Measuring the Social Embeddedness of Routine Family Work",
@@ -315,7 +319,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1111_j.1741-3737.2002.00027.x": {
     "id": "10.1111_j.1741-3737.2002.00027.x",
@@ -440,7 +446,7 @@
   },
   "10.1037_0893-3200.16.4.510": {
     "id": "10.1037_0893-3200.16.4.510",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1037/0893-3200.16.4.510",
     "title": "Perceiving the division of family work to be unfair: do social comparisons, enjoyment, and competence matter?",
@@ -465,7 +471,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1111_j.1741-3737.2008.00556.x": {
     "id": "10.1111_j.1741-3737.2008.00556.x",
@@ -602,7 +610,7 @@
   },
   "10.1006_ssre.2000.0674": {
     "id": "10.1006_ssre.2000.0674",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1006/ssre.2000.0674",
     "title": "“He Said, She Said”: Assessing Discrepancies in Husbands' and Wives' Reports on the Division of Household Labor",
@@ -622,7 +630,9 @@
       "C6"
     ],
     "why_abstract_insufficient": "Kamo 2000 compares husbands' and wives' reports of the same household's division, the paired design C6 needs; no index holds an abstract, and the only dyadic evidence so far is one UK study.",
-    "requested_in_pass": 2
+    "requested_in_pass": 2,
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (DOI printed in the PDF)"
   },
   "10.1177_2378023118765867": {
     "id": "10.1177_2378023118765867",
@@ -840,7 +850,7 @@
   },
   "10.1111_j.1475-6811.2009.01239.x": {
     "id": "10.1111_j.1475-6811.2009.01239.x",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1111/j.1475-6811.2009.01239.x",
     "title": "Roots and correlates of perceived injustice in the division of family work",
@@ -864,11 +874,13 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1093_sf_73.2.533": {
     "id": "10.1093_sf_73.2.533",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1093/sf/73.2.533",
     "title": "Gender, Labor Allocations, and the Psychology of Entitlement within the Home",
@@ -892,7 +904,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   },
   "10.1177_0190272510389012": {
     "id": "10.1177_0190272510389012",
@@ -1173,7 +1187,7 @@
   },
   "10.1177_08912432251337416": {
     "id": "10.1177_08912432251337416",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 1,
     "doi": "10.1177/08912432251337416",
     "title": "Perceived Fairness of Couples’ Division of Housework: Evidence From a Multi-Factorial Experiment in the United States",
@@ -1196,7 +1210,9 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "publisher",
+    "obtained_via": "inbox (DOI printed in the PDF)"
   },
   "10.1038_s41598-026-60727-z": {
     "id": "10.1038_s41598-026-60727-z",
@@ -1250,7 +1266,7 @@
   },
   "10.2307_353243": {
     "id": "10.2307_353243",
-    "status": "sought",
+    "status": "obtained",
     "added_pass": 2,
     "doi": "10.2307/353243",
     "title": "Wives' Perceptions of the Fairness of the Division of Household Labor: The Intersection of Housework and Ideology",
@@ -1271,6 +1287,8 @@
     "requested_in_pass": 2,
     "version_read": "abstract",
     "lines_read": "1-2",
-    "coverage": "full"
+    "coverage": "full",
+    "version_obtained": "unknown",
+    "obtained_via": "inbox (title match 100 with first author on page 1)"
   }
 }
