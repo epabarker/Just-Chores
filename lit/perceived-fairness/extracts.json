@@ -2567,13 +2567,20 @@
     "quote": "Segregation-fairness\n-0.41\n-0.36\n-0.46**\n-0.38\n-0.43**\n-0.39",
     "version": "unknown",
     "quote_sha": "0e72b0b0f11ec232",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.10",
-      "line": 995
+      "line": 995,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 98,
+        "other_version": "unknown-ocr2",
+        "other_reading": "s (se) cms (se) cms segregationfairness -0.41 -0.36 -0.46** -0.38 -0.43** - 0.39 (0.23) (0.18) (0.1"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -2595,13 +2602,18 @@
     "quote": "FIGURE 1. STANDARDIZED COEFFICIENTS FOR A MODEL OF PERCEIVED FAIRNESS AS MEDIATOR BETWEEN SEGREGATED DIVISION OF LABOR AND MARITAL QUALITY--ESTIMATES FOR MEN AND WOMEN",
     "version": "unknown",
     "quote_sha": "ccfd40b8b1a47733",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 767
+      "line": 767,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "read": "Women: Segregation to Fairness -.36, Fairness to Marital Quality .45, Segregation to Marital Quality -.13 (dashed). Men: Segregation to Fairness -.25 (dashed, not significant), Fairness to Marital Quality .51, Segregation to Marital Quality -.04 (dashed).",
     "tier_b": {
@@ -2625,13 +2637,18 @@
     "quote": "She argues that women will perceive the division of household labor as unfair only if they want their husbands to perform more housework, if they compare their husband's housework time to someone who spends more time on housework, and if they do not see any justification for the unequal division of housework.",
     "version": "unknown",
     "quote_sha": "6c54a6a8f80ba1ec",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 644
+      "line": 644,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -2653,13 +2670,18 @@
     "quote": "Overall, wives who were privy to the details of their friends' or siblings' household setups, or who talked with women in similar circumstances, were more likely to report that their division of labor was fair to both spouses.",
     "version": "unknown-ocr",
     "quote_sha": "de4424a941e608fd",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.21",
-      "line": 327
+      "line": 327,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -2681,13 +2703,18 @@
     "quote": "My interview data indicate that choice of same-sex and same-status comparison referents plays an important role in evaluations of fairness in the division of household labor.",
     "version": "unknown-ocr",
     "quote_sha": "657507447261b410",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.23",
-      "line": 350
+      "line": 350,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -2766,13 +2793,18 @@
     "quote": "On average, wives estimate they perform about 31.8 hours a week but only record about 18.4 hours in the time diaries. Husbands self-report their housework at 7.7 hours per week but record only 4.2 hours in the diaries.",
     "version": "unknown-ocr",
     "quote_sha": "d263fb09a8d871db",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
-      "line": 239
+      "line": 239,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3046,14 +3078,19 @@
     "quote": "The main conclusion to be drawn is that the actual division of household labor is by no means the main determinant of perceptions of justice.",
     "version": "unknown",
     "quote_sha": "eabdbb933d77c4b1",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
       "line": 530,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3075,14 +3112,19 @@
     "quote": "the amount of variation in the fairness ratings which can be explained by measures of quantitative… aspects of the division of workload is relatively small.",
     "version": "unknown",
     "quote_sha": "18cfc99be5df16f6",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 2,
       "found_at": "p.13",
       "line": 535,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3104,14 +3146,19 @@
     "quote": "who were able to account for 66% of the variance in wives' perception of fairness about household labor, while most other studies explained no more than 20% of the variation in the justice ratings.",
     "version": "unknown",
     "quote_sha": "291071a8eac68c18",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
       "line": 554,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3134,14 +3181,19 @@
     "quote": "Her final model, which included three measures of household labor besides control variables, explained more than 50% of the variance of the fairness ratings.",
     "version": "unknown",
     "quote_sha": "444519c5560ae66b",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
       "line": 577,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3163,14 +3215,19 @@
     "quote": "Wives regarded the division of labor less fair the more they compared their husbands' contributions to housework with their own contributions and not with the contributions of other men.",
     "version": "unknown",
     "quote_sha": "5bcd3766dfb6643c",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
       "line": 435,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3192,14 +3249,19 @@
     "quote": "the frequency of making between-gender comparisons with the spouse was negatively related to perceived fairness for both women and men.",
     "version": "unknown",
     "quote_sha": "2a36bc087ebda564",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
       "line": 440,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3221,14 +3283,19 @@
     "quote": "There is no evidence available that allows one to decide between the two possibilities.",
     "version": "unknown",
     "quote_sha": "f7b31d3c8ffc3c1a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
       "line": 452,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3250,14 +3317,19 @@
     "quote": "who were able to account for 66% of the variance in wives' perception of fairness about household labor",
     "version": "unknown",
     "quote_sha": "f6c08a5d918b00d8",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
       "line": 554,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3279,14 +3351,19 @@
     "quote": "They found that women perceived more fairness when they reported that the division of household labor had been worked out together.",
     "version": "unknown",
     "quote_sha": "a143411f8ac6bef4",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
       "line": 462,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3308,14 +3385,19 @@
     "quote": "perceived lack of justification and attributions of responsibility to the partner for not doing more housework contributed indirectly to the experience of injustice through their impact on the blaming of the partner.",
     "version": "unknown",
     "quote_sha": "1df1d7b0f270cf56",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
       "line": 482,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3337,14 +3419,19 @@
     "quote": "who were able to account for 66% of the variance in wives' perception of fairness about household labor",
     "version": "unknown",
     "quote_sha": "f6c08a5d918b00d8",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
       "line": 554,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3366,14 +3453,19 @@
     "quote": "studies that considered the division of household labor in addition to the perception of justice typically found that the perception of justice was a more important indicator of marital quality than was the division of housework itself",
     "version": "unknown",
     "quote_sha": "33512bec3bbb8bfe",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
       "line": 660,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3395,14 +3487,19 @@
     "quote": "for working-class wives, the more consistent indicator of frequency of marital conflict was not equity but the division of (feminine) household tasks.",
     "version": "unknown",
     "quote_sha": "2fd43bc9e7633427",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
       "line": 628,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3424,14 +3521,19 @@
     "quote": "much of the available evidence suggests that the associations between perceived fairness and measures of satisfaction, marital quality, and psychological well-being are stronger with women than with men",
     "version": "unknown",
     "quote_sha": "b5ec9350565b35f3",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
       "line": 669,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3453,14 +3555,19 @@
     "quote": "psychological well-being has received little systematic attention thus far.",
     "version": "unknown",
     "quote_sha": "0a69ef3904543b15",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
       "line": 643,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3482,14 +3589,19 @@
     "quote": "who found for women, but not for men, that the association between women's housework share and well-being disappeared after controlling for perceived fairness",
     "version": "unknown",
     "quote_sha": "6da1eaa9b5152400",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
       "line": 645,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3511,14 +3623,19 @@
     "quote": "perceptions of injustice, and attributions of responsibility for the experienced restrictions, affect the emotional responses to these restrictions, which in turn mediate marital satisfaction.",
     "version": "unknown",
     "quote_sha": "abddc55f7dd2ffb9",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
       "line": 652,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3540,14 +3657,19 @@
     "quote": "Perceptions of injustice may well distort the estimation of own and partner's contributions to the housework.",
     "version": "unknown",
     "quote_sha": "fcb2efafce86999e",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.19",
       "line": 771,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3569,14 +3691,19 @@
     "quote": "Contributions to female-type tasks (e.g., cooking, cleaning, doing laun-\ndry) are better predictors of perceived justice than contributions to male-\ntype tasks (outdoor tasks, car maintenance)",
     "version": "unknown",
     "quote_sha": "1eed49ea1f8b9409",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
       "line": 293,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3599,14 +3726,19 @@
     "quote": "the nature of the measures of family labor which showed the highest correlations with the ratings of fairness (e.g., men's contributions to female-type household tasks) suggests that the symbolic meaning of men's and women's contributions to family work is much more relevant than the mere amount of time and effort.",
     "version": "unknown",
     "quote_sha": "7d6d473c6ce07e74",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
       "line": 544,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3629,14 +3761,19 @@
     "quote": "One problem which studies using NSHF data share with many other\nstudies is the use of one-item measures of questionable reliability.",
     "version": "unknown",
     "quote_sha": "caae7df6d72ec6f7",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
       "line": 818,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3658,14 +3795,19 @@
     "quote": "the measure of fairness used in the National Survey of Families and Households (NSFH; Sweet et al., 1988), which provides the most common database of recent studies about the division of family work",
     "version": "unknown",
     "quote_sha": "23f8e033c02a72a9",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
       "line": 801,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3687,14 +3829,19 @@
     "quote": "Further studies calculated composite scores of fairness and satisfaction ratings (e.g., Mederer, 1993)",
     "version": "unknown",
     "quote_sha": "064fee8758b92319",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
       "line": 783,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3716,14 +3863,19 @@
     "quote": "the equity theoretical prediction that underbenefiting inequity will be more easily recognized and lead to more distress than overbenefiting inequity",
     "version": "unknown",
     "quote_sha": "a61a9c02d4647239",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
       "line": 360,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3745,14 +3897,19 @@
     "quote": "were more satisfied with the division of housework the more fair they re-\ngarded the division and the smaller the relative size of their own share to\nthe housework was.",
     "version": "unknown",
     "quote_sha": "aa5b11e291997937",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
       "line": 583,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3774,14 +3931,19 @@
     "quote": "unfair divisions of housework generally benefit men but place\nwomen at a disadvantage, which may lead the latter to be more attuned\nto perceived fairness",
     "version": "unknown",
     "quote_sha": "a089a85beec8aae2",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
       "line": 673,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3803,14 +3965,19 @@
     "quote": "The subjects were 37 married couples living in\nstudent residences.",
     "version": "unknown",
     "quote_sha": "1ad1ecdccabe7460",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.4",
       "line": 330,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3833,14 +4000,19 @@
     "quote": "The twenty activities were mak-\ning breakfast, cleaning dishes, cleaning house, shop-\nping for groceries, caring for your children, planning\njoint leisure activities",
     "version": "unknown",
     "quote_sha": "c3a1786a97837222",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.4",
       "line": 352,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3863,14 +4035,21 @@
     "quote": "A sum of greater than\nISO would indicate an egocentric bias in perceived contribution, in that at least one\nof the spouses was overestimating his or her\nresponsibility for that activity.",
     "version": "unknown",
     "quote_sha": "fb73f2e205a267a9",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
       "line": 401,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 98,
+        "other_version": "unknown-ocr",
+        "other_reading": "y\" to be allocated. a sum of greater than 150 would indicate an egocentric bias in perceived contribution, in that at least one of the spouses was overestimating his or her responsibility for that activity. to assess the degre"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3893,14 +4072,21 @@
     "quote": "revealed that the composite scores were significantly greater\nthan zero, M = 4.67, F(l,\n35) = 12.89, p\n< .001, indicating an egocentric bias in per-\nceived contributions. Twenty-seven of the 37\ncouples showed some degree of overestima-\ntion (p < .025, sign test).",
     "version": "unknown",
     "quote_sha": "8ab115e4bc0d1e10",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
       "line": 413,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 91,
+        "other_version": "unknown-ocr",
+        "other_reading": "f analysis, revealed that the composite scores were significantly greater than zero, \\( m = 4.67 \\), \\( f(1,35) = 12.89 \\), \\( p < .001 \\), indicating an egocentric bias in perceived contributions. twentyseven of the 37 couples showed some degree of overestimation (\\( p < .025 \\), sign test). more"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3922,14 +4108,19 @@
     "quote": "overestimation occurred on 16 of the\n20 items on the questionnaire, including nega-\ntive items",
     "version": "unknown",
     "quote_sha": "c874f3fac1c11d64",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
       "line": 421,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -3951,14 +4142,19 @@
     "quote": "Although the magnitude\nof the overestimation was relatively small,\non the average, note that subjects tended to\nuse a restricted range of the scale. Most re-\nsponses were slightly above or slightly below\nthe halfway mark on the scale.",
     "version": "unknown",
     "quote_sha": "3b21bb1518ae5738",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
       "line": 425,
-      "abstract_check": "unavailable"
+      "abstract_check": "unavailable",
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -3980,13 +4176,18 @@
     "quote": "Although sense of fairness is positively related to marital quality, it\nis not affected by the degree of household labor segregation.",
     "version": "unknown",
     "quote_sha": "270a445f54fb7f46",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 750
+      "line": 750,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4008,13 +4209,18 @@
     "quote": "It appears that for these women a gap ex-\nists between the actual division of labor, which is\nshaped by traditional family patterns, and their ex-\npectations, which are influenced by egalitarian ref-\nerents.",
     "version": "unknown",
     "quote_sha": "8818237e70b200a0",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1200
+      "line": 1200,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4036,13 +4242,18 @@
     "quote": "Second, these women base their\nexpectations on referents that are ideologically\nsimilar to themselves and thus justify the lesser\nparticipation of their husbands in the domestic\nsphere",
     "version": "unknown",
     "quote_sha": "8214cf4e26b55335",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1156
+      "line": 1156,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4064,13 +4275,18 @@
     "quote": "Although\nthe division of labor in their families is the most\ntraditionally segregated along gender lines, it is\nnot perceived as unfair but rather as equitable.",
     "version": "unknown",
     "quote_sha": "fe0ea062d70103a7",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1142
+      "line": 1142,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4092,13 +4308,18 @@
     "quote": "Fairness-marital quality\n0.35\n0.38\n0.70**\n0.76\n0.07\n0.03",
     "version": "unknown",
     "quote_sha": "620375c986fc9158",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.10",
-      "line": 1003
+      "line": 1003,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4120,13 +4341,20 @@
     "quote": "Segregation-marital quality\n-0.04\n-0.04\n-0.11\n-0.10\n-0.48**\n-0.46",
     "version": "unknown",
     "quote_sha": "0b5e3a434126de64",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.10",
-      "line": 999
+      "line": 999,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 97,
+        "other_version": "unknown-ocr2",
+        "other_reading": "23) (0.18) (0.19) segregationmarital quality - 0.04 -0.04 -0.11 -0.10 -0.48** - 0.46 (0.21) (0.22) (0.15"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4148,13 +4376,18 @@
     "quote": "FIGURE 1. STANDARDIZED COEFFICIENTS FOR A MODEL OF PERCEIVED FAIRNESS AS MEDIATOR BETWEEN SEGREGATED DIVISION OF LABOR AND MARITAL QUALITY--ESTIMATES FOR MEN AND WOMEN",
     "version": "unknown",
     "quote_sha": "ccfd40b8b1a47733",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 767
+      "line": 767,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "read": "Women: Fairness to Marital Quality .45 (solid), Segregation to Marital Quality -.13 (dashed, ns). Men: Fairness to Marital Quality .51 (solid), Segregation to Marital Quality -.04 (dashed, ns).",
     "tier_b": {
@@ -4177,13 +4410,20 @@
     "quote": "the effect of segre-\ngation on marital quality was\nstatistically significant for both men, y = -.17, t\n= -2.48, and women, y = -.30, t = -5.56,",
     "version": "unknown",
     "quote_sha": "c7e9c76056c010c5",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 730
+      "line": 730,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 99,
+        "other_version": "unknown-ocr2",
+        "other_reading": "n unmediated model, the effect of segregation on marital quality was statistically significant for both men, y = - .17, t = -2.48, and women, y = - .30, t = -5.56, indicating that g"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4206,13 +4446,18 @@
     "quote": "the\ndirect effect of segregation on marital quality is no longer significant, indicating that the link between these variables is mediated by sense of",
     "version": "unknown",
     "quote_sha": "3e1bf7972dbce6cf",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 745
+      "line": 745,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4234,13 +4479,18 @@
     "quote": "For men, however, sense of fairness does not\nfunction as a mediator variable.",
     "version": "unknown",
     "quote_sha": "7578804d9a45783a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 749
+      "line": 749,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4262,13 +4512,20 @@
     "quote": "For the Jewish women, in\ncontrast, segregation is negatively related to both\nsense of fairness and marital quality but marital\nquality is not related to sense of fairness.",
     "version": "unknown",
     "quote_sha": "22f792f0e54314a5",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.10",
-      "line": 965
+      "line": 965,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 74,
+        "other_version": "unknown-ocr2",
+        "other_reading": " segregation is negatively related to both these steps resulted in a deterioration of model fit sense of fairness and marital quality but marital quality is not related to sense of fairness. the findrelative to "
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4290,13 +4547,18 @@
     "quote": "Sense of fairness was measured\nby a single item similar to that used in the first\nwave of the National Survey of Families and\nHouseholds (NSFH-I).",
     "version": "unknown",
     "quote_sha": "10795a35af9c933e",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 402
+      "line": 402,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4318,13 +4580,18 @@
     "quote": "Although\nthis item has been the most commonly used mea-\nsure in previous studies of fairness in the division\nof household labor, including the NSFH-I project,\nit may create some difficulties in interpretation",
     "version": "unknown",
     "quote_sha": "dffa23f758ea7d0f",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
-      "line": 1081
+      "line": 1081,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4346,13 +4613,18 @@
     "quote": "only 2.1% of women and 3.9% of men perceived the division of labor to be…unfair or very unfair to their spouses. In a sensitivity analysis, these respondents were found to be similar in terms of their division of household…and marital quality to those who perceived the division of labor to be fair.",
     "version": "unknown",
     "quote_sha": "50759027c028f4c7",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 3,
       "found_at": "p.5",
-      "line": 417
+      "line": 417,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4374,13 +4646,18 @@
     "quote": "Moreover, if women compare their housework time to other women's, rather than to their husband's time, they may view an unequal division of household labor as fair (Major 1994, Thompson 1991).",
     "version": "unknown",
     "quote_sha": "d0a0b947498335fe",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 652
+      "line": 652,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4402,13 +4679,18 @@
     "quote": "Finally, if women see acceptable reasons for the unequal division of household labor, they will not view it as unfair (Thompson 1991), although the justifications viewed as acceptable may vary by gender (LaRossa & LaRossa 1981, McKee 1982).",
     "version": "unknown",
     "quote_sha": "48122aafd803382b",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 655
+      "line": 655,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4430,13 +4712,18 @@
     "quote": "In research evaluating the association between the division of household labor and perceptions of fairness, findings are inconsistent.",
     "version": "unknown",
     "quote_sha": "58e65b8f46bd4817",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 668
+      "line": 668,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4458,13 +4745,18 @@
     "quote": "Thompson's (1991) argument that ideological factors affect perceptions of fairness may partially account for the inconsistent findings with respect to the relationship between the division of household labor and perceptions of fairness.",
     "version": "unknown",
     "quote_sha": "1c0e3677c5333840",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
-      "line": 688
+      "line": 688,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4486,13 +4778,18 @@
     "quote": "Generally, these studies have found that women's marital satisfaction is higher when they feel their husbands do their \"fair share\" of housework, but few find any consistent relationship between the division of household labor and marital satisfaction",
     "version": "unknown",
     "quote_sha": "34436906b0b26c2a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 736
+      "line": 736,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4514,13 +4811,18 @@
     "quote": "Some research suggests that men's marital happiness is affected by their housework time, but not by their perceptions of fairness (perhaps because so few men view the division of household labor as unfair to themselves), but the effects are modest (Robinson & Spitze 1992).",
     "version": "unknown",
     "quote_sha": "63004cdb21131ac9",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 749
+      "line": 749,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4543,13 +4845,18 @@
     "quote": "Pina & Bengston (1993) find that the effect of the division of household labor on various measures of marital satisfaction is mediated by perceptions of how fairly housework is divided, with not all women viewing an unequal division of household labor as unfair.",
     "version": "unknown",
     "quote_sha": "271e6447d55cc8ec",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 741
+      "line": 741,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4571,13 +4878,18 @@
     "quote": "Respondents typically overestimate their own housework time and underestimate the time spent by other household members (Marini & Shelton 1993)",
     "version": "unknown",
     "quote_sha": "f735ff9c6d30811c",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 156
+      "line": 156,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4599,13 +4911,18 @@
     "quote": "Blair & Johnson (1992) report that men's time spent on female-typed household tasks is the strongest predictor of women's perceptions of fairness",
     "version": "unknown",
     "quote_sha": "d1345cd0b6597099",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 670
+      "line": 670,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4627,13 +4944,18 @@
     "quote": "John et al (1995) report that both women and men are less likely to view the division of household labor as unfair as the men's proportional share of female-typed tasks increases.",
     "version": "unknown",
     "quote_sha": "10082f1ae813e645",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 683
+      "line": 683,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4655,13 +4977,18 @@
     "quote": "Yogev & Brett (1985) report that men's marital satisfaction is highest for men when they do what they consider to be their \"fair share.\"",
     "version": "unknown",
     "quote_sha": "0e07097da3d49c4a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 756
+      "line": 756,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4683,13 +5010,18 @@
     "quote": "Robinson & Spitze (1992) find that men report higher marital happiness when they spend less time on housework, but that men's proportional share of housework is not significant",
     "version": "unknown",
     "quote_sha": "688489b832ac2343",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 753
+      "line": 753,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4712,13 +5044,18 @@
     "quote": "Thus, parental comparison referents and socialization cannot sufficiently explain adult choices and outcomes (see also Goldscheider & Waite, 1991).",
     "version": "unknown-ocr",
     "quote_sha": "705c828a42de908a",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.19",
-      "line": 296
+      "line": 296,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4740,13 +5077,18 @@
     "quote": "For instance, among the wives I interviewed, those who were the most overburdened by housework were unable to justify their outcomes, describing their division of labor as unfair to them.",
     "version": "unknown-ocr",
     "quote_sha": "ebb4efafb8a234be",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 274
+      "line": 274,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4768,13 +5110,18 @@
     "quote": "Like Hochschild (1989), I found that justifications played a large part in spouses' formulations of what constitutes a fair division of labor.",
     "version": "unknown-ocr",
     "quote_sha": "89785f63f7c34efe",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.16",
-      "line": 243
+      "line": 243,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4796,13 +5143,18 @@
     "quote": "Wives who reported lower marital quality were more likely to think that the division of family work was imbalanced or unfair.",
     "version": "unknown-ocr",
     "quote_sha": "e4faadef7f48a1a7",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 230
+      "line": 230,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4824,13 +5176,18 @@
     "quote": "This strong positive link between perceptions of fairness and marital happiness has also been documented by researchers using the NSFH and other data sets",
     "version": "unknown-ocr",
     "quote_sha": "23355150f93da6cd",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 233
+      "line": 233,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4852,13 +5209,18 @@
     "quote": "Most of the variables, although they bear some relationship to fairness, have little explanatory power (Blair & Johnson, 1992; Sanchez, 1994).",
     "version": "unknown-ocr",
     "quote_sha": "9782d679ccfd9445",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 68
+      "line": 68,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4880,13 +5242,18 @@
     "quote": "scholars have had little success predicting spouses' sense of fairness about household labor using variables available in most national survey data sets such as time spent in housework and paid work or the specific tasks performed (Thompson, 1991)",
     "version": "unknown-ocr",
     "quote_sha": "aaa966dcc061f38a",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 67
+      "line": 67,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -4908,13 +5275,18 @@
     "quote": "included a question on fairness from the NSFH: \"How do you feel about the fairness in your relationship in the following area: household chores?\"",
     "version": "unknown-ocr",
     "quote_sha": "2bdf4984f6a29d96",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 112
+      "line": 112,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -4937,13 +5309,18 @@
     "quote": "Most prior work on fairness in the division of household labor has been based on survey data from the NSFH and has involved regressing fairness on a series of predictors",
     "version": "unknown-ocr",
     "quote_sha": "5b02f492185b34bd",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.2",
-      "line": 27
+      "line": 27,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5134,13 +5511,18 @@
     "quote": "These differences suggest that, regardless of gender, respondents tend to overreport their contributions to housework when a survey gives them the opportunity to do so.",
     "version": "unknown-ocr",
     "quote_sha": "4a5b3f744073fc2f",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
-      "line": 238
+      "line": 238,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5168,7 +5550,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.28",
-      "line": 447
+      "line": 447,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 99,
+        "other_version": "unknown-ocr2",
+        "other_reading": "ation on spouses. 3. note that our data consist of married individuals rather than matched married couples since the americans' use of time, 1985 (aut) (robinson 1985a) did not survey actual spouses in its third round this is true of man"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5190,13 +5579,18 @@
     "quote": "The AUT time-diary data are treated as the baseline for housework in our model, despite the possibility that report inflation probably occurs to some extent even when this method is used.",
     "version": "unknown-ocr",
     "quote_sha": "6b06c9bc0eceec67",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.6",
-      "line": 101
+      "line": 101,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5218,13 +5612,18 @@
     "quote": "We are not suggesting that husbands are lying. They may believe they are doing more housework. Or perhaps changing social expectations make husbands feel as though they should be doing more, or may focus their attention on what little they do, leading to an overreport in the survey interview context. We cannot distinguish among these explanations with our data.",
     "version": "unknown-ocr",
     "quote_sha": "1acca126e2ee180d",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.27",
-      "line": 433
+      "line": 433,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5611,13 +6010,18 @@
     "quote": "Adjusted R2\n.19 .11 .05 .05 .20 .13 n 382 382 382 382 382 382",
     "version": "unknown",
     "quote_sha": "9f6693a04f8da61b",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1293
+      "line": 1293,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5640,13 +6044,20 @@
     "quote": "When wives do more, they feel that the division is less fair (P = -.34, column 1), and husbands feel that it is fairer (P = .22, column 2).",
     "version": "unknown",
     "quote_sha": "e08329f2797d3467",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1326
+      "line": 1326,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 88,
+        "other_version": "unknown-ocr",
+        "other_reading": "domestic fairness. when wives do more, they feel that the division is less fair (\\(\\beta = -.34\\), column 1), and husbands feel that it is fairer (\\(\\beta = .22\\), column 2). note"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5668,13 +6079,18 @@
     "quote": "receiving credit from a spouse for performing the gender-congruent roles of breadwinner for men and homemaker for women",
     "version": "unknown",
     "quote_sha": "ff560864dffc6f70",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1361
+      "line": 1361,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5696,13 +6112,18 @@
     "quote": "Discrepancy in estimates of percentage of\ndomestic hours\n-.11*\n-.07",
     "version": "unknown",
     "quote_sha": "4c9fe8f5c57ee701",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1274
+      "line": 1274,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5724,13 +6145,20 @@
     "quote": "in the relationship similarly contributes to feeling that the division of housework is fair … for how unequal it actually is (3 = .13 for wives, column 1, and .14 for husbands, column 2)",
     "version": "unknown",
     "quote_sha": "54c5f2efa14f7213",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 2,
       "found_at": "p.13",
-      "line": 1404
+      "line": 1404,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 93,
+        "other_version": "unknown-ocr2",
+        "other_reading": " of empowerment in the relationship similarly contributes to feeling that the division of housework is fair, controlling for how unequal it actually is (ss = .13 for wives, column 1, and .14 for husbands, column 2). but a sense "
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5752,13 +6180,18 @@
     "quote": "Conversely, empowerment can be said to be a form of procedural justice because it increases the interpretation of a similarly unequal division of labor as fair.",
     "version": "unknown",
     "quote_sha": "07ace505daceb11a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
-      "line": 1572
+      "line": 1572,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5780,13 +6213,18 @@
     "quote": "Thus, both men and women are guided by conventional gender",
     "version": "unknown",
     "quote_sha": "f32046d87b548d44",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1357
+      "line": 1357,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5808,13 +6246,18 @@
     "quote": "own perceptions of fairness in domestic and paid work directly and significantly increase marital satisfaction for both husbands and wives",
     "version": "unknown",
     "quote_sha": "61a4916b8ea705b2",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
-      "line": 1547
+      "line": 1547,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5837,13 +6280,20 @@
     "quote": "Housework division fair\nPaid work division fair\nSpouse feels paid work division fair … .11*\n.08*\n.09*",
     "version": "unknown",
     "quote_sha": "5a3cd1ce0f2ae351",
-    "depth": "full_text",
+    "depth": "machine_read",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 2,
       "found_at": "p.15",
-      "line": 1631
+      "line": 1631,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr, unknown-ocr2",
+        "score": 71,
+        "other_version": "unknown-ocr",
+        "other_reading": " fair .11* .11* .16* .16* paid work division fair .08* .08* .14* .14* spouse feels paid work division fair .09* .09* .06 .06 empathy wife feels"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -5865,13 +6315,18 @@
     "quote": "performance of conventional gender roles only significantly affects marital quality indirectly via perceptions of fairness and understanding.",
     "version": "unknown",
     "quote_sha": "cfe5f971f0a723d3",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.14",
-      "line": 1580
+      "line": 1580,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5893,13 +6348,18 @@
     "quote": "The division of paid and household labor has effects on marital satisfaction that are largely … by the mediating variables of perceived unfairness and perceived empathy.",
     "version": "unknown",
     "quote_sha": "8f2d9bfbfadef283",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 2,
       "found_at": "p.14",
-      "line": 1576
+      "line": 1576,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5921,13 +6381,18 @@
     "quote": "In both cases, perceived unfairness increases with the share of gender-typical work and reduces marital satisfaction.",
     "version": "unknown",
     "quote_sha": "3a08fb68f33c5c82",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
-      "line": 1952
+      "line": 1952,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5949,13 +6414,18 @@
     "quote": "In general, our specification of a causal model with cross-sectional data must be regarded as",
     "version": "unknown",
     "quote_sha": "158e4fc03c67fde1",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
-      "line": 1938
+      "line": 1938,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -5977,13 +6447,18 @@
     "quote": "We did separate tests on all indirect paths and indicated significance when the coefficient of one or more paths was significant.",
     "version": "unknown",
     "quote_sha": "d3a713566f1de6c9",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 1732
+      "line": 1732,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -6005,13 +6480,18 @@
     "quote": "both husbands and wives report more contributions made by themselves than their partners attribute to them, a finding of egocentric bias consistent with other research on the division of labor",
     "version": "unknown",
     "quote_sha": "9efdabcf78761f77",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.7",
-      "line": 567
+      "line": 567,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6033,13 +6513,18 @@
     "quote": "Discrepancy in estimates of percentage of domestic hours\n4.5\n15.4",
     "version": "unknown",
     "quote_sha": "c8b0b0a3d6864af8",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 889
+      "line": 889,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -6061,13 +6546,18 @@
     "quote": "For family income, wives, on average, overestimated their husbands' share",
     "version": "unknown",
     "quote_sha": "27fa2c1e503aeb34",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 871
+      "line": 871,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -6089,13 +6579,18 @@
     "quote": "cleaning, making repairs, shopping, working in the yard, doing financial work, and, for those with children younger than age 16, caring for children.",
     "version": "unknown",
     "quote_sha": "52d6dd6f7b586ab2",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.6",
-      "line": 533
+      "line": 533,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6117,13 +6612,18 @@
     "quote": "Rarely are respondents asked directly whether the division of labor is fair.",
     "version": "unknown",
     "quote_sha": "2f04ee88070bfa71",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.4",
-      "line": 269
+      "line": 269,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6145,13 +6645,18 @@
     "quote": "From these two items we constructed a dichotomous variable, housework division fair.",
     "version": "unknown",
     "quote_sha": "0fb74c9baa7d3d73",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 667
+      "line": 667,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6173,13 +6678,18 @@
     "quote": "Paid work division fair was a one-item assessment asking the respondent if he or she did more than his or her fair share",
     "version": "unknown",
     "quote_sha": "cf7f3f435196dd5b",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 675
+      "line": 675,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -6202,13 +6712,18 @@
     "quote": "An earlier effort to create parallel measures of overreward (doing less than one's fair share) indicated that such measures were not significantly related to marital satisfaction in any of our models.",
     "version": "unknown",
     "quote_sha": "f76cbc2aa0fccb39",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 680
+      "line": 680,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6230,13 +6745,18 @@
     "quote": "the variable code was 0 = unfair. Otherwise, the code was 1 =fair.",
     "version": "unknown",
     "quote_sha": "f244da3432515739",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 673
+      "line": 673,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6321,7 +6841,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 304
+      "line": 304,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 90,
+        "other_version": "unknown-ocr2",
+        "other_reading": ".044* .019 poverty potential' . 107* .049 adjusted r' . 18 n (unweighted) 789 n"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6343,13 +6870,18 @@
     "quote": "Our findings also indicate that most women \\((60.8\\%)\\) and most men \\((67.5\\%)\\) believe that this uneven distribution of housework is fair to both spouses.",
     "version": "unknown-ocr",
     "quote_sha": "e804bd8e5a033ef3",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.21",
-      "line": 371
+      "line": 371,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6371,13 +6903,18 @@
     "quote": "Adjusted R2\n.03\n.03",
     "version": "unknown",
     "quote_sha": "31d444d32df23ed9",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
-      "line": 549
+      "line": 549,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6399,13 +6936,18 @@
     "quote": "Adjusted R2\n.04\n.04",
     "version": "unknown",
     "quote_sha": "ee7ddd399909acf4",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 737
+      "line": 737,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6579,13 +7121,18 @@
     "quote": "And our findings support Thompson's contention that the division of domestic labor—the allocation of time and tasks—is not the only or primary predictor of wives' feelings about the fairness of family work.",
     "version": "unknown-ocr",
     "quote_sha": "56d8c56a5c0f0060",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.28",
-      "line": 401
+      "line": 401,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6607,13 +7154,18 @@
     "quote": "In addition, we did not use actual estimates of time in family work that were available in our data, as some other studies have done, for two reasons, one conceptual, the other pragmatic.",
     "version": "unknown-ocr",
     "quote_sha": "c7e8052575697fb0",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 208
+      "line": 208,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -6663,13 +7215,18 @@
     "quote": "Second, we must note that our models \"explain\"\nonly about 15% of the variance in wives' percep-\ntions of the fairness of the division of household\nlabor.",
     "version": "unknown",
     "quote_sha": "25ebc27e90b8e56c",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 1291
+      "line": 1291,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7343,13 +7900,18 @@
     "quote": "This analysis adjusts for the division of housework by adding indicators of the total number of hours that the couple spends on male and female chores and the relative amount of time the wife spends on these chores.",
     "version": "unknown-ocr",
     "quote_sha": "ad4c5dab26440a47",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.17",
-      "line": 279
+      "line": 279,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7377,7 +7939,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 303
+      "line": 303,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 93,
+        "other_version": "unknown-ocr2",
+        "other_reading": "options: perceived options® - .044* .019 poverty potential' . 107* .049 adjusted r' . 18 n (unweigh"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7399,13 +7968,18 @@
     "quote": "Fewer resources and alternatives also work to limit reference groups and individuals: people compare themselves to others in similarly restricted circumstances and thus expect less from any given exchange.",
     "version": "unknown-ocr",
     "quote_sha": "ed8efb99bc80da7b",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 80
+      "line": 80,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7427,13 +8001,18 @@
     "quote": "Some women believe that, even when employed, they should do most of the domestic work or that there are justifiable reasons why men do not participate equally",
     "version": "unknown-ocr",
     "quote_sha": "8e7099287a6f3f87",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.6",
-      "line": 92
+      "line": 92,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7455,13 +8034,18 @@
     "quote": "There is no statistically significant association between conventional gender ideology and perceived relative fairness.",
     "version": "unknown-ocr",
     "quote_sha": "3947777aa4a560ab",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 313
+      "line": 313,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7483,13 +8067,18 @@
     "quote": "Different justifications may excuse an unequal division of labor, many of which involve gender-specific reasons for less housework, such as husbands' lack of training for it, lower standards, or less ability",
     "version": "unknown-ocr",
     "quote_sha": "af34b793019ad446",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.23",
-      "line": 393
+      "line": 393,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7511,13 +8100,18 @@
     "quote": "To examine this, we regressed depressive symptoms on perceived fairness.",
     "version": "unknown-ocr",
     "quote_sha": "a0cbb0d23807a9bf",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.19",
-      "line": 322
+      "line": 322,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7545,7 +8139,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 295
+      "line": 295,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 96,
+        "other_version": "unknown-ocr2",
+        "other_reading": "n .018 .012 marital happiness 048*** .010 hours others spend on hous"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7567,13 +8168,18 @@
     "quote": "REGRESSION OF DEPRESSIVE SYMPTOMS ON RELATIVE FAIRNESS FOR EMPLOYED WIVES",
     "version": "unknown-ocr",
     "quote_sha": "25a4ee19d5d92d2e",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
-      "line": 332
+      "line": 332,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7595,13 +8201,18 @@
     "quote": "Although these cross-sectional data do not allow us to assess the direction of causality",
     "version": "unknown-ocr",
     "quote_sha": "c763dfcd47b4a5c3",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.22",
-      "line": 384
+      "line": 384,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7623,13 +8234,18 @@
     "quote": "Women's proportion of all household chores is \\(68.2\\%\\). This amount compares closely with men's report that their wives perform \\(65.5\\%\\) of household chores.",
     "version": "unknown-ocr",
     "quote_sha": "a2403a33bda766bf",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 216
+      "line": 216,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7651,13 +8267,18 @@
     "quote": "The relative contributions by men and by women in each task category will not add up to \\(100\\%\\), because the respondents are not married to each other; the denominator is respondents' housework plus their spouse's housework.",
     "version": "unknown-ocr",
     "quote_sha": "1d04797f0da861d2",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 207
+      "line": 207,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7685,7 +8306,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 298
+      "line": 298,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 98,
+        "other_version": "unknown-ocr2",
+        "other_reading": "e chores .003 .002 % female tasks done by respondent .007*** .001 % male tasks done by respondent .001 .001 conventional gender ideology .002"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7707,13 +8335,18 @@
     "quote": "It should be emphasized that \"female\" tasks are more time-consuming and less flexible than are \"male\" tasks",
     "version": "unknown-ocr",
     "quote_sha": "c0d4490e294ed0a3",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 144
+      "line": 144,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7735,13 +8368,18 @@
     "quote": "Perceptions of fairness were assessed with one item that asked respondents to rate the fairness of their marital division of household chores.",
     "version": "unknown-ocr",
     "quote_sha": "2f814bbd7236b8e9",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 149
+      "line": 149,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7764,13 +8402,18 @@
     "quote": "Symptoms of depression are minimized when household tasks are perceived to be fair; they are maximized when household chores appear to be unfair either to oneself or to one's spouse.",
     "version": "unknown-ocr",
     "quote_sha": "66d469f0439f7789",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.21",
-      "line": 365
+      "line": 365,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7798,7 +8441,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
-      "line": 345
+      "line": 345,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 95,
+        "other_version": "unknown-ocr2",
+        "other_reading": "5 • 044 perception of fairness® - 086 .070 perception of fairness squared . 188* .084 adjusted r' . 10 n (unweigh"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7820,13 +8470,18 @@
     "quote": "The low\nexplained variance also suggests that fairness perceptions are a far more subtle,\ncomplex phenomena than can be represented by these indicators.",
     "version": "unknown",
     "quote_sha": "239de03fe0e4aae3",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 897
+      "line": 897,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7848,13 +8503,18 @@
     "quote": "Together\nthese equations explain less than 5% of the incremental variance.",
     "version": "unknown",
     "quote_sha": "1e1ef24431dab72d",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.11",
-      "line": 584
+      "line": 584,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7877,13 +8537,18 @@
     "quote": "Though this current study cannot determine whether women and men are\nusing nonpartner referents to decide whether housework chores are fairly\ndistributed",
     "version": "unknown",
     "quote_sha": "de61b81927f610d8",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.4",
-      "line": 170
+      "line": 170,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7905,13 +8570,18 @@
     "quote": "The questions\nin this large-scale, quantitative survey could not elicit information about\ncontradictory, unresolved feelings and beliefs among respondents.",
     "version": "unknown",
     "quote_sha": "59f06aea626dbf18",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 895
+      "line": 895,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -7933,13 +8603,18 @@
     "quote": "However, they find that the strongest predictor of wives' fairness perception\nis husbands' participation in stereotypically feminine housework.",
     "version": "unknown",
     "quote_sha": "9c259b8e75041c79",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.3",
-      "line": 108
+      "line": 108,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7961,13 +8636,18 @@
     "quote": "Perceptions of housework fairness are constructed from responses to the self-\nadministered question \"How do you feel about the fairness in your relationship\nin household chores?\" The five-category response set ranged from \"very unfair\nto me\" to \"very unfair to her/him.\"",
     "version": "unknown",
     "quote_sha": "42516201ed257ae8",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.7",
-      "line": 301
+      "line": 301,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -7989,13 +8669,18 @@
     "quote": "For the regressions, fairness perceptions\nrange from 1 through 5 with higher scores indicating housework allocation is\nunfair to the woman.",
     "version": "unknown",
     "quote_sha": "43538d3d0105354a",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.7",
-      "line": 305
+      "line": 305,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -8945,13 +9630,18 @@
     "quote": "Overall, these constructs suggested by the distributive justice framework combined in the final model to account for \\(66\\%\\) of the variance in wives' sense of fairness about family work.",
     "version": "unknown-ocr",
     "quote_sha": "ecaae4682d7450f1",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.22",
-      "line": 315
+      "line": 315,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -8973,13 +9663,18 @@
     "quote": "it is not surprising that weak associations are found between the division of work and feelings of fairness.",
     "version": "unknown-ocr",
     "quote_sha": "215c10786bdd8ab1",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.15",
-      "line": 208
+      "line": 208,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9001,13 +9696,18 @@
     "quote": "\"Division\" was significantly associated with \"Fairness;\" the more wives did relative to their husbands, the less fair they reported the allocation of family work to be. \"Feeling Appreciated\" had a stronger direct effect, however (coefficient = .664)",
     "version": "unknown-ocr",
     "quote_sha": "15a304813a3da4ea",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.18",
-      "line": 252
+      "line": 252,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9029,13 +9729,18 @@
     "quote": "\"Invisible Work Recognition\" was not directly related to \"Fairness,\" as hypothesized, but it did have an indirect effect",
     "version": "unknown-ocr",
     "quote_sha": "e9e28a8e0133d0d9",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.19",
-      "line": 271
+      "line": 271,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9057,13 +9762,18 @@
     "quote": "The direct path coefficient was -.229; the more wives compared their husbands' time and efforts in domestic labor with their own labor and not with the efforts of other men, the less fair wives reported family work to be.",
     "version": "unknown-ocr",
     "quote_sha": "1d9d0797023eaaef",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.20",
-      "line": 280
+      "line": 280,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9086,13 +9796,18 @@
     "quote": "In the combined model, the significant, direct effects of \"Between-Gender Comparisons\" and \"Standards\" on \"Fairness\" were no longer significant.",
     "version": "unknown-ocr",
     "quote_sha": "3d660bbba083fe33",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.22",
-      "line": 307
+      "line": 307,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9120,7 +9835,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 169
+      "line": 169,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 72,
+        "other_version": "unknown-ocr2",
+        "other_reading": "int we return to in more depth in the discussion section. because of the low reliability of the measures for we exclude them from our test of the value of the distributive justice framework for understanding feelings of fairness. fairness of family work other studies have measur"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9142,13 +9864,18 @@
     "quote": "In addition, we ended up using a single-item measure of \"Between-Gender Comparisons,\" a construct that is certainly complex and multidimensional.",
     "version": "unknown-ocr",
     "quote_sha": "c28da1e5482ea4e3",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.23",
-      "line": 324
+      "line": 324,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9176,7 +9903,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.21",
-      "line": 295
+      "line": 295,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 98,
+        "other_version": "unknown-ocr2",
+        "other_reading": "17 × -279 = -.088). \"deciding together\" did have the hypothesized relationship to \"fairness\"; when wives reported that the division of family work was something that was worked out together with their husbands, then wives reported the division of labor to be more fair (coefficient = 512). moreover, higher scores "
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9199,13 +9933,18 @@
     "quote": "The higher standards wives held relative to their husbands for the performance of housework and child care, the less fair wives reported the allocation of family work to be (coefficient \\(= -.124\\)).",
     "version": "unknown-ocr",
     "quote_sha": "6fde9042ce3b930e",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.21",
-      "line": 291
+      "line": 291,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9228,13 +9967,18 @@
     "quote": "we needed to eliminate one of the constructs from the final analysis to avoid problems with multicollinearity.",
     "version": "unknown-ocr",
     "quote_sha": "b6f549f89993545b",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.22",
-      "line": 304
+      "line": 304,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9262,7 +10006,14 @@
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 169
+      "line": 169,
+      "second": {
+        "outcome": "differs",
+        "with": "unknown-ocr2",
+        "score": 72,
+        "other_version": "unknown-ocr2",
+        "other_reading": "int we return to in more depth in the discussion section. because of the low reliability of the measures for we exclude them from our test of the value of the distributive justice framework for understanding feelings of fairness. fairness of family work other studies have measur"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9284,13 +10035,18 @@
     "quote": "Trade-offs are made; less involvement in one domain may or may not be made up for by greater involvement in another.",
     "version": "unknown-ocr",
     "quote_sha": "4541564386ce108a",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 181
+      "line": 181,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9312,13 +10068,18 @@
     "quote": "The unique nature of her sample may account for the predictive power of task allocation on fairness.",
     "version": "unknown-ocr",
     "quote_sha": "caecaef2a6f2edef",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.29",
-      "line": 415
+      "line": 415,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9340,13 +10101,18 @@
     "quote": "Blair and Johnson (1992) used a single-item measure from the NSFH",
     "version": "unknown-ocr",
     "quote_sha": "590f236169f98247",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 173
+      "line": 173,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9369,13 +10135,18 @@
     "quote": "Mederer (1993) assessed this construct indirectly with a three-item measure that asked wives",
     "version": "unknown-ocr",
     "quote_sha": "d70317e69ea3e7b4",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 171
+      "line": 171,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9397,13 +10168,18 @@
     "quote": "Two items specifically addressing wives' feelings of fairness about child care and housework were included in our survey and formed a scale with a Cronbach's alpha of .84.",
     "version": "unknown-ocr",
     "quote_sha": "70b76ceac3f242fd",
-    "depth": "machine_read",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 183
+      "line": 183,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr2",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9764,13 +10540,18 @@
     "quote": "R2\n.145\n.157",
     "version": "unknown",
     "quote_sha": "32337729a57cef12",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 777
+      "line": 777,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9792,13 +10573,18 @@
     "quote": "Male labor in female-dominated tasks\n.32\n.23",
     "version": "unknown",
     "quote_sha": "177400b3336e3045",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 929
+      "line": 929,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -9821,13 +10607,18 @@
     "quote": "we\nhad no direct measures of comparison processes\nor of justifications.",
     "version": "unknown",
     "quote_sha": "9709a6c10ad3c2c6",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.13",
-      "line": 1298
+      "line": 1298,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9849,13 +10640,18 @@
     "quote": "Pre-\nsumably a feminist ideology would lead women to\nmake the cross-gender comparisons that Thomp-\nson argues would contribute to a sense of unfair-\nness in the division of labor",
     "version": "unknown",
     "quote_sha": "f827d64e1d653b46",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1258
+      "line": 1258,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9877,13 +10673,18 @@
     "quote": "and such an ideology\nwould also undermine the nature of acceptable\njustifications\nfor men's nonparticipation in\nhousework. In such a case, one would expect a\nmain effect of ideology, and although there is a\nsmall relationship between family-labor ideology\nand perceptions of fairness, there is none for our\nmore general measure of sex-role ideology.",
     "version": "unknown",
     "quote_sha": "af1b9e2ed3cb8978",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1262
+      "line": 1262,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9905,13 +10706,18 @@
     "quote": "Although we have no direct mea-\nsures of comparisons or justifications, we can use\nideological variables that can reasonably be as-\nsumed to be related to those processes.",
     "version": "unknown",
     "quote_sha": "c2af8e2eefc1e739",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.3",
-      "line": 186
+      "line": 186,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9933,13 +10739,18 @@
     "quote": "Yogev\nand Brett (1985) find a strong association between\noverall levels of marital happiness and satisfaction\nand the perception of fairness in the division of\nhousehold labor and child care tasks.",
     "version": "unknown",
     "quote_sha": "aba64e1f0b73c18e",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.3",
-      "line": 125
+      "line": 125,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9961,13 +10772,18 @@
     "quote": "This paper will\nfocus on the first step in that chain, the relation-\nship between household division of labor and\nwives' perceptions of the fairness of the allocation\nof household labor.",
     "version": "unknown",
     "quote_sha": "5de3e912b9079db5",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.3",
-      "line": 166
+      "line": 166,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -9989,13 +10805,18 @@
     "quote": "Given the focus of this investi-\ngation on wives' reactions to the division of labor,\nmeasures of both husbands' and wives' household\nlabor are based on reports from wives.",
     "version": "unknown",
     "quote_sha": "689a6da2917d614e",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.5",
-      "line": 362
+      "line": 362,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -10017,13 +10838,18 @@
     "quote": "That hy-\npothesis was clearly supported with betas for\nmales' labor in female, male, and gender neutral\ntasks being .19, .01, and .07, respectively. Only\nthe first coefficient is statistically significant.",
     "version": "unknown",
     "quote_sha": "97588c481110a36e",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.9",
-      "line": 852
+      "line": 852,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -10046,13 +10872,18 @@
     "quote": "Male labor in female-dominated tasks\n.244**\n.222**\n(.022)\n(.019)",
     "version": "unknown",
     "quote_sha": "bb727c5a05fe1ebf",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.8",
-      "line": 749
+      "line": 749,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -10075,13 +10906,18 @@
     "quote": "The observed relationship for both em-\nployed and nonemployed wives is net of total fe-\nmale labor.",
     "version": "unknown",
     "quote_sha": "9b2d731f8325a503",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.12",
-      "line": 1224
+      "line": 1224,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "partial",
@@ -10104,13 +10940,18 @@
     "quote": "First, the traditional male tasks in-\nvolve little investment of time relative to the fe-\nmale tasks.",
     "version": "unknown",
     "quote_sha": "3d851fead10c23b3",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.4",
-      "line": 214
+      "line": 214,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "exact"
+      }
     },
     "tier_b": {
       "verdict": "supports",
@@ -10132,13 +10973,18 @@
     "quote": "Wives' perception offair-\nness of the division of labor was measured with\nthe following question: \"How do you feel about\nthe fairness in your relationship in each of the\nfollowing areas? (household chores).\" Responses\nwere on a 5-point scale, ranging from \"very un-\nfair to me\" to \"very unfair to him.\"",
     "version": "unknown",
     "quote_sha": "48d2e5d4a88e6194",
-    "depth": "full_text",
+    "depth": "scan_agreed",
     "tier_a": {
       "outcome": "exact",
       "score": 100.0,
       "segments": 1,
       "found_at": "p.6",
-      "line": 499
+      "line": 499,
+      "second": {
+        "outcome": "agrees",
+        "with": "unknown-ocr",
+        "match": "fuzzy"
+      }
     },
     "tier_b": {
       "verdict": "partial",
