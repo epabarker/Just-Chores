@@ -1,0 +1,83 @@
+{
+  "10.1023_a-1023282615718": {
+    "id": "10.1023_a-1023282615718",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1023/a:1023282615718",
+    "title": "Division of Household Labor and Perceived Justice: A Growing Field of Research",
+    "first_author": "Mikula",
+    "year": 1998,
+    "is_review": true,
+    "sentinel": true
+  },
+  "10.1177_019251391012002003": {
+    "id": "10.1177_019251391012002003",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/019251391012002003",
+    "title": "Family Work: Women's Sense of Fairness",
+    "first_author": "Thompson",
+    "year": 1991,
+    "sentinel": true
+  },
+  "10.1177_019251395016006002": {
+    "id": "10.1177_019251395016006002",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1177/019251395016006002",
+    "title": "Exploring Wives' Sense of Fairness About Family Work",
+    "first_author": "Hawkins",
+    "year": 1995,
+    "sentinel": true
+  },
+  "10.1111_j.1540-4560.1993.tb01173.x": {
+    "id": "10.1111_j.1540-4560.1993.tb01173.x",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1111/j.1540-4560.1993.tb01173.x",
+    "title": "Gender, Entitlement, and the Distribution of Family Labor",
+    "first_author": "Major",
+    "year": 1993,
+    "sentinel": true
+  },
+  "10.1037_0022-3514.37.3.322": {
+    "id": "10.1037_0022-3514.37.3.322",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1037/0022-3514.37.3.322",
+    "title": "Egocentric biases in availability and attribution",
+    "first_author": "Ross",
+    "year": 1979,
+    "sentinel": true
+  },
+  "10.2307_2580391": {
+    "id": "10.2307_2580391",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.2307/2580391",
+    "title": "Gender Ideology and Perceptions of the Fairness of the Division of Household Labor: Effects on Marital Quality",
+    "first_author": "Greenstein",
+    "year": 1996,
+    "sentinel": true
+  },
+  "10.2307_353530": {
+    "id": "10.2307_353530",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.2307/353530",
+    "title": "Gender and Fairness: Marital Satisfaction in Two-Earner Couples",
+    "first_author": "Wilkie",
+    "year": 1998,
+    "sentinel": true
+  },
+  "10.1086_230545": {
+    "id": "10.1086_230545",
+    "status": "backlog",
+    "added_pass": 1,
+    "doi": "10.1086/230545",
+    "title": "Relative Fairness and the Division of Housework: The Importance of Options",
+    "first_author": "Lennon",
+    "year": 1994,
+    "sentinel": true
+  }
+}

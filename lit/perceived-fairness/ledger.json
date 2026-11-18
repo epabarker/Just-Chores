@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "question": "What predicts that a partner perceives the division of household labour as fair? Cover equity theory, the distributive justice framework (outcomes, comparison referents, justifications), egocentric over-claiming of one's own contribution, and whether perceived fairness or the actual split better predicts relationship satisfaction. Report how perceived fairness has been measured.",
+  "decision_served": "What a method for allocating chores between two cohabiting partners must measure, target and include so that each partner perceives the allocation as fair; feeds the burden and fairness model and the participation protocol of the methodology spec.",
+  "pico": "P: adult partners in cohabiting or married couples (two-partner households) who share chores. I/E: the actual allocation of household labour (time, count, task type, cognitive labour), comparison referents, entitlement and justifications, each partner's egocentric over-claiming of their own contribution. C: equal versus unequal splits; fair-feeling versus unfair-feeling allocations; self-report versus partner or diary report of contribution. O: each partner's perceived fairness of the allocation; relationship satisfaction (marital quality, conflict, instability); how perceived fairness has been measured.",
+  "status": "in_progress",
+  "pass_number": 0,
+  "max_passes": 4,
+  "caps": {
+    "reads_per_pass": 10,
+    "concurrent_readers": 5,
+    "papers_per_request": 10,
+    "chase_rounds": 3
+  },
+  "models": {
+    "reader": "sonnet",
+    "verifier": "opus",
+    "escalation": "session model"
+  },
+  "library_path": "~/lit-library",
+  "branch": "research/perceived-fairness-fulltext",
+  "ticket": "#21 What makes a division of chores feel fair, read in full (map #1)",
+  "created": "2026-11-18T18:38:52Z",
+  "updated": "2026-11-18T18:39:50Z",
+  "queries": [],
+  "coverage_gaps": [],
+  "passes": [],
+  "corrections": []
+}

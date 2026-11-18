@@ -1,0 +1,56 @@
+{
+  "C1": {
+    "id": "C1",
+    "text": "A partner's perceived fairness of the allocation is predicted by comparison referents, entitlement and justifications (distributive justice framework), not by the actual split alone: a partner who carries the larger share can perceive the allocation as fair.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  },
+  "C2": {
+    "id": "C2",
+    "text": "A partner's perceived fairness of the allocation predicts that partner's relationship satisfaction better than the actual split does, and the split's effect on satisfaction runs through perceived fairness.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  },
+  "C3": {
+    "id": "C3",
+    "text": "Each partner over-claims their own contribution, so the two partners' self-reported shares of chores add to more than the whole, and an allocation cannot rest on each partner's unaided recall of who does what.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  },
+  "C4": {
+    "id": "C4",
+    "text": "Perceived fairness depends on burden, not on count or duration of chores alone: which chores are done, how they are experienced, cognitive labour and the partner's other demands shape whether an allocation is judged fair.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  },
+  "C5": {
+    "id": "C5",
+    "text": "Perceived fairness has been measured by a small number of recurring instruments (global single-item fairness, multi-item scales, referent-specific or self-versus-partner items); the measure chosen changes what is found.",
+    "weight": "decisive",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  },
+  "C6": {
+    "id": "C6",
+    "text": "Under equity theory, perceived inequity arises both for the under-benefited and the over-benefited partner, and the under-benefited partner's distress is larger; both partners' perceived fairness matters for the couple.",
+    "weight": "supporting",
+    "waived": null,
+    "user_edited": false,
+    "added_pass": 1,
+    "added_by": "agent"
+  }
+}
