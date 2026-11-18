@@ -3,8 +3,8 @@
   "question": "What predicts that a partner perceives the division of household labour as fair? Cover equity theory, the distributive justice framework (outcomes, comparison referents, justifications), egocentric over-claiming of one's own contribution, and whether perceived fairness or the actual split better predicts relationship satisfaction. Report how perceived fairness has been measured.",
   "decision_served": "What a method for allocating chores between two cohabiting partners must measure, target and include so that each partner perceives the allocation as fair; feeds the burden and fairness model and the participation protocol of the methodology spec.",
   "pico": "P: adult partners in cohabiting or married couples (two-partner households) who share chores. I/E: the actual allocation of household labour (time, count, task type, cognitive labour), comparison referents, entitlement and justifications, each partner's egocentric over-claiming of their own contribution. C: equal versus unequal splits; fair-feeling versus unfair-feeling allocations; self-report versus partner or diary report of contribution. O: each partner's perceived fairness of the allocation; relationship satisfaction (marital quality, conflict, instability); how perceived fairness has been measured.",
-  "status": "awaiting_papers",
-  "pass_number": 3,
+  "status": "evidence_thin",
+  "pass_number": 4,
   "max_passes": 4,
   "caps": {
     "reads_per_pass": 10,
@@ -21,7 +21,7 @@
   "branch": "research/perceived-fairness-fulltext",
   "ticket": "#21 What makes a division of chores feel fair, read in full (map #1)",
   "created": "2026-11-18T18:38:52Z",
-  "updated": "2026-11-18T22:01:55Z",
+  "updated": "2026-11-18T22:12:02Z",
   "queries": [
     {
       "source": "europepmc",
@@ -431,7 +431,9 @@
     "Pass 3: Grote 2002's text layer drops minus signs and comparison symbols, so its Table 3 and 4 coefficients are unsigned; directions come from the authors' prose. Figure 1's path coefficients were not viewed.",
     "Pass 3: Urbina 2025's online appendix (OSF osf.io/dwj6q, Tables A1-A4, Figure A2) is not in the text and was not read. Mikula 2009's Table 1 column labelling (m/w) is ambiguous, so its implied sums of own shares (88% and 101%) are uncertain.",
     "Pass 3: no abstract note could be written for Grote & Clark 1998, Mederer 1993 or DeMaris & Longmore 1996 (no abstract, or only a citation line, in any index); they are requested on title and citation evidence alone. Sanchez 1994 E9 was replaced on escalation and no extract still fails.",
-    "Pass 3: no fetch route (Unpaywall, OpenAlex) offered any requested paper (Thompson 1991, Mederer 1993, DeMaris & Longmore 1996, Grote & Clark 1998, Major 1993, Braun 2008, Greenstein 1996). Not requested: Petts 2025 and Carlson 2022 (outcome is relationship satisfaction, not perceived fairness), Smith, Gager & Morgan 1998 and Grote & Clark 2001 (cited by the pass-3 papers for C8 and C4/C5; not yet in the ledger). Pass 4 is the last, so those would need to be added then."
+    "Pass 3: no fetch route (Unpaywall, OpenAlex) offered any requested paper (Thompson 1991, Mederer 1993, DeMaris & Longmore 1996, Grote & Clark 1998, Major 1993, Braun 2008, Greenstein 1996). Not requested: Petts 2025 and Carlson 2022 (outcome is relationship satisfaction, not perceived fairness), Smith, Gager & Morgan 1998 and Grote & Clark 2001 (cited by the pass-3 papers for C8 and C4/C5; not yet in the ledger). Pass 4 is the last, so those would need to be added then.",
+    "Pass 4 (last): the seven requested papers were read (Thompson 1991, Major 1993, Greenstein 1996, Braun 2008, Grote & Clark 1998, DeMaris & Longmore 1996, Mederer 1993); six are scans, and every extract from them that carries was matched by two machine readings. Nothing was requested, because no pass follows. Twelve backlog papers stay unread, among them Carlson 2022, Petts 2025 (cognitive housework), Van Willigen 2001, Chong 2013 and Lively 2010. Smith, Gager & Morgan 1998 and Grote & Clark 2001 were cited for C8 and C4/C5 and never entered the ledger.",
+    "Pass 4: library.py info failed with FileNotFoundError for papers that also hold an abstract-only version (no source.pdf); readers took chunk and hash data from the version manifest. Greenstein 1996 and Braun 2008 notes overwrote earlier abstract-only notes."
   ],
   "passes": [
     {
@@ -460,6 +462,15 @@
       "status": "awaiting_papers",
       "sequential_fallback": false,
       "reads": 9
+    },
+    {
+      "n": 4,
+      "started": "2026-11-18T22:02:24Z",
+      "branch": "research/perceived-fairness-fulltext",
+      "ended": "2026-11-18T22:11:44Z",
+      "status": "evidence_thin",
+      "sequential_fallback": false,
+      "reads": 7
     }
   ],
   "corrections": [
